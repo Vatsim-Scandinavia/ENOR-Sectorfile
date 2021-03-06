@@ -1,0 +1,89 @@
+[DCL]
+DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENGM:AHDG:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENGM:SID:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENBR:AHDG:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENBR:SID:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENBO:AHDG:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENBO:SID:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENTC:AHDG:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENTC:SID:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENZV:AHDG:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENZV:SID:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENCN:AHDG:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENCN:SID:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENTO:AHDG:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENTO:SID:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENAL:AHDG:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENAL:SID:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+
+
+
+
+
+[FREETEXT]
+FREETEXT:NE:INDENTIFICATION SERVICE TERMINATED
+FREETEXT:NE:ALL ATS TERMINATED
+FREETEXT:WU:MONITOR @UNICOM @ON @122.800
+FREETEXT:R:INDENTIFICATION LOST
+FREETEXT:R:NO DELAY EXPECTED
+FREETEXT:R:DELAY NOT DETERMINED
+FREETEXT:WU:CALL ON VOICE 15NM PRIOR TO TOD
+FREETEXT:NE:CONTACT @POLARIS ACC @ON @VOICE CHANNEL
+
+
+
+[STATIONS]
+
+LOGIN:ENO1:POLARIS CTL:1R
+LOGIN:ENO2:POLARIS CTL:2R
+LOGIN:ENO3:POLARIS CTL:3R
+LOGIN:ENO4:POLARIS CTL:4R
+LOGIN:ENO5:POLARIS CTL:5R
+LOGIN:ENO6:POLARIS CTL:6R
+LOGIN:ENO7:POLARIS CTL:7R
+LOGIN:ENO8:POLARIS CTL:8R
+
+LOGIN:ENS9:POLARIS CTL:9R
+LOGIN:ENS1:POLARIS CTL:10R
+LOGIN:ENS2:POLARIS CTL:12R
+LOGIN:ENS9:POLARIS CTL:13R
+LOGIN:ENS9:POLARIS CTL:14R
+LOGIN:ENS9:POLARIS CTL:15R
+LOGIN:ENS9:POLARIS CTL:17R
+
+LOGIN:ENB8:POLARIS CTL:18R
+LOGIN:ENB9:POLARIS CTL:19R
+LOGIN:ENB4:POLARIS CTL:24R
+LOGIN:ENB5:POLARIS CTL:25R
+LOGIN:ENB6:POLARIS CTL:26R
+
+
+LOGIN:ENOR:POLARIS CTL:NO
+LOGIN:ENNS:POLARIS CTL:NS
+LOGIN:ENOB:BODO OCA CTL:R6
+
+LOGIN:ESOS:SWEDEN CTL:ES
+LOGIN:ESO3:SWEDEN CTL:ES3
+LOGIN:ESON:SWEDEN CTL:ESN
+LOGIN:ESOK:SWEDEN CTL:ESK
+
+LOGIN:ESM2:SWEDEN CTL:EM2
+LOGIN:ESM4:SWEDEN CTL:EM4
+LOGIN:ESMM:SWEDEN CTL:EM5
+
+LOGIN:EKDK:COPENHAGEN CTL:EK
+LOGIN:EKDC:COPENHAGEN CTL:EKC
+LOGIN:EKDV:COPENHAGEN CTL:EKV
+LOGIN:EKDN:COPENHAGEN CTL:EKN
+
+LOGIN:EURN:EUROCONTROL:EN
+LOGIN:EURI:EUROCONTROL:EI
+
+LOGIN:EFES:HELSINKI CTL:EF
+LOGIN:EFEF:HELSINKI CTL:EFF
+LOGIN:EFEG:HELSINKI CTL:EFG
+LOGIN:EFEH:HELSINKI CTL:EFH
+LOGIN:EFEJ:HELSINKI CTL:EFJ
+LOGIN:EFEM:HELSINKI CTL:EFM
