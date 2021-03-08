@@ -2724,7 +2724,7 @@ SYMBOL:VFR FULL:N058.50.58.000:E005.32.55.000:VIGDEL:0:10
 SYMBOL:VFR:N058.45.58.000:E005.50.55.000:AALGAARD:0:10
 
 
-//------------FREQUENCY------------//
+//------------ATS Frequencys INT------------//
 
 
 //ESMM 4
