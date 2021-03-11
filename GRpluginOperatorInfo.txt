@@ -49,6 +49,7 @@ CNT	C
 CNV	Mil
 CRG	C
 CSB	C
+CSG	C
 CTJ	C
 CTM	Mil
 CTW	C
@@ -100,7 +101,6 @@ GAM	Mil
 GBC	C
 GBO	C
 GCL	C
-GCO	C
 GDQ	Mil
 GEC	C
 GGC	C
@@ -115,6 +115,7 @@ GNY	Mil
 GOL	C
 GSC	C
 GTI	C
+GXA	C
 HAF	Mil
 HEX	C
 HKC	C
@@ -144,6 +145,7 @@ KIN	Mil
 KIW	Mil
 KJD	Mil
 KRC	Mil
+KXP	C
 KZU	C
 LAF	Mil
 LBF	Mil
@@ -153,7 +155,6 @@ LCR	C
 LCS	Mil
 LEE	Mil
 LFR	C
-LGF	C
 LMG	Mil
 LOP	Mil
 LOS	Mil
