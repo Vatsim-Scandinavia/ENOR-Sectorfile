@@ -11,10 +11,12 @@ Label_AFL+VS=1,0,0
 Label_GS=1,1,1
 Track_PredictionLine_APP=1
 Track_Heading_Line=1
-Window_APP_Extensions=1
-Window_APP_Rotation=-15
+Window_APP_Extensions=15
 RawVideo=0
+Window_APP_Scale=15
+Window_APP_AltFilter=20000
 [ENGM]
+Window_APP_Rotation=-15
 Airport_Refpoint=N060.11.43.940:E011.05.59.857
 Airport_Elevation=681
 Airport_Radius=1.5
@@ -39,6 +41,7 @@ GroundLabel_Transparency_Bd=255
 GroundLabel_Transparency_Bg=75
 System_APM=0
 [ENBR]
+Window_APP_Rotation=100
 Airport_Elevation=166
 Airport_Radius=1.0
 Airport_Runway_End=17:N060.18.23.800:E005.12.49.300
