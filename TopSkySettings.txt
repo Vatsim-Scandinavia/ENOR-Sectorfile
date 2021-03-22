@@ -409,6 +409,12 @@ Window_ASM_Chars_User=12
 Window_QNHTL=1,1780,460
 
 
+//Global Scaling
+System_GUI_Scale_GlobalMenu=1.2
+
+//Radar Menu Scaling
+System_GUI_Scale_Menus=1.2
+
 
 //---------- Sector Settings ----------//
 
