@@ -1,3 +1,8 @@
+//-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY CPDLC -------// 
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob Brønstad or Adrian Bjerke. -------//
+
+
+
 [DCL]
 DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
 DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE

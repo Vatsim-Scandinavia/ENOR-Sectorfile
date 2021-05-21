@@ -1,3 +1,8 @@
+//-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY AREAS -------// 
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+
+
+
 ;[of]Definitions:Definitions
 CATEGORYDEF:D:5:0:0:0:0:0:0:0:1:1:0
 CATEGORYDEF:R:5:0:0:0:0:0:0:0:1:1:0

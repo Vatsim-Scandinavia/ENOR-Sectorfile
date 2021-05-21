@@ -1,3 +1,8 @@
+//-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SSR CODES -------// 
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+
+
+
 // EUR-A DA:GC:GM:LE:LP
 // EUR-B EB:ED:EDYY:EG:EH:EI:LE:LF:LS
 // EUR-C EE:EF:EK:EN:ES:EV

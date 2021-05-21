@@ -1,3 +1,8 @@
+//-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SYMBOLS -------// 
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+
+
+
 //History dot symbol//
 SYMBOL:RPSH
 MOVETO:-1:-1
