@@ -1,6 +1,6 @@
 Setup_AutoSignIn=1
-Window_LFUNCFP=1,2400,500
-Window_QNHTL=1,2400,660
+Window_LFUNCFP=1,2390,500
+Window_QNHTL=1,2390,660
 Window_MsgIn=1,1100,45
 Window_MsgOut=1,1500,45
 Window_LostList=-1,2050,45
