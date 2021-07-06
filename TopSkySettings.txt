@@ -15,7 +15,6 @@ Setup_COOPANS=0
 
 
 Color_Active_Map_Type_1=87,87,164   
-
                                     //rgb(87,87,164)
 Color_Active_Map_Type_2=80,162,74   
                                     //rgb(80,162,74)
@@ -317,6 +316,7 @@ Color_WM_Frame=88,95,99
 
 
 
+
 //---------- Settings ----------//
 
 Airspace_ASSR_EndCode=7477
@@ -413,12 +413,6 @@ Window_ASM_Chars_User=12
 
 Window_QNHTL=1,1780,460
 
-
-//Global Scaling
-System_GUI_Scale_GlobalMenu=1.2
-
-//Radar Menu Scaling
-System_GUI_Scale_Menus=1.2
 
 
 //---------- Sector Settings ----------//
