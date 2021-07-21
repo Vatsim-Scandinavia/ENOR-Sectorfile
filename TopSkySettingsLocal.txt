@@ -31,4 +31,4 @@ Window_MsgOut=0,1500,45
 
 
 [_CTR]
-
+dette er en test
