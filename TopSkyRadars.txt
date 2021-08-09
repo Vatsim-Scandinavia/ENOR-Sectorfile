@@ -1,11 +1,11 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A BrÃ¸nstad or Adrian Bjerke. -------//
 
 
 
 //Norwegian Primary Radars
 
-//Bodø PSR
+//Bodï¿½ PSR
 RADAR:BOD
 POSITIONS:ENBO_APP:ENBD:ENOR
 LOCATION:N067.15.51.200:E014.21.15.000
@@ -14,7 +14,7 @@ BEAMWIDTH:1.6
 MAXANGLE:70
 RANGE:0.2:60.0
 
-//Ørland PSR
+//ï¿½rland PSR
 RADAR:OEL
 POSITIONS:ENOL_APP:ENBD:ENOR
 LOCATION:N063.48.22.300:E009.44.09.800
@@ -81,7 +81,7 @@ PULSEWIDTH:0.96
 MAXANGLE:70
 RANGE:1.0:240.0
 
-//Sindre I_VÅG
+//Sindre I_Vï¿½G
 RADAR:Sindre I_VAG
 POSITIONS:ENOR:ENSV:ENOS:ENBD
 LOCATION:N061.59.59.200:E005.02.57.100
