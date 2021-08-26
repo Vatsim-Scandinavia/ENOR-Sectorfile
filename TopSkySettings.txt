@@ -426,17 +426,22 @@ Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENCN
 Setup_ScreenLat=ENGM
 
+
+
 [ENGM_]
 Setup_LoadMap=MVA\MVA ENGM
 Setup_ScreenLat=ENGM
+
 
 [ENTO_]
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENTO
 
+
 [ENRY_]
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENRY
+
 
 [ENCN_]
 Setup_LoadMap=MVA\MVA ENCN
