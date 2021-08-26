@@ -3,14 +3,12 @@
     "timelines": {
         "19R/19L": {
             "targetFixes": [ "GSW40", "GME40" ],
-            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
-            "tagLayout": "19L/19R",
+            "tagLayout": "myLayout",
             "destinationAirports": [ "ENGM" ]
         },
         "01L/01R": {
             "targetFixes": [ "OBW40", "ONE40" ],
-            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
-            "tagLayout": "01L/01R",
+            "tagLayout": "myLayout",
             "destinationAirports": [ "ENGM" ]
         }
     },
@@ -34,3 +32,4 @@
         ]
     }
 }
+
