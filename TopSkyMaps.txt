@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY MAPS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brï¿½nstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
 
 
 
@@ -3286,6 +3286,3 @@ SYMBOL:FIX:BAVTA:BAVTA:20:10
 SYMBOL:FIX:TNO:TNO(EKCH):20:10
 
 
-
-
-; Jeg liker Ã¥ skrive tekst i Jakob sine dokumenter.
