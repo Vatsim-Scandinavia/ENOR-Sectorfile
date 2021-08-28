@@ -48,7 +48,7 @@ ENBD_E_CTR Polaris Control
 ENBD_N_CTR Polaris Control
 ENBD_C_CTR Polaris Control
 ENBD_S_CTR Polaris Control
-ENBD_H_CTR Polaris Control (Helgeland)
+ENBN_APP Polaris Control (Helgeland)
 ENBD_O_CTR Polaris Control (Offshore)
 ENBD_1_CTR Polaris Control
 ENBD_2_CTR Polaris Control
