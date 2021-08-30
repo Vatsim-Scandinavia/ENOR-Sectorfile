@@ -165,6 +165,13 @@ Color_Warning_FL=240,225,41
                                     //rgb(240,225,41)
 
 
+//BUG IN SYSTEM//
+SAP=0
+MTCD=0
+//BUG IN SYSTEM//
+
+
+
 
 //---------- Settings ----------//
 
