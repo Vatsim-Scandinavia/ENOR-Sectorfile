@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SYMBOLS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A BrÃ¸nstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
 
 
 
@@ -24,6 +24,9 @@ LINETO:7:0
 MOVETO:-4:0
 LINETO:-7:0
 
+//MARKER//
+SYMBOL:MARKER
+FILLARC:0:0:1:0:360
 
 //FIX//
 SYMBOL:FIX

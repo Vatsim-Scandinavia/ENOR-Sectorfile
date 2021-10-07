@@ -1,27 +1,27 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY CPDLC -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob BrÃ¸nstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob Brønstad or Adrian Bjerke. -------//
 
 
 
 [DCL]
-DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENGM:AHDG:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENGM:SID:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> SLOT TIME <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENBR:AHDG:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENBR:SID:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENBO:AHDG:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENBO:SID:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENTC:AHDG:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENTC:SID:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENZV:AHDG:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENZV:SID:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENCN:AHDG:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENCN:SID:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENTO:AHDG:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENTO:SID:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENAL:AHDG:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
-DCL:ENAL:SID:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> EOBT <eobt> <rfreq> <qnh> END OF MESSAGE
+DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENGM:AHDG:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENGM:SID:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENBR:AHDG:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENBR:SID:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENBO:AHDG:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENBO:SID:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENTC:AHDG:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENTC:SID:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENZV:AHDG:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENZV:SID:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENCN:AHDG:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENCN:SID:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENTO:AHDG:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENTO:SID:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENAL:AHDG:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENAL:SID:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
 
 
 
@@ -53,17 +53,16 @@ LOGIN:ENO8:POLARIS CTL:8R
 LOGIN:ENS9:POLARIS CTL:9R
 LOGIN:ENS1:POLARIS CTL:10R
 LOGIN:ENS2:POLARIS CTL:12R
-LOGIN:ENS9:POLARIS CTL:13R
-LOGIN:ENS9:POLARIS CTL:14R
-LOGIN:ENS9:POLARIS CTL:15R
-LOGIN:ENS9:POLARIS CTL:17R
+LOGIN:ENS3:POLARIS CTL:13R
+LOGIN:ENS4:POLARIS CTL:14R
+LOGIN:ENS5:POLARIS CTL:15R
+LOGIN:ENS7:POLARIS CTL:17R
 
 LOGIN:ENB8:POLARIS CTL:18R
 LOGIN:ENB9:POLARIS CTL:19R
 LOGIN:ENB4:POLARIS CTL:24R
 LOGIN:ENB5:POLARIS CTL:25R
 LOGIN:ENB6:POLARIS CTL:26R
-
 
 LOGIN:ENOR:POLARIS CTL:NO
 LOGIN:ENNS:POLARIS CTL:NS
@@ -79,12 +78,13 @@ LOGIN:ESM4:SWEDEN CTL:EM4
 LOGIN:ESMM:SWEDEN CTL:EM5
 
 LOGIN:EKDK:COPENHAGEN CTL:EK
+LOGIN:EKDB:COPENHAGEN CTL:EK
+LOGIN:EKDD:COPENHAGEN CTL:EKD
 LOGIN:EKDC:COPENHAGEN CTL:EKC
 LOGIN:EKDV:COPENHAGEN CTL:EKV
 LOGIN:EKDN:COPENHAGEN CTL:EKN
 
 LOGIN:EURN:EUROCONTROL:EN
-LOGIN:EURI:EUROCONTROL:EI
 
 LOGIN:EFES:HELSINKI CTL:EF
 LOGIN:EFEF:HELSINKI CTL:EFF
@@ -92,3 +92,12 @@ LOGIN:EFEG:HELSINKI CTL:EFG
 LOGIN:EFEH:HELSINKI CTL:EFH
 LOGIN:EFEJ:HELSINKI CTL:EFJ
 LOGIN:EFEM:HELSINKI CTL:EFM
+
+LOGIN:EGPX:SCOTTISH CTL:PX
+LOGIN:SCOE:SCOTTISH CTL:PXE
+
+LOGIN:BIRD:REYKJAVIK OCA:RD
+LOGIN:BIR2:REYKJAVIK OCA:RD2
+LOGIN:BIR3:REYKAJVIK OCA:RD3
+LOGIN:BIR4:REYKJAVIK OCA:RD4
+LOGIN:BIR5:REYKJAVIK OCA:RD5

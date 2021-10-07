@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A BrÃ¸nstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
 
 
 
@@ -13,61 +13,16 @@ Setup_COOPANS=0
 
 //---------- Colors ----------//
 
-
-Color_Active_Map_Type_1=87,87,164   
-                                    //rgb(87,87,164)
-Color_Active_Map_Type_2=80,162,74   
-                                    //rgb(80,162,74)
-Color_Active_Map_Type_3=179,180,180 
-                                    //rgb(179,180,180)
-Color_Active_Map_Type_4=200,53,18   
-                                    //rgb(200,53,18)
-Color_Active_Map_Type_5=198,174,58 
+Color_Active_Map_Type_5=198,174,58
                                     //rgb(198,174,58)
-Color_Active_Map_Type_6=114,69,58   
-                                    //rgb(114,69,58)
-Color_Active_Map_Type_7=138,20,12
-                                    //rgb(138,20,12)
-Color_Active_Map_Type_8=195,186,69
-                                    //rgb(195,186,69)
-Color_Active_Map_Type_9=220,125,25
-                                    //rgb(220,125,25)
-Color_Active_Map_Type_10=255,255,255
-                                    //rgb(255,255,255)
-Color_Active_Map_Type_11=51,134,49
-                                    //rgb(51,134,49)
-Color_Active_Map_Type_12=41,102,255
-                                    //rgb(41,102,255)
-Color_Active_Map_Type_13=100,160,100
-                                    //rgb(100,160,100)
-Color_Active_Map_Type_14=141,184,236
-                                    //rgb(141,184,236)
-Color_Active_Map_Type_15=227,213,29
-                                    //rgb(227,213,29)
-Color_Active_Map_Type_16=60,60,60
-                                    //rgb(60,60,60)
-Color_Active_Map_Type_17=155,155,155
-                                    //rgb(155,155,155)
-Color_Active_Map_Type_18=183,26,19
-                                    //rgb(183,26,19)
-Color_Active_Map_Type_19=120,91,65
-                                    //rgb(120,91,65)
-Color_Active_Map_Type_20=138,69,58
-                                    //rgb(138,69,58)
 Color_Active_RD_Infill_Map=90,90,90
                                     //rgb(90,90,90)
 Color_Active_Sector=52,58,62
                                     //rgb(52,58,62)
-Color_Active_Text_Map=190,190,190
-                                    //rgb(190,190,190)
 Color_Active_RD_Map=150,41,43
                                     //rgb(150,41,43)
 Color_Active_Text_Map=190,190,190
                                     //rgb(190,190,190)
-Color_AIW_Intrusion=255,152,0
-                                    //rgb(255,152,0)
-Color_Arm=97,97,97
-                                    //rgb(97,97,97)
 Color_Assumed=255,255,255
                                     //rgb(255,255,255)
 Color_Background=30,30,30
@@ -77,69 +32,29 @@ Color_Border=51,51,52
 Color_BottomShadow=70,70,70
                                     //rgb(70,70,70)
 Color_CARD_Conflict_Number=9,10,11
-                                    //rgb(9,10,11)
+                                    //rgb(9,10,11) 
 Color_CARD_Mark_All=255,125,125
-                                    //rgb(255,125,125)
+                                    //rgb(255,125,125) 
 Color_CARD_Mark_Own=255,125,125
                                     //rgb(255,125,125)
-Color_CARD_Min_Sep=61,61,61
-                                    //rgb(61,61,61)
 Color_CARD_Time_Vector=170,231,197
                                     //rgb(170,231,197)
 Color_Concerned=188,188,188
                                     //rgb(188,188,188)
 Color_Coordination=150,150,150
-                                    //rgb(150,150,150)
-Color_CPDLC_Controller_Late=170,78,39
-                                    //rgb(170,78,39)
-Color_CPDLC_Discarded=128,128,128
-                                    //rgb(128,128,128)
-Color_CPDLC_DM_Request=30,250,250
-                                    //rgb(30,250,250)
-Color_CPDLC_Failed=170,78,39
-                                    //rgb(170,78,39)
-Color_CPDLC_Pilot_Late=170,78,39
-                                    //rgb(170,78,39)
-Color_CPDLC_Standby=170,78,39
-                                    //rgb(170,78,39)
-Color_CPDLC_UM_Clearance=30,250,250
-                                    //rgb(30,250,250)
-Color_CPDLC_Unable=170,78,39
-                                    //rgb(170,78,39)
-Color_CPDLC_Urgency=225,25,25
-                                    //rgb(225,25,25)
-Color_Datalink_Logged_On=145,145,145
-                                    //rgb(145,145,145)
-Color_East_NAT_Map=180,180,1
-                                    //rgb(180,180,1)
+                                    //rgb(150,150,150)   
 Color_Field_Highlight=72,72,73
                                     //rgb(72,72,73)
 Color_Flight_Highlight=36,41,45
-                                    //rgb(36,41,45)
+                                    //rgb(36,41,45)                                 
 Color_Flight_Leg=170,231,197
                                     //rgb(170,231,197)
 Color_Foreground=159,195,194 
                                     //rgb(159,195,194)
-Color_FPLSEP_Tool_1=255,170,46
-                                    //rgb(255,170,46)
-Color_FPLSEP_Tool_2=204,122,0
-                                    //rgb(204,122,0)
-Color_FPLSEP_Tool_3=170,102,0
-                                    //rgb(170,102,0)
-Color_FPLSEP_Tool_4=223,143,1
-                                    //rgb(223,143,1)
-Color_FPLSEP_Tool_5=255,195,75
-                                    //rgb(255,195,75)
-Color_Freq_Indicator=114,136,255
-                                    //rgb(114,136,255)
 Color_Global_Menu_Highlight=1,165,219
                                     //rgb(1,165,219)
 Color_Heading_Vector=190,160,6
                                     //rgb(190,160,6)
-Color_Inactive_Sector=67,73,76
-                                    //rgb(67,73,76)
-Color_Info_Coord=1,255,255
-                                    //rgb(1,255,255)
 Color_Information=0,232,0
                                     //rgb(0,232,0)
 Color_Information_FL=41,245,41
@@ -150,6 +65,10 @@ Color_Informed_2=255,195,75
                                     //rgb(255,195,75)
 Color_Informed_3=147,124,108
                                     //rgb(147,124,108)
+Color_Inactive_Sector=67,73,76
+                                    //rgb(67,73,76)
+Color_Info_Coord=1,255,255
+                                    //rgb(1,255,255)
 Color_Map_1=80,95,95
                                     //rgb(80,95,95)
 Color_Map_2=44,44,44
@@ -158,32 +77,14 @@ Color_Map_3=100,108,111
                                     //rgb(100,108,111)
 Color_Map_4=52,58,62
                                     //rgb(52,58,62)
-Color_Map_Auto_Label=159,159,160
-                                    //rgb(159,159,160)
-Color_Map_Auto_Symbol=159,159,160
-                                    //rgb(159,159,160)
-Color_Map_Border=134,134,135
-                                    //rgb(134,134,135)
-Color_Map_Hotspot=87,139,200
-                                    //rgb(87,139,200)
-Color_Map_Info=150,150,150
-                                    //rgb(150,150,150)
-Color_Map_Land=140,140,0
-                                    //rgb(140,140,0)
 Color_Map_Symbol=110,130,140
                                     //rgb(110,130,140)
 Color_Overflown=82,105,146
                                     //rgb(82,105,146)
-Color_Potential=41,40,216
-                                    //rgb(41,40,216)
-Color_Potential_FL=40,41,216
-                                    //rgb(40,41,216)
 Color_Preactive_Map=154,138,128
                                     //rgb(154,138,128)
 Color_Preactive_Text_Map=155,147,138
                                     //rgb(155,147,138)
-Color_Predisplay_Map=180,156,0
-                                    //rgb(180,156,0)
 Color_Proposition_Accepted=0,232,0
                                     //rgb(0,232,0)
 Color_Proposition_In=255,130,180
@@ -194,46 +95,18 @@ Color_Proposition=255,130,180
                                     //rgb(255,130,180)
 Color_QDM=190,160,6
                                     //rgb(190,160,6)
-Color_Raw_Video1=55,85,115
-                                    //rgb(55,85,115)
-Color_Raw_Video2=50,80,110
-                                    //rgb(50,80,110)
-Color_Raw_Video3=45,75,105
-                                    //rgb(45,75,105)
-Color_Raw_Video4=40,70,100
-                                    //rgb(40,70,100)
-Color_Raw_Video5=35,65,95
-                                    //rgb(35,65,95)
-Color_Raw_Video6=30,60,90
-                                    //rgb(30,60,90)
-Color_Raw_Video7=25,55,85
-                                    //rgb(25,55,85)
 Color_Redundant=64,159,255
-                                    //rgb(64,159,255)
-Color_Runway=116,200,71
-                                    //rgb(116,200,71)
-Color_Rwy_App_Line_Inuse=200,200,200
-                                    //rgb(200,200,200)
+                                    //rgb(64,159,255) 
 Color_Rwy_App_Line_Not_Inuse=80,80,80
                                     //rgb(80,80,80)
 Color_Rwy_Locked=41,210,41
                                     //rgb(41,210,41)
+Color_Selected_Period=255,255,41
+                                    //rgb(255,255,41)
 Color_Selected=61,121,148
                                     //rgb(61,121,148)
 Color_Selected_Group=226,210,210
                                     //rgb(226,210,210)
-Color_Selected_Period=255,255,41
-                                    //rgb(255,255,41)
-Color_SEP_Tool_1=153,217,234
-                                    //rgb(153,217,234)
-Color_SEP_Tool_2=255,153,184
-                                    //rgb(255,153,184)
-Color_SEP_Tool_3=255,209,143
-                                    //rgb(255,209,143)
-Color_SEP_Tool_4=197,64,212
-                                    //rgb(197,64,212)
-Color_SEP_Tool_5=140,140,255
-                                    //rgb(140,140,255)
 Color_Sid_Star_Allocation=15,185,15
                                     //rgb(15,185,15)
 Color_Sid_Star_No_Allocation=14,170,14
@@ -250,40 +123,22 @@ Color_SMW_Overlap_Box=207,207,207
                                     //rgb(207,207,207)
 Color_SMW_Overshoot=239,224,41
                                     //rgb(239,224,41)
-Color_Standard_Line_RDF=120,120,120
-                                    //rgb(120,120,120)
-//Color_Standard_Line_RDF=91,134,76
-                                    //rgb(91,134,76)
-Color_Standard_RDF=11,12,19
-                                    //rgb(11,12,19)
-Color_Suite_Highlight=0,220,255
-                                    //rgb(0,220,255)
 Color_System_Calculated_TOC=130,204,240
                                     //rgb(130,204,240)
 Color_System_Calculated_TOD=130,204,240
-                                    //rgb(130,204,240)
-Color_Text_Notes=255,255,255
-                                    //rgb(255,255,255)
-Color_TopShadow=155,158,159
-                                    //rgb(155,158,159)
+                                    //rgb(130,204,240)                     
 Color_Track_Default=210,210,210
                                     //rgb(210,210,210)
 Color_Track_Highlight=0,165,219
                                     //rgb(0,165,219)
-Color_Trough=97,99,97
-                                    //rgb(97,99,97)
+Color_Text_Notes=255,255,255
+                                    //rgb(255,255,255)
+Color_TopShadow=155,158,159
+                                    //rgb(155,158,159)
 Color_TSA_Active=93,138,195
-                                    //rgb(93,138,195)
-Color_TSA_Border_Highlight=200,53,18
-                                    //rgb(200,53,18)
-Color_TSA_Filter=255,253,255
-                                    //rgb(255,253,255)
-Color_TSA_Preactive=132,142,139
-                                    //rgb(132,142,139)
+                                    //rgb(93,138,195) 
 Color_Unconcerned=131,131,131
                                     //rgb(31,131,131)
-Color_Unknown=239,224,42
-                                    //rgb(239,224,42)
 Color_Urgency=225,25,25
                                     //rgb(225,25,25)
 Color_Urgency_FL=225,25,25
@@ -294,14 +149,6 @@ Color_VAW_Sector_Limits=145,95,30
                                     //rgb(145,95,30)
 Color_VAW_Track_Position=219,219,219
                                     //rgb(219,219,219)
-Color_Warning=240,225,41
-                                    //rgb(240,225,41)
-Color_Warning_FL=240,225,41
-                                    //rgb(240,225,41)
-Color_Weather_Map=0,0,86
-                                    //rgb(0,0,86)
-Color_West_NAT_Map=40,140,255
-                                    //rgb(40,140,255)
 Color_WM_Active_Fg=255,254,254
                                     //rgb(255,254,254)
 Color_WM_Bg=100,100,105
@@ -312,6 +159,11 @@ Color_WM_Fg=180,184,181
                                     //rgb(180,184,181)
 Color_WM_Frame=88,95,99
                                     //rgb(88,95,99)
+Color_Warning=240,225,41
+                                    //rgb(240,225,41)
+Color_Warning_FL=240,225,41
+                                    //rgb(240,225,41)
+
 
 
 
@@ -354,11 +206,9 @@ Label_GS_Digits=2
 Label_Rev_Highlight_Delta_ETN=15
 Label_UseTransferInColor=1
 Menu_MaxListItems=40
-MTCD_DeAcknowledge=1
-MTCD_Distance_Arr=50
+MTCD_Distance_Arr=30
 MTCD_Distance_Holding=30
 MTCD_Floor=11500
-MTCD_PLC_Time=5
 RDF_Accuracy=5
 RDF_Floor=2500
 RwyAppLines_Auto=0
@@ -407,6 +257,8 @@ Window_ASM_Chars_User=12
 
 
 
+
+
 //---------- Windows ----------//
 
 
@@ -415,6 +267,13 @@ Window_ASM_Chars_User=12
 Window_QNHTL=1,1780,460
 
 
+//---------- Runway Appline Settings ----------//
+
+
+RwyAppLines_Length=0
+RwyAppLines_Markers=20
+RwyAppLines_MarkerSpacing=1
+RwyAppLines_Auto=0
 
 //---------- Sector Settings ----------//
 
@@ -426,17 +285,22 @@ Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENCN
 Setup_ScreenLat=ENGM
 
+
+
 [ENGM_]
 Setup_LoadMap=MVA\MVA ENGM
 Setup_ScreenLat=ENGM
+
 
 [ENTO_]
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENTO
 
+
 [ENRY_]
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENRY
+
 
 [ENCN_]
 Setup_LoadMap=MVA\MVA ENCN
@@ -673,8 +537,6 @@ Setup_ScreenLat=ENBN
 
 [ENAS_]
 Setup_ScreenLat=ENAS
-
-
 
 
 
