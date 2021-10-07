@@ -15,7 +15,7 @@ Window_APP_Extensions=15
 RawVideo=0
 Window_APP_Scale=15
 Window_APP_AltFilter=20000
-System_AutoAssignDist=19
+System_AutoAssignDist=100
 [ENGM]
 Window_APP_Rotation=-15
 Airport_Refpoint=N060.11.43.940:E011.05.59.857
