@@ -4,24 +4,24 @@
 
 
 [DCL]
-DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENGM:AHDG:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENGM:SID:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENBR:AHDG:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENBR:SID:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENBO:AHDG:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENBO:SID:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENTC:AHDG:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENTC:SID:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENZV:AHDG:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENZV:SID:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENCN:AHDG:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENCN:SID:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENTO:AHDG:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENTO:SID:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENAL:AHDG:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
-DCL:ENAL:SID:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> <freq_own> <qnh> END OF MESSAGE
+DCL:ENVA:AHDG:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENVA:SID:ENVA PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENGM:AHDG:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENGM:SID:ENGM PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENBR:AHDG:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENBR:SID:ENBR PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENBO:AHDG:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENBO:SID:ENBO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENTC:AHDG:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENTC:SID:ENTC PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENZV:AHDG:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENZV:SID:ENZV PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENCN:AHDG:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENCN:SID:ENCN PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENTO:AHDG:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENTO:SID:ENTO PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENAL:AHDG:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> HDG <ahdg> VECTORS <npt> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
+DCL:ENAL:SID:ENAL PDC<number> CLD <hour><min> <year2><month2><day> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> report ready on <freq_own> <qnh> END OF MESSAGE
 
 
 
