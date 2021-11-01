@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY MAPS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brï¿½nstad or Adrian Bjerke. -------//
 
 
 
@@ -3234,7 +3234,7 @@ FOLDER:FREQ
 COLOR:FREQ
 FONTSIZE:+:1
 ACTIVE:ID:NO,NS,8R,4R,6R:*:EKV:*
-TEXT:N057.29.05.336:E010.02.39.176:126.055 EKV:0:0
+TEXT:N057.29.05.336:E010.02.39.176:126.050 EKV:0:0
 
 MAP:FREQUENCY
 FOLDER:FREQ
