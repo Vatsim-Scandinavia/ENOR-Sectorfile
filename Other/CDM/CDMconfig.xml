@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CDM>
+	<apt icao="ENGM" />
+	<defaultRate option="1" />
+	<rate ops="40" />
+	<rateLvo ops="20" />
+	<expiredCtot time="15" />
+	<ReaMsg minutes="0" />
+</CDM>
