@@ -47,8 +47,8 @@ Color_Field_Highlight=72,72,73
                                     //rgb(72,72,73)
 Color_Flight_Highlight=36,41,45
                                     //rgb(36,41,45)                                 
-Color_Flight_Leg=170,231,197
-                                    //rgb(170,231,197)
+Color_Flight_Leg=65,237,246
+                                    //rgb(65,237,246)
 Color_Foreground=159,195,194 
                                     //rgb(159,195,194)
 Color_Global_Menu_Highlight=1,165,219
