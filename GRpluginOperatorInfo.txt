@@ -1,10 +1,12 @@
 AAC	Mil
 AAH	C
+ABV	C
 ABW	C
 ACP	C
 ACQ	C
 ACU	C
 ACX	C
+ADZ	C
 AEG	C
 AFB	Mil
 AFP	Mil
@@ -22,6 +24,7 @@ BAF	Mil
 BAQ	C
 BBD	C
 BCS	C
+BCU	C
 BDA	C
 BDN	Mil
 BET	C
@@ -56,7 +59,6 @@ CTW	C
 CVK	C
 CWC	C
 CWL	Mil
-CXM	C
 CYG	C
 DAE	C
 DAF	Mil
@@ -95,7 +97,6 @@ FPR	Mil
 FQA	C
 FRG	C
 FRH	C
-FSG	C
 GAF	Mil
 GAM	Mil
 GBC	C
@@ -119,6 +120,7 @@ GXA	C
 HAF	Mil
 HEX	C
 HKC	C
+HLA	Mil
 HNA	Mil
 HRZ	Mil
 HTK	C
@@ -137,6 +139,7 @@ INP	Mil
 IRL	Mil
 JAE	C
 JCH	C
+JDL	C
 JEC	C
 JFE	C
 JUC	C
@@ -158,12 +161,14 @@ LFR	C
 LMG	Mil
 LOP	Mil
 LOS	Mil
+LSI	C
 LSV	Mil
 LTG	C
 LUT	C
 LYB	C
 LYC	C
 LYF	Mil
+MAG	Mil
 MBR	Mil
 MCX	C
 MDF	C
@@ -184,6 +189,7 @@ MTN	C
 NAB	C
 NAC	C
 NAF	Mil
+NAG	Mil
 NATO	Mil
 NCA	C
 NCL	C
@@ -217,6 +223,7 @@ RAX	C
 RCG	C
 RCH	Mil
 RCN	C
+RCR	C
 REX	C
 RFF	Mil
 RFR	Mil
@@ -248,6 +255,7 @@ SNC	C
 SOB	C
 SOO	C
 SQF	Mil
+SRB	Mil
 STN	Mil
 SUB	C
 SUI	Mil
@@ -261,6 +269,7 @@ TAY	C
 TCG	C
 TDG	C
 TFR	C
+TKC	C
 TMN	C
 TNG	Mil
 TOF	Mil
@@ -268,12 +277,12 @@ TRG	C
 TSU	C
 TTF	C
 TTG	C
-TUM	C
 TUN	Mil
 UAF	Mil
 UCC	C
 UCG	C
 UPS	C
+URO	C
 USR	Mil
 VAS	C
 VLA	C
@@ -287,6 +296,7 @@ WAC	C
 WAD	Mil
 WAG	Mil
 WAM	C
+WCM	C
 WIS	C
 WIT	Mil
 WTN	Mil
