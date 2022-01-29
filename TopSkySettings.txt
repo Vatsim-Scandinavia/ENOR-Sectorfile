@@ -207,6 +207,13 @@ Label_Rev_Highlight_Delta_ETN=15
 Label_UseTransferInColor=1
 List_OptionsInGlobalMenu=1
 List_VFR_2_Filter_State=1
+
+List_PreAct_NotStartedMustBeAssumed=0
+List_VFR_FPL_Filter=2
+List_Sector_Concerned=1
+List_Sector_Concerned_MaxTime=20
+
+
 Menu_MaxListItems=40
 MTCD_Distance_Arr=30
 MTCD_Distance_Holding=30
