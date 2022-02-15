@@ -182,7 +182,6 @@ Areas_Label_MapText=1
 Areas_NOTAM_Activation=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
-CPDLC_AutoAcceptLogon=1
 CPDLC_CFL=1
 CPDLC_DCT=1
 CPDLC_MinLevel=100
