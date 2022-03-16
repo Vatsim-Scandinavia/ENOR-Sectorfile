@@ -262,6 +262,9 @@ Window_ASM_Chars_Group=6
 Window_ASM_Chars_MapText=20
 Window_ASM_Chars_Cat=5
 Window_ASM_Chars_User=12
+Window_PDC_SetCFL=1
+Window_PDC_SetASSR=1
+
 
 
 
