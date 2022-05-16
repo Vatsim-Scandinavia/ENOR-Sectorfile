@@ -43,6 +43,7 @@ CFN	Mil
 CFT	C
 CGD	Mil
 CGF	C
+CHZ	C
 CJT	C
 CKK	C
 CLM	C
