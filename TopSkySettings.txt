@@ -438,6 +438,24 @@ Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
 Setup_ScreenLat=ENGM
 
+
+[ENRC_CTR]
+Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\MVA HELGELAND
+Setup_LoadMap=MVA\MVA ENDU
+Setup_LoadMap=MVA\MVA ENEV
+Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\MVA ENKR
+Setup_ScreenLat=ENVA
+
+[ENRC_S_CTR]
+Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\MVA FARRIS
+Setup_ScreenLat=ENGM
+
 [ENOB_CTR]
 Setup_ScreenLat=BJO
 
