@@ -1,0 +1,200 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:Delegated Airspace - BOHUS (ESMM -> ENOS):
+ARTCC boundary:Delegated Airspace - BORGE (ENBD -> ESOS):
+ARTCC boundary:Delegated Airspace - FINNSKOGEN (ESOS -> ENOS):
+ARTCC boundary:Delegated Airspace - HALTI (EFIN -> ENBD):
+ARTCC boundary:Delegated Airspace - KOSTER (ESMM -> ENOS):
+ARTCC boundary:Delegated Airspace - MANTO (EFIN -> ENBD):
+ARTCC boundary:Delegated Airspace - NOR 2 (ESOS -> ENOS):
+ARTCC boundary:Delegated Airspace - NORLI (ENBD -> ESOS):
+ARTCC boundary:Delegated Airspace - OSLOB (ENOS -> ESMM):
+ARTCC boundary:Delegated Airspace - SILVER (ESOS -> ENBD):
+ARTCC boundary:Delegated Airspace - ØRJE (ESMM -> OSLO TMA):
+ARTCC boundary:Release Area - TANUM:
+ARTCC boundary:Release Line - ENOS-EKDK:
+ARTCC boundary:Release Line - ESEBA:
+ARTCC boundary:Release Line - KIK:
+ARTCC boundary:Release Line - OGLAV:
+ARTCC boundary:Release line - OSKOK:
+ARTCC boundary:Release Line - XELVI:
+ARTCC high boundary:Sector - AOR - ENBD:
+ARTCC high boundary:Sector - AOR - ENOB:
+ARTCC high boundary:Sector - AOR - ENOS:
+ARTCC high boundary:Sector - AOR - ENSV:
+ARTCC high boundary:Sector Border - BGGL | BIRD_N:
+ARTCC high boundary:Sector Border - BIRD | BIRD_N:
+ARTCC high boundary:Sector Border - EFIN | ULMM:
+ARTCC high boundary:Sector Border - EGPX | BIRD:
+ARTCC high boundary:Sector Border - EKDK | EGPX:
+ARTCC high boundary:Sector Border - EKDK | ESMM:
+ARTCC high boundary:Sector Border - ESOS Splits:
+ARTCC high boundary:Sector Border - ESOS | EFIN:
+ARTCC high boundary:Sector Border - ESOS | ESMM:
+ARTCC high boundary:TMA - ENAN:
+ARTCC high boundary:TMA - ENAT:
+ARTCC high boundary:TMA - ENBO, Bodø:
+ARTCC high boundary:TMA - ENBR, Flesland:
+ARTCC high boundary:TMA - ENCN, Kjevik:
+ARTCC high boundary:TMA - ENDU:
+ARTCC high boundary:TMA - ENEV:
+ARTCC high boundary:TMA - ENGM, Oslo:
+ARTCC high boundary:TMA - ENKR:
+ARTCC high boundary:TMA - ENNA:
+ARTCC high boundary:TMA - ENOL, Ørland:
+ARTCC high boundary:TMA - ENTC:
+ARTCC high boundary:TMA - ENVA, Værnes:
+ARTCC high boundary:TMA - ENZV, Sola:
+ARTCC high boundary:TMA - ESKS, Sälen:
+ARTCC high boundary:TMA - Farris:
+ARTCC high boundary:TMA - Hammerfest:
+ARTCC high boundary:TMA - Helgeland:
+ARTCC high boundary:TMA - Lofoten:
+ARTCC high boundary:TMA - Møre:
+ARTCC low boundary:CTR - ENAL:
+ARTCC low boundary:CTR - ENAN:
+ARTCC low boundary:CTR - ENAT:
+ARTCC low boundary:CTR - ENBO:
+ARTCC low boundary:CTR - ENBR:
+ARTCC low boundary:CTR - ENCN:
+ARTCC low boundary:CTR - ENDU:
+ARTCC low boundary:CTR - ENEV:
+ARTCC low boundary:CTR - ENGM:
+ARTCC low boundary:CTR - ENHD:
+ARTCC low boundary:CTR - ENKB:
+ARTCC low boundary:CTR - ENKR:
+ARTCC low boundary:CTR - ENNA:
+ARTCC low boundary:CTR - ENOL:
+ARTCC low boundary:CTR - ENRY:
+ARTCC low boundary:CTR - ENTC:
+ARTCC low boundary:CTR - ENTO:
+ARTCC low boundary:CTR - ENVA:
+ARTCC low boundary:CTR - ENZV:
+ARTCC low boundary:CTR - ESKS Sälen:
+ARTCC low boundary:HTZ - ENVR:
+ARTCC low boundary:TIA - Finnmark:
+ARTCC low boundary:TIA - Longyear:
+ARTCC low boundary:TIA - Namsos:
+ARTCC low boundary:TIA - Røros:
+ARTCC low boundary:TIA - Sogn Border Only:
+ARTCC low boundary:TIA - Svalbard:
+ARTCC low boundary:TIA - Sørkjosen:
+ARTCC low boundary:TIZ - ENAS:
+ARTCC low boundary:TIZ - ENBL:
+ARTCC low boundary:TIZ - ENBN:
+ARTCC low boundary:TIZ - ENBS:
+ARTCC low boundary:TIZ - ENBV:
+ARTCC low boundary:TIZ - ENFL:
+ARTCC low boundary:TIZ - ENHF:
+ARTCC low boundary:TIZ - ENHK:
+ARTCC low boundary:TIZ - ENHV:
+ARTCC low boundary:TIZ - ENLK:
+ARTCC low boundary:TIZ - ENMH:
+ARTCC low boundary:TIZ - ENML:
+ARTCC low boundary:TIZ - ENMS:
+ARTCC low boundary:TIZ - ENNM:
+ARTCC low boundary:TIZ - ENNO:
+ARTCC low boundary:TIZ - ENOV:
+ARTCC low boundary:TIZ - ENRA:
+ARTCC low boundary:TIZ - ENRM:
+ARTCC low boundary:TIZ - ENRO:
+ARTCC low boundary:TIZ - ENRS:
+ARTCC low boundary:TIZ - ENSB:
+ARTCC low boundary:TIZ - ENSD:
+ARTCC low boundary:TIZ - ENSG:
+ARTCC low boundary:TIZ - ENSH:
+ARTCC low boundary:TIZ - ENSK:
+ARTCC low boundary:TIZ - ENSO:
+ARTCC low boundary:TIZ - ENSR:
+ARTCC low boundary:TIZ - ENSS:
+ARTCC low boundary:TIZ - ENST:
+ARTCC low boundary:TIZ - ENVD:
+Fixes:MASEV:symbol
+Fixes:OGLAV:symbol
+Fixes:OSKOK:symbol
+Fixes:SUVAR:symbol
+Fixes:TEKVA:symbol
+Fixes:XELVI:symbol
+Geo:GEO Denmark:
+Geo:GEO Mjøsa:
+Geo:GEO Norway North of 63N:
+Geo:GEO Norway South of 64N:
+Geo:GEO Svalbard:
+Geo:GEO Sweden Coastline:
+Runways:ENAL 06-24:centerline
+Runways:ENAN 14-32:centerline
+Runways:ENAS 12-30:centerline
+Runways:ENAT 11-29:centerline
+Runways:ENBL 07-25:centerline
+Runways:ENBM 09-27:centerline
+Runways:ENBN 03-21:centerline
+Runways:ENBO 07-25:centerline
+Runways:ENBR 17-35:centerline
+Runways:ENBS 03-21:centerline
+Runways:ENBV 06-24:centerline
+Runways:ENCN 03-21:centerline
+Runways:ENDU 10-28:centerline
+Runways:ENEG 04-22:centerline
+Runways:ENEV 17-35:centerline
+Runways:ENFL 07-25:centerline
+Runways:ENGK 05-23:centerline
+Runways:ENGM 01L-19R:centerline
+Runways:ENGM 01R-19L:centerline
+Runways:ENHA 15-33:centerline
+Runways:ENHD 13-31:centerline
+Runways:ENHF 04-22:centerline
+Runways:ENHK 11-29:centerline
+Runways:ENHV 08-26:centerline
+Runways:ENJA 06-24:centerline
+Runways:ENKB 07-25:centerline
+Runways:ENKJ 12-30:centerline
+Runways:ENKR 05-23:centerline
+Runways:ENLI 14-32:centerline
+Runways:ENLK 02-20:centerline
+Runways:ENMH 17-35:centerline
+Runways:ENML 07-25:centerline
+Runways:ENMS 15-33:centerline
+Runways:ENNA 16-34:centerline
+Runways:ENNM 07-25:centerline
+Runways:ENNO 12-30:centerline
+Runways:ENOL 15-33:centerline
+Runways:ENOV 06-24:centerline
+Runways:ENRA 13-31:centerline
+Runways:ENRE 12-30:centerline
+Runways:ENRM 04-22:centerline
+Runways:ENRO 13-31:centerline
+Runways:ENRS 02-20:centerline
+Runways:ENRY 12-30:centerline
+Runways:ENSB 10-28:centerline
+Runways:ENSD 08-26:centerline
+Runways:ENSG 06-24:centerline
+Runways:ENSH 01-19:centerline
+Runways:ENSK 08-26:centerline
+Runways:ENSO 14-32:centerline
+Runways:ENSR 14-32:centerline
+Runways:ENSS 15-33:centerline
+Runways:ENST 02-20:centerline
+Runways:ENTC 18-36:centerline
+Runways:ENTO 18-36:centerline
+Runways:ENVA 09-27:centerline
+Runways:ENVD 07-25:centerline
+Runways:ENZV 10-28:centerline
+Runways:ENZV 18-36:centerline
+Runways:ESKS 15-33:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:NATCON FDB-1-REAL
+WINDOWAREA:56.048118:-7.902166:65.290715:26.637510
