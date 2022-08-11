@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY MAPS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Bronstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Br?nstad or Adrian Bjerke. -------//
 
 
 
@@ -3851,11 +3851,11 @@ SYMBOL:FIX:TNO:TNO(EKCH):20:10
 
 //------------RELEASE LINE------------//
 
-MAP:JELØY
+MAP:JEL?Y
 FOLDER:RELEASE LINE
 COLOR:RELEASE_LINE
 STYLE:DOT
-SCTDATA:ARTCC\Release Line - JELØY
+SCTDATA:ARTCC\Release Line - JEL?Y
 ACTIVE:RWY:ARR:ENGM01L:DEP:*
 ACTIVE:RWY:ARR:ENGM01R:DEP:*
 
