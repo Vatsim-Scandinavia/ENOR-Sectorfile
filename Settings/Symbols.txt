@@ -1,0 +1,216 @@
+SYMBOLOGY
+SYMBOLSIZE
+Airports:symbol:9868950:1.0:0:0:7
+Airports:name:9868950:4.5:0:0:1
+Low airways:line:7302244:3.5:2:0:7
+Low airways:name:8896135:3.2:0:0:8
+High airways:line:7302244:3.5:2:0:7
+High airways:name:8896135:3.5:0:0:8
+Fixes:symbol:13158600:0.7:0:0:7
+Fixes:name:38144:3.5:0:0:2
+Sids:line:9783808:3.0:0:1:7
+Stars:line:683145:3.0:2:0:7
+ARTCC high boundary:line:13158600:3.0:0:0:7
+ARTCC boundary:line:13158600:1.5:2:0:7
+ARTCC low boundary:line:13158600:3.0:2:0:7
+Geo:line:2894892:3.0:0:1:7
+VORs:symbol:13158600:0.7:0:0:7
+VORs:name:38144:3.5:0:0:2
+VORs:frequency:9868950:3.5:0:0:2
+NDBs:symbol:13158600:0.7:0:0:7
+NDBs:name:38144:3.5:0:0:2
+NDBs:frequency:9868950:3.5:0:0:0
+Runways:centerline:13158600:3.5:0:0:7
+Runways:extended centerline:13158600:3.5:0:0:7
+Runways:name:13158600:3.5:0:0:7
+Datablock:non concerned:8618883:3.5:0:0:7
+Datablock:notified:12369084:3.5:0:0:7
+Datablock:assumed:15658734:3.5:0:0:7
+Datablock:transfer to me initiated:59392:3.5:0:0:7
+Datablock:redundant:16752448:3.5:0:0:7
+Datablock:information:65535:3.5:0:0:7
+Datablock:even flight level:16777215:3.5:0:0:7
+Datablock:odd flight level:16777215:3.5:0:0:7
+Datablock:arrivals:16777215:3.5:0:0:7
+Datablock:departures:16777215:3.5:0:0:7
+Datablock:user 1:21405:3.2:0:0:7
+Datablock:user 2:16744448:3.5:0:0:7
+Datablock:user 3:16777215:3.2:0:0:7
+Datablock:user 4:16777215:3.2:0:0:7
+Datablock:user 5:16777215:3.5:0:0:7
+Datablock:user 6:16777215:3.2:0:0:7
+Datablock:emergency:15658734:3.5:0:0:7
+Datablock:ongoing requested by me:11830015:3.5:0:0:7
+Datablock:ongoing requested by other:11830015:3.5:0:0:7
+Datablock:ongoing accepted:14474460:3.5:0:0:7
+Datablock:ongoing refused:2744816:3.5:0:0:7
+Datablock:detailed background:2959652:3.5:0:0:7
+Datablock:active item background:4802632:3.5:0:0:7
+Datablock:arrival background:1395241:3.5:0:0:7
+Datablock:departure background:4264977:3.5:0:0:7
+Datablock:AC list background:1973790:3.5:0:0:7
+Datablock:AC list selected background:3487029:3.5:0:0:7
+Datablock:dimmed at conflict detection:7766151:3.5:0:0:7
+Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
+Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
+Datablock:SCTA warning leader:3289855:3.5:0:3:7
+Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
+Controller:normal:9885590:3.5:0:0:7
+Controller:breaking:33023:3.5:0:0:7
+Controller:timeout:8355711:3.5:0:0:7
+Metar:normal:16776960:3.5:0:0:7
+Metar:modified:13408767:3.5:0:0:7
+Metar:timeout:16777215:3.5:0:0:7
+Other:wait:16777215:3.5:0:0:7
+Other:distance line:434366:3.5:0:0:7
+Other:distance values:434366:4.0:0:0:7
+Other:distance annotation:434366:3.5:0:0:7
+Other:separation leader:14272712:3.5:0:3:7
+Other:separation leader2:16777215:3.5:0:1:7
+Other:find:16777215:3.5:0:2:7
+Other:valid airway:14643200:3.0:0:0:7
+Other:bad direction airway:1579232:3.5:0:0:7
+Other:unconnected airway:14643200:3.5:0:0:7
+Other:direct no airway:14643200:3.5:0:0:7
+Other:free of conflict:65280:3.5:0:1:7
+Other:conflict warning:14643200:3.5:0:1:7
+Other:conflict detected:255:3.5:0:1:7
+Other:route annotation:16777215:3.0:0:0:7
+Other:freetext:12369084:3.0:0:0:7
+Other:range rings:9868950:5.0:0:0:2
+Other:off antenna range rings:255:5.0:0:0:2
+Other:plane range rings:5921370:5.0:0:0:2
+Other:manual taxi line:16777215:5.0:0:3:2
+Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
+Other:predefined taxi line:65280:5.0:0:3:2
+Other:terminal taxi line:255:5.0:0:3:2
+Other:list header:13158600:3.5:0:0:7
+Other:normal menu item:16777215:3.5:0:0:7
+Other:disabled menu item:8421504:3.5:0:0:7
+Transitions:transition grid:5263440:3.0:0:0:7
+Chat:text:16777215:3.5:0:0:7
+Chat:background:3289650:3.5:0:0:7
+Chat:name normal:16777215:3.5:0:0:7
+Chat:name unread:16776960:3.5:0:0:7
+Ground Network:exit:16711680:3.5:0:3:7
+Ground Network:taxiway:65280:3.5:0:3:7
+Ground Network:terminal taxiway:255:3.5:0:3:7
+Sector:line:1118617:3.0:0:1:7
+Sector:msaw:32768:2.0:0:2:7
+Sector:active sector background:788749:3.5:0:0:7
+Sector:inactive sector background:1248788:3.5:0:0:7
+SYMBOL:0
+SYMBOLITEM:MOVETO -3 0
+SYMBOLITEM:LINETO 5 0
+SYMBOLITEM:MOVETO -3 1
+SYMBOLITEM:LINETO 5 1
+SYMBOLITEM:MOVETO 0 -3
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO 1 -3
+SYMBOLITEM:LINETO 1 5
+SYMBOL:1
+SYMBOLITEM:MOVETO -4 3
+SYMBOLITEM:LINETO 0 -4
+SYMBOLITEM:LINETO 4 3
+SYMBOLITEM:LINETO -4 3
+SYMBOL:2
+SYMBOLITEM:MOVETO -4 3
+SYMBOLITEM:LINETO 0 -4
+SYMBOLITEM:LINETO 4 3
+SYMBOLITEM:LINETO -4 3
+SYMBOLITEM:SETPIXEL 0 0
+SYMBOL:3
+SYMBOLITEM:MOVETO -3 0
+SYMBOLITEM:LINETO 4 0
+SYMBOLITEM:MOVETO 0 -3
+SYMBOLITEM:LINETO 0 4
+SYMBOLITEM:MOVETO 2 -2
+SYMBOLITEM:LINETO -3 3
+SYMBOLITEM:MOVETO -2 -2
+SYMBOLITEM:LINETO 3 3
+SYMBOL:4
+SYMBOLITEM:MOVETO 0 -1
+SYMBOLITEM:LINETO 0 2
+SYMBOLITEM:MOVETO -1 0
+SYMBOLITEM:LINETO 2 0
+SYMBOL:5
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:6
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:7
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:8
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:9
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:10
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:11
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:12
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:13
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:14
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:15
+SYMBOLITEM:MOVETO 0 -12
+SYMBOLITEM:LINETO -2 -11
+SYMBOLITEM:LINETO -2 -2
+SYMBOLITEM:LINETO -12 4
+SYMBOLITEM:LINETO -12 7
+SYMBOLITEM:LINETO -2 4
+SYMBOLITEM:LINETO -2 9
+SYMBOLITEM:LINETO -6 11
+SYMBOLITEM:LINETO -6 14
+SYMBOLITEM:LINETO 0 12
+SYMBOLITEM:LINETO 6 14
+SYMBOLITEM:LINETO 6 11
+SYMBOLITEM:LINETO 2 9
+SYMBOLITEM:LINETO 2 4
+SYMBOLITEM:LINETO 12 7
+SYMBOLITEM:LINETO 12 4
+SYMBOLITEM:LINETO 2 -2
+SYMBOLITEM:LINETO 2 -11
+SYMBOLITEM:LINETO 0 -12
+SYMBOL:16
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:17
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:18
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:19
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:20
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:21
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:22
+SYMBOLITEM:MOVETO -3 7
+SYMBOLITEM:LINETO 3 7
+SYMBOLITEM:LINETO 3 -7
+SYMBOLITEM:LINETO -3 -7
+SYMBOLITEM:LINETO -3 7
+SYMBOL:23
+SYMBOLITEM:MOVETO 0 -12
+SYMBOLITEM:LINETO -2 -11
+SYMBOLITEM:LINETO -2 -3
+SYMBOLITEM:LINETO -8 -9
+SYMBOLITEM:LINETO -10 -7
+SYMBOLITEM:LINETO -3 0
+SYMBOLITEM:LINETO -10 7
+SYMBOLITEM:LINETO -8 9
+SYMBOLITEM:LINETO -2 3
+SYMBOLITEM:LINETO -2 12
+SYMBOLITEM:LINETO 2 12
+SYMBOLITEM:LINETO 2 3
+SYMBOLITEM:LINETO 8 9
+SYMBOLITEM:LINETO 10 7
+SYMBOLITEM:LINETO 3 0
+SYMBOLITEM:LINETO 10 -7
+SYMBOLITEM:LINETO 8 -9
+SYMBOLITEM:LINETO 2 -3
+SYMBOLITEM:LINETO 2 -11
+SYMBOLITEM:LINETO 0 -12
+m_ClipArea:0
+END
