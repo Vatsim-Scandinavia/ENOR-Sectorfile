@@ -9,5 +9,8 @@ Full sectorfile releases are available on AeroNav GNG - https://files.aero-nav.c
 
 Releases done in GitHub does not include all essential files for the sectorfile.
 
+# Bugs and feedback
+If you have observed any bugs or something that did not work as intended, please createa an issue within GitHub.
+
 # Maintainers
 The repository is maintained by the Norwegian sectorfile developers.
