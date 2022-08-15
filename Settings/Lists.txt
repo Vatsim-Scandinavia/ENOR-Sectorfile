@@ -1,5 +1,5 @@
 SIL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:47
 m_LineNumber:0
@@ -27,7 +27,7 @@ m_Column:CJI:7:0:26:6:20:1::::1:0.0
 m_Column:RMK:14:0:19:29:29:1::::1:0.0
 END
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:79
 m_LineNumber:0
@@ -57,10 +57,10 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:111
+m_Y:239
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:14
+m_OrderingColumn:3
 m_HeaderOnly:0
 m_Column:FR:2:1:63:0:0:1::::1:0.0
 m_Column:RWY:4:1:10050:19:0:1:TopSky plugin:::1:0.0
