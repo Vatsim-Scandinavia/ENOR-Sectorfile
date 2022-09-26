@@ -1,15 +1,41 @@
 {
     "openAutomatically": false,
     "timelines": {
-        "19R/19L": {
+        "GM 19R/19L": {
             "targetFixes": [ "GSW40", "GME40" ],
+            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "myLayout",
             "destinationAirports": [ "ENGM" ]
         },
-        "01L/01R": {
+        "GM 01L/01R": {
             "targetFixes": [ "OBW40", "ONE40" ],
+            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "myLayout",
             "destinationAirports": [ "ENGM" ]
+        },
+        "BR 17": {
+            "targetFixes": [ "BR04" ],
+            "viaFixes": [ "NIDGI", "LUNUR", "ETNOR", "PESUR", "MODNI", "GENVU", "ALUVA", "BADAB" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "ENBR" ]
+        },
+        "BR 35": {
+            "targetFixes": [ "BG04" ],
+            "viaFixes": [ "NIDGI", "LUNUR", "ETNOR", "PESUR", "MODNI", "GENVU", "ALUVA", "BADAB" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "ENBR" ]
+        },
+        "VA 09": {
+            "targetFixes": [ "TO03" ],
+            "viaFixes": [ "NUPGO", "MISVO", "NELSU", "VEVOD" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "ENVA" ]
+        },
+        "VA 27": {
+            "targetFixes": [ "TD48" ],
+            "viaFixes": [ "NUPGO", "MISVO", "NELSU", "VEVOD" ],
+            "tagLayout": "myLayout",
+            "destinationAirports": [ "ENVA" ]
         }
     },
     "tagLayouts": {
