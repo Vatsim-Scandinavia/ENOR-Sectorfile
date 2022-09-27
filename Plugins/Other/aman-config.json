@@ -14,25 +14,25 @@
             "destinationAirports": [ "ENGM" ]
         },
         "BR17": {
-            "targetFixes": [ "BR04" ],
+            "targetFixes": [ "ENBR" ],
             "viaFixes": [ "NIDGI", "LUNUR", "ETNOR", "PESUR", "MODNI", "GENVU", "ALUVA", "BADAB" ],
             "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENBR" ]
         },
         "BR35": {
-            "targetFixes": [ "BG04" ],
+            "targetFixes": [ "ENBR" ],
             "viaFixes": [ "NIDGI", "LUNUR", "ETNOR", "PESUR", "MODNI", "GENVU", "ALUVA", "BADAB" ],
             "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENBR" ]
         },
         "VA 09": {
-            "targetFixes": [ "TO03" ],
+            "targetFixes": [ "ENVA" ],
             "viaFixes": [ "VEVOD", "NELSU", "NUPGO", "MISVO" ],
             "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENVA" ]
         },
         "VA 27": {
-            "targetFixes": [ "TD48" ],
+            "targetFixes": [ "ENVA" ],
             "viaFixes": [ "VEVOD", "NELSU", "NUPGO", "MISVO" ],
             "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENVA" ]
@@ -42,7 +42,7 @@
         "DualrunwayLayout": [
             { "source": "assignedRunway", "width": 4 },
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
@@ -53,7 +53,7 @@
         ],
         "SinglerunwayLayout": [
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
