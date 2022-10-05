@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <CDM>
 	<ctot option="callsign" />
-	<rate ops="40" />
-	<rateLvo ops="10" />
-	<expiredCtot time="25" />
-	<realMode mode="false" />
+	<rate ops="60" />
+	<rateLvo ops="30" />
+	<expiredCtot time="15" />
+	<realMode mode="true" />
 	<Taxizones url="" />
 	<Ctot url="" />
 	<DefaultTaxiTime minutes="15" />
