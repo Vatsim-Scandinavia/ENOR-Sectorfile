@@ -7,4 +7,4 @@ ENBR:35=30_15
 ENVA:09=30_15
 ENVA:27=30_15
 
-<!-- ENBR and ENVA times are subject to quality control and just added for visual and testing purposes -->
+//ENBR and ENVA times are subject to quality control and just added for visual and testing purposes
