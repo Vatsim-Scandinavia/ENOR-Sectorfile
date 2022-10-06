@@ -1,10 +1,8 @@
-ENGM:01L=40_20
-ENGM:01R=40_20
-ENGM:19R=40_20
-ENGM:19L=40_20
-ENBR:17=30_15
-ENBR:35=30_15
-ENVA:09=30_15
-ENVA:27=30_15
-
-//ENBR and ENVA times are subject to quality control and just added for visual and testing purposes
+ENGM:01L=25_15
+ENGM:01R=25_15
+ENGM:19R=25_15
+ENGM:19L=25_15
+ENBR:17=20_8
+ENBR:35=20_8
+ENVA:09=20_8
+ENVA:27=20_8

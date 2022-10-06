@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <CDM>
 	<ctot option="callsign" />
-	<rate ops="60" />
-	<rateLvo ops="30" />
+	<rate ops="20" />
+	<rateLvo ops="8" />
 	<expiredCtot time="15" />
 	<realMode mode="true" />
 	<Taxizones url="" />
 	<Ctot url="" />
-	<DefaultTaxiTime minutes="15" />
+	<DefaultTaxiTime minutes="5" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
 	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
