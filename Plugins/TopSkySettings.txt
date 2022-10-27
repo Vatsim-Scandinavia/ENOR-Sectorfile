@@ -194,6 +194,7 @@ FPCP_4D=0
 HTTP_METAR_Server=https://aviationweather.gov/
 //HTTP_NOTAM_Area_Sched_Text=ACTIVATED
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
+HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
 HTTP_SIGMET_Server=https://aviationweather.gov/
 HTTP_TAF_Server=https://aviationweather.gov/
 Label_AHDG_Point_Label=2
