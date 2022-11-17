@@ -4,7 +4,7 @@
 	<rate ops="20" />
 	<rateLvo ops="8" />
 	<expiredCtot time="15" />
-	<realMode mode="true" />
+	<realMode mode="false" />
 	<Taxizones url="" />
 	<Ctot url="" />
 	<DefaultTaxiTime minutes="5" />
