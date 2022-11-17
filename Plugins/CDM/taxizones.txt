@@ -1,3 +1,5 @@
+//-------VATSIM SCANDINAVIA - POLARIS FIR - CDM TAXIZONES -------// 
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Magnus Rudjord or Adrian Bjerke. -------//
 #ENGM
 //Cargo
 ENGM:01L:60.190439722222:11.082722222222:60.194106111111:11.08495:60.193621111111:11.087642777778:60.190017777778:11.085562222222:11
