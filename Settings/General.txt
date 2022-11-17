@@ -151,7 +151,7 @@ m_X:10
 m_Y:384
 m_LineNumber:10
 m_Resizable:1
-m_OrderingColumn:1
+m_OrderingColumn:7
 m_HeaderOnly:0
 m_Column:E:2:1:9:0:0:1:CDM Plugin:::1:0.0
 m_Column:RWY:4:1:10050:19:0:1:TopSky plugin:::1:0.0
@@ -160,8 +160,8 @@ m_Column:TYPE:5:1:10028:24:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:ADES:5:1:10008:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:TOBT:5:1:4:114:115:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:TSAT:5:1:2:0:0:1:CDM Plugin:::1:0.0
-m_Column:SLOT:5:1:10:108:0:0:CDM Plugin:CDM Plugin::1:0.0
 m_Column:FLOW:9:1:11:0:0:1:CDM Plugin:::1:0.0
+m_Column:SLOT:7:1:10:108:0:0:CDM Plugin:CDM Plugin::1:0.0
 m_Column:STUP:6:1:12:106:0:1:CDM Plugin:CDM Plugin::0:0.0
 END
 TAXIOUT
