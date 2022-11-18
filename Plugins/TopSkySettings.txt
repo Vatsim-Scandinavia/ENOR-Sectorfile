@@ -296,6 +296,10 @@ Setup_LoadMap=MVA\MVA ENGM
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENCN
 Setup_ScreenLat=ENGM
+Setup_LoadMap=LOA\ENOS->ESOS
+Setup_LoadMap=LOA\ENOS->ESOS
+Setup_LoadMap=LOA\ENOR->EKDK
+
 
 
 
@@ -341,15 +345,19 @@ Setup_LoadMap=MVA\MVA ENTC
 Setup_LoadMap=MVA\MVA ENAT/HF/NA
 Setup_LoadMap=MVA\MVA ENKR
 Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBO
+
 
 [ENBD_S_CTR]
 Setup_LoadMap=MVA\MVA ENVA
 Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENVA
 
 [ENBD_9_CTR]
 Setup_ScreenLat=ENRO
+Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=MVA\MVA ENVA
 
 [ENBD_C_CTR]
@@ -357,12 +365,14 @@ Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBN
 
 [ENBD_E_CTR]
 Setup_LoadMap=MVA\MVA ENTC
 Setup_LoadMap=MVA\MVA ENAT/HF/NA
 Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENNA
 
 [ENBD_O_CTR]
@@ -427,6 +437,9 @@ Setup_LoadMap=MVA\MVA ENEV
 Setup_LoadMap=MVA\MVA ENTC
 Setup_LoadMap=MVA\MVA ENAT/HF/NA
 Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=LOA\ENBD->ESOS
+Setup_LoadMap=LOA\ENOS->ESOS
+Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENVA
 
 [ENOR_S_CTR]
@@ -437,6 +450,9 @@ Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=LOA\ENBD->ESOS
+Setup_LoadMap=LOA\ENOS->ESOS
+Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENGM
 
 
