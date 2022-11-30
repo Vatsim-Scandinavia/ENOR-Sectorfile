@@ -112,7 +112,7 @@ m_STCA_HighWarnTime:240
 m_STCA_ShowCFL:1
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
-m_AutoCorrelateDisabledSQs:1000,1200,2000,2200,7000,7700,7600,7500
+m_AutoCorrelateDisabledSQs:1000,1200,1234,2000,2200,5200,5300,7000,7100,7200,7700,7600,7500
 m_DontAutoCorrelateDuplicated:0
 m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:25000
