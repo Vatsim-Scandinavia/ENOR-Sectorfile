@@ -72,13 +72,13 @@ m_Column:SID:12:0:10011:17:0:1:TopSky plugin:::1:0.0
 m_Column: CFL:5:1:10049:12:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: ASSR:5:1:10042:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: RFL:4:1:10062:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
-m_Column:EOBT:5:1:10018:95:94:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CLR:3:1:10046:78:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:CJI:8:1:10061:6:20:1:TopSky plugin:::1:0.0
 m_Column::2:0:65:25:0:1::::1:0.0
 m_Column:STS:8:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:DSQ:4:1:10056:89:0:1:TopSky plugin:TopSky plugin::1:0.0
-m_Column:SLOT:5:1:10055:94:0:0:TopSky plugin:TopSky plugin::1:0.0
+m_Column:FLOW:8:1:11:0:0:0:CDM Plugin:::0:0.0
+m_Column:SLOT:5:1:10:108:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:RMK:15:0:19:29:0:1::::0:0.0
 END
 ARR
