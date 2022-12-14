@@ -5,8 +5,8 @@
 	<rateLvo ops="8" />
 	<expiredCtot time="15" />
 	<realMode mode="false" />
-	<Taxizones url="" />
-	<Ctot url="" />
+	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
+	<Ctot url="https://adbj.no/cdm/ctot.txt" />
 	<DefaultTaxiTime minutes="5" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
