@@ -323,6 +323,7 @@ Setup_LoadMap=MVA\MVA ENCN
 Setup_ScreenLat=ENCN
 
 [ENSV_]
+Setup_LoadMap=VFR/ENZV VFR Reporting Points
 Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_ScreenLat=ENBR
