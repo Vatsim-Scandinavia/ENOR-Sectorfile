@@ -184,10 +184,6 @@ PROFILE:ENZV_A_APP:150:5
 ATIS2:Sola Arrival
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
-PROFILE:ENZV_D_APP:150:5
-ATIS2:Sola Director
-ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
-ATIS4:
 PROFILE:ENZV_TWR:50:4
 ATIS2:Sola Tower
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
