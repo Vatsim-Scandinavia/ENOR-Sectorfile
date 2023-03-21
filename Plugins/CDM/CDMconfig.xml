@@ -2,7 +2,7 @@
 <CDM>
 	<rate ops="20" />
 	<rateLvo ops="8" />
-	<expiredCtot time="15" />
+	<expiredCtot time="10" />
 	<realMode mode="false" />
 	<Rates url="https://adbj.no/cdm/rate.txt" />
 	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
