@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <CDM>
-	<ctot option="callsign" />
 	<rate ops="20" />
 	<rateLvo ops="8" />
 	<expiredCtot time="10" />
 	<realMode mode="false" />
 	<Rates url="https://adbj.no/cdm/rate.txt" />
 	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
-	<Ctot url="https://adbj.no/cdm/ctot.txt" />
+	<Ctot code="" />
 	<DefaultTaxiTime minutes="5" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
