@@ -10,11 +10,11 @@ ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 
 PROFILE
 PROFILE:ENRC_S_CTR:316:6
-ATIS2:Bodø South RTC
+ATIS2:Bodø South RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 PROFILE:ENRC_CTR:316:6
-ATIS2:Bodø RTC
+ATIS2:Bodø RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 
@@ -103,35 +103,35 @@ ATIS4:
 
 ; --- ENGM ---
 PROFILE:ENGM_W_APP:150:5
-ATIS2:Oslo Approach West
+ATIS2:Oslo Approach
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_E_APP:150:5
-ATIS2:Oslo Approach East
+ATIS2:Oslo Approach
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_D_APP:150:5
 ATIS2:Oslo Director
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
-ATIS4:
+ATIS4:Callsign only on first contact
 PROFILE:ENGM_F_APP:150:5
 ATIS2:Oslo Final
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
-ATIS4:
+ATIS4:Callsign only on first contact
 PROFILE:ENGM_W_TWR:50:4
-ATIS2:Gardermoen Tower West
+ATIS2:Gardermoen Tower
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_E_TWR:50:4
-ATIS2:Gardermoen Tower East
+ATIS2:Gardermoen Tower
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_W_GND:20:3
-ATIS2:Gardermoen Ground West
+ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_E_GND:20:3
-ATIS2:Gardermoen Ground East
+ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_Q_GND:20:3
@@ -143,7 +143,7 @@ ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 PROFILE:ENGM_E_DEL:20:2
-ATIS2:Gardermoen Delivery East
+ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at feedback@vatsim-scandinavia.org
 ATIS4:
 
