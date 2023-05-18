@@ -16,7 +16,7 @@ If you have observed any bugs or something that did not work as intended, please
 - Adrian Bjerke
 - Jakob Brønstad
 - Krister Larsen
-- Magnus Rudjord
+- Magnus Rudjord (Alias/ATIS)
 - Bjørn Helge Småvollan
 
 # Discord
