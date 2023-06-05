@@ -1,0 +1,287 @@
+SIL
+m_Visible:1
+m_X:3
+m_Y:48
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:ETO:5:0:10034:35:0:1:TopSky plugin:::1:0.0
+m_Column:COPN:6:0:10004:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: PEL:5:0:10001:68:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column::1:0:65:25:0:1::::1:0.0
+m_Column: PS:6:0:10014:20:0:1:TopSky plugin:::1:0.0
+m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
+m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
+m_Column:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:  RFL:6:0:10006:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
+m_Column:ROUTE:15:0:10073:0:0:0:TopSky plugin:::1:0.0
+m_Column: :15:0:10074:0:0:0:TopSky plugin:::1:0.0
+m_Column: :16:0:10075:0:0:0:TopSky plugin:::1:0.0
+m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SQ:3:0:10026:27:0:0:TopSky plugin:TopSky plugin::1:0.0
+m_Column:STAR:8:0:10012:18:0:1:TopSky plugin:::1:0.0
+m_Column:RWY:4:0:10010:19:0:1:TopSky plugin:::1:0.0
+m_Column:STD:4:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:ETA:5:0:10033:35:0:1:TopSky plugin:::1:0.0
+m_Column:COPX:8:0:10005:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ETO:5:0:10035:35:0:1:TopSky plugin:::1:0.0
+m_Column: XFL:5:0:10003:24:99:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column::1:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column: NS:7:0:10057:0:0:1:TopSky plugin:::1:0.0
+END
+SEL
+m_Visible:1
+m_X:3
+m_Y:80
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:21
+m_HeaderOnly:0
+m_Column:ETO:5:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column:COPN:6:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column: PEL:5:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column::1:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column: PS:6:0:10057:0:0:1:TopSky plugin:::1:0.0
+m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
+m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
+m_Column:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:  RFL:6:0:10006:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
+m_Column:ROUTE:15:0:10073:0:0:0:TopSky plugin:::1:0.0
+m_Column: :15:0:10074:0:0:0:TopSky plugin:::1:0.0
+m_Column: :16:0:10075:0:0:0:TopSky plugin:::1:0.0
+m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SQ:3:0:10026:27:0:0:TopSky plugin:TopSky plugin::1:0.0
+m_Column:STAR:8:0:10012:18:0:1:TopSky plugin:::1:0.0
+m_Column:RWY:4:0:10010:19:0:1:TopSky plugin:::1:0.0
+m_Column:STD:4:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:ETA:5:0:10033:35:0:1:TopSky plugin:::1:0.0
+m_Column:COPX:8:0:10065:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ETO:5:0:10035:35:0:1:TopSky plugin:::1:0.0
+m_Column: XFL:5:0:10003:24:99:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column::1:0:65:25:0:1::::1:0.0
+m_Column: NS:7:0:10014:20:0:1:TopSky plugin:::1:0.0
+END
+DEP
+m_Visible:1
+m_X:3
+m_Y:112
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:TIME:5:0:10018:92:34:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SLOT:5:0:10055:94:0:0:TopSky plugin:TopSky plugin::1:0.0
+m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
+m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
+m_Column:STD:4:0:1:0:0:0:Ground Radar plugin:::1:0.0
+m_Column:ASSR:6:0:10020:62:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column: CFL:5:0:10049:109:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:accFL:6:0:10053:26:99:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column: RFL:5:0:10062:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
+m_Column:SQ:3:0:10056:89:90:0:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:RWY:4:0:10050:19:0:1:TopSky plugin:::1:0.0
+m_Column:SID:8:0:10011:17:0:1:TopSky plugin:::1:0.0
+m_Column:AHDG:6:0:10060:96:82:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:COPX:6:0:10052:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ROUTE:15:0:10063:0:0:1:TopSky plugin:::1:0.0
+m_Column: :16:0:10064:0:0:1:TopSky plugin:::1:0.0
+m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:CLR:5:0:10128:155:125:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column::2:0:65:25:0:1::::1:0.0
+m_Column:STATE:9:0:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:EST/DEP:7:1:10066:101:0:1:TopSky plugin:TopSky plugin::1:0.0
+END
+ARR
+m_Visible:0
+m_X:200
+m_Y:500
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
+m_Column: AFL:5:0:10013:22:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+END
+FP
+m_Visible:0
+m_X:3
+m_Y:500
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
+m_Column:FRUL:5:0:10031:0:0:1:TopSky plugin:::1:0.0
+m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
+m_Column:ETD:5:0:10018:34:0:1:TopSky plugin:::1:0.0
+m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:  RFL:6:0:10006:59:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ETA:5:0:10033:35:0:1:TopSky plugin:::1:0.0
+m_Column: LFUNC:7:0:10014:20:0:1:TopSky plugin:::1:0.0
+m_Column:TEXT:8:0:10058:11:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:TEXT2:6:0:10059:2:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:STS:5:0:82:34:0:1::::1:0.0
+END
+CONFLICT
+m_Visible:0
+m_X:3
+m_Y:700
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:TYPE:6:1:88:0:0:1::::1:0.0
+m_Column:C/S:7:0:9:0:0:1::::0:0.0
+m_Column:C/S:7:0:85:0:0:1::::0:0.0
+m_Column:START:6:1:86:0:0:1::::1:0.0
+m_Column:END:6:1:87:0:0:1::::1:0.0
+END
+PILOTING
+m_Visible:0
+m_X:3
+m_Y:800
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:*:4:0:90:41:0:1::::1:0.0
+m_Column:C/S:12:0:9:0:0:1::::0:0.0
+m_Column:SPD:5:0:94:12:0:1::::1:0.0
+m_Column:ALT:10:0:95:11:0:1::::1:0.0
+m_Column:HDG:10:0:96:14:0:1::::1:0.0
+m_Column:WP:6:0:91:42:0:1::::1:0.0
+m_Column:TO:4:0:100:37:0:1::::1:0.0
+m_Column:LAND:7:0:101:38:0:1::::1:0.0
+m_Column:TX:6:0:102:39:0:1::::1:0.0
+m_Column:TXB:6:0:103:40:0:1::::1:0.0
+m_Column:HOLD:5:0:104:43:0:1::::1:0.0
+END
+ORIGPLANE
+m_Visible:0
+m_X:70
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:12:0:9:0:0:1::::0:0.0
+m_Column:C:2:0:105:0:0:1::::1:0.0
+m_Column:APT:5:0:106:0:0:1::::1:0.0
+m_Column:DATA:7:0:107:0:0:1::::1:0.0
+m_Column:TIME:5:1:99:0:0:1::::1:0.0
+m_Column:TOBT:5:1:97:0:0:1::::1:0.0
+m_Column:SLOT:5:1:98:0:0:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:ADES:4:1:17:7:0:1::::1:0.0
+m_Column:SID:9:0:56:17:17:1::::1:0.0
+m_Column:CFL:4:1:20:11:0:1::::1:0.0
+m_Column:ASSR:5:1:60:31:31:1::::1:0.0
+m_Column:E:1:1:58:27:0:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+STUP
+m_Visible:0
+m_X:80
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:TIME:5:1:99:0:0:1::::1:0.0
+m_Column:TOBT:5:1:97:0:0:1::::1:0.0
+m_Column:SLOT:5:1:98:0:0:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:ADES:4:1:17:7:0:1::::1:0.0
+m_Column:SID:9:0:56:17:17:1::::1:0.0
+m_Column:CFL:4:1:20:11:0:1::::1:0.0
+m_Column:ASSR:5:1:60:31:31:1::::1:0.0
+m_Column:E:1:1:58:27:0:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+TAXIOUT
+m_Visible:0
+m_X:90
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:DSQ:3:1:57:0:0:1::::1:0.0
+m_Column:SLOT:5:1:98:0:0:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:ADES:4:1:17:7:0:1::::1:0.0
+m_Column:SID:9:0:56:17:17:1::::1:0.0
+m_Column:CFL:4:1:20:11:0:1::::1:0.0
+m_Column:ASSR:5:1:60:31:31:1::::1:0.0
+m_Column:E:1:1:58:27:0:1::::1:0.0
+m_Column:TTOT:5:1:99:0:0:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+TAKEOFF
+m_Visible:0
+m_X:100
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:DSQ:3:1:57:0:0:1::::1:0.0
+m_Column:SLOT:5:1:98:0:0:1::::1:0.0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:SID:9:0:56:17:17:1::::1:0.0
+m_Column:CFL:4:1:20:11:0:1::::1:0.0
+m_Column:ASSR:5:1:60:31:31:1::::1:0.0
+m_Column:E:1:1:58:27:0:1::::1:0.0
+m_Column:TTOT:5:1:99:0:0:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+ADCS
+m_Visible:0
+m_X:110
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:RUNW:4:1:47:19:19:1::::1:0.0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:COPX:5:0:51:21:21:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
+TAXIIN
+m_Visible:0
+m_X:120
+m_Y:100
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
+m_Column:STN:4:1:19:29:0:1::::1:0.0
+m_Column:ATYP:4:1:16:0:0:1::::1:0.0
+m_Column:STS:4:1:59:46:46:1::::1:0.0
+END
