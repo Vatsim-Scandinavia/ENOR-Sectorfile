@@ -1,7 +1,7 @@
 PROFILE
 PROFILE:ENOR_S_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Providing ATS in southern Norwegian airspace from ENVA and south.
+ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
