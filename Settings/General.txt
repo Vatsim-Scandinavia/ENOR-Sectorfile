@@ -160,8 +160,8 @@ m_Column:ADES:5:1:10008:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.
 m_Column:TOBT:5:1:4:114:115:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:TSAT:5:1:2:0:0:1:CDM Plugin:::1:0.0
 m_Column:FLOW:8:1:11:0:0:1:CDM Plugin:::1:0.0
-m_Column:EVT:5:1:15:129:0:1:CDM Plugin:CDM Plugin::0:0.0
-m_Column:SLOT:7:1:10:108:0:1:CDM Plugin:CDM Plugin::1:0.0
+m_Column:EVT:5:1:15:129:0:0:CDM Plugin:CDM Plugin::0:0.0
+m_Column:SLOT:7:1:10:108:0:0:CDM Plugin:CDM Plugin::1:0.0
 m_Column:STUP:6:1:12:106:0:1:CDM Plugin:CDM Plugin::0:0.0
 END
 TAXIOUT
