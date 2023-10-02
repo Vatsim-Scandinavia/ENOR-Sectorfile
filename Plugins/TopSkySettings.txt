@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brï¿½nstad or Adrian Bjerke. -------//
 
 
 
@@ -428,13 +428,10 @@ Setup_ScreenLat=ENVA
 
 [ENOR_S_CTR]
 Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=MVA\MVA ENCN
 Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENGM
@@ -452,7 +449,6 @@ Setup_LoadMap=MVA\MVA ENKR
 Setup_ScreenLat=ENVA
 
 [ENRC_S_CTR]
-Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=MVA\MVA ENCN
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENGM
