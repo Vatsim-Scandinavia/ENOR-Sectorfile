@@ -254,6 +254,9 @@ Window_ASM_Chars_Cat=5
 Window_ASM_Chars_User=12
 Window_PDC_SetCFL=1
 Window_PDC_SetASSR=1
+Window_DCL_SetASSR=1
+Window_DCL_SetCFL=1
+
 
 
 //---------- Windows ----------//
