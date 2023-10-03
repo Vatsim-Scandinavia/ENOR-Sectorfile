@@ -25,7 +25,7 @@ m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:SQ:3:0:10026:27:0:0:TopSky plugin:TopSky plugin::1:0.0
 m_Column:STAR:8:0:10012:18:0:1:TopSky plugin:::1:0.0
 m_Column:RWY:4:0:10010:19:0:1:TopSky plugin:::1:0.0
-m_Column:STD:4:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:ETA:5:0:10033:35:0:1:TopSky plugin:::1:0.0
 m_Column:COPX:8:0:10005:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:ETO:5:0:10035:35:0:1:TopSky plugin:::1:0.0
@@ -60,7 +60,7 @@ m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:SQ:3:0:10026:27:0:0:TopSky plugin:TopSky plugin::1:0.0
 m_Column:STAR:8:0:10012:18:0:1:TopSky plugin:::1:0.0
 m_Column:RWY:4:0:10010:19:0:1:TopSky plugin:::1:0.0
-m_Column:STD:4:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:ETA:5:0:10033:35:0:1:TopSky plugin:::1:0.0
 m_Column:COPX:8:0:10065:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:ETO:5:0:10035:35:0:1:TopSky plugin:::1:0.0
@@ -81,7 +81,7 @@ m_Column:SLOT:5:0:10055:94:0:0:TopSky plugin:TopSky plugin::1:0.0
 m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
-m_Column:STD:4:0:1:0:0:0:Ground Radar plugin:::1:0.0
+m_Column:STD:5:0:1:0:0:0:Ground Radar plugin:::1:0.0
 m_Column:ASSR:6:0:10020:62:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column: CFL:5:0:10049:109:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:accFL:6:0:10053:26:99:1:TopSky plugin::TopSky plugin:1:0.0

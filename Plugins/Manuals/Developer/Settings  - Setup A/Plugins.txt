@@ -59,7 +59,7 @@ TopSky plugin:ACList/SECTOR LIST/m_Column_15:ADES:5:0:10008:1001:7:1:TopSky plug
 TopSky plugin:ACList/SECTOR LIST/m_Column_16:SQ:3:0:10026:27:0:0:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/SECTOR LIST/m_Column_17:STAR:8:0:10012:18:0:1:TopSky plugin::
 TopSky plugin:ACList/SECTOR LIST/m_Column_18:RWY:4:0:10010:19:0:1:TopSky plugin::
-TopSky plugin:ACList/SECTOR LIST/m_Column_19:STD:4:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
+TopSky plugin:ACList/SECTOR LIST/m_Column_19:STD:5:0:2:1:0:0:Ground Radar plugin:Ground Radar plugin:
 TopSky plugin:ACList/SECTOR LIST/m_Column_20:ETA:5:0:10033:35:0:1:TopSky plugin::
 TopSky plugin:ACList/SECTOR LIST/m_Column_21:COPX:8:0:10065:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/SECTOR LIST/m_Column_22:ETO:5:0:10035:35:0:1:TopSky plugin::
