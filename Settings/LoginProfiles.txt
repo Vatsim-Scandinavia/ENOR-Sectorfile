@@ -13,8 +13,8 @@ PROFILE:ENRC_S_CTR:316:6
 ATIS2:Bodø South RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
-PROFILE:ENRC_CTR:316:6
-ATIS2:Bodø RTC (Remote tower)
+PROFILE:ENRC_N_CTR:316:6
+ATIS2:Bodø North RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 
