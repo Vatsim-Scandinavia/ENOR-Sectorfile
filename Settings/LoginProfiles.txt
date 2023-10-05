@@ -13,8 +13,8 @@ PROFILE:ENRC_S_CTR:316:6
 ATIS2:Bodø South RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
-PROFILE:ENRC_CTR:316:6
-ATIS2:Bodø RTC (Remote tower)
+PROFILE:ENRC_N_CTR:316:6
+ATIS2:Bodø North RTC (Remote tower)
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 
@@ -152,8 +152,8 @@ PROFILE:ENSV_CTR:311:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
-PROFILE:ENSV_10_CTR:311:6
-ATIS2:Polaris Control - Sector 10 & 11
+PROFILE:ENSV_W_CTR:311:6
+ATIS2:Polaris Control - Sector 10, 11, 15
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 PROFILE:ENSV_E_CTR:311:6
@@ -164,8 +164,8 @@ PROFILE:ENSV_14_CTR:311:6
 ATIS2:Polaris Control - Sector 14
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
-PROFILE:ENSV_15_CTR:311:6
-ATIS2:Polaris Control - Sector 15 & 16
+PROFILE:ENSV_16_CTR:311:6
+ATIS2:Polaris Control - Sector 16
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at feedback@vatsim-scandinavia.org
 PROFILE:ENSV_N_CTR:311:6
