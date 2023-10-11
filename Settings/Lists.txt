@@ -1,5 +1,5 @@
 SIL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:47
 m_LineNumber:0
@@ -27,9 +27,9 @@ m_Column:CJI:7:0:26:6:20:1::::1:0.0
 m_Column:RMK:14:0:19:29:29:1::::1:0.0
 END
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
-m_Y:79
+m_Y:92
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:3
@@ -57,7 +57,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:111
+m_Y:213
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:14
@@ -73,7 +73,7 @@ m_Column:SID:12:0:10011:17:0:1:TopSky plugin:::1:0.0
 m_Column: CFL:5:1:10049:12:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: ASSR:5:1:10042:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: RFL:4:1:10062:59:84:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
-m_Column:CLR:4:1:10128:155:125:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:CLR:3:1:10046:155:122:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:CJI:8:1:10061:6:20:1:TopSky plugin:::1:0.0
 m_Column::2:0:65:25:0:1::::1:0.0
 m_Column:STS:8:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
