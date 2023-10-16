@@ -24,6 +24,12 @@
             "viaFixes": [ "VEVOD", "NELSU", "NUPGO", "MISVO" ],
             "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENVA" ]
+        },
+        "ENZV":{
+            "targetFixes": [ "ENZV" ],
+            "viaFixes": [ "BEGOD", "KUNEM", "UNBUD", "RIVEX", "IDIPI", "ROPNO", "UPDER"  ],
+            "tagLayout": "SinglerunwayLayout",
+            "destinationAirports": [ "ENZV" ]
         }
     },
     "tagLayouts": {
