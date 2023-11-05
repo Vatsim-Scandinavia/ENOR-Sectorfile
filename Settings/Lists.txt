@@ -1,5 +1,5 @@
 SIL
-m_Visible:0
+m_Visible:1
 m_X:0
 m_Y:47
 m_LineNumber:0
@@ -27,7 +27,7 @@ m_Column:CJI:7:0:26:6:20:1::::1:0.0
 m_Column:RMK:14:0:19:29:29:1::::1:0.0
 END
 SEL
-m_Visible:0
+m_Visible:1
 m_X:0
 m_Y:92
 m_LineNumber:0
