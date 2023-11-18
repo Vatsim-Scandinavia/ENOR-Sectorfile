@@ -450,6 +450,10 @@ Setup_LoadMap=MVA\MVA ENCN
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_ScreenLat=ENGM
 
+[ENBN_APP]
+Setup_ScreenLat=ENBN
+Setup_LoadMap=MVA\MVA HELGELAND
+
 [ENOB_CTR]
 Setup_ScreenLat=BJO
 
