@@ -414,6 +414,10 @@ PROFILE:ENTC_TWR:50:4
 ATIS2:Tromsø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
+PROFILE:ENTC_DEL:20:2
+ATIS2:Tromsø Delivery
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Welcome to fly and see santa 2023
 PROFILE:ENSR_I_TWR:50:4
 ATIS2:Sørkjosen Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
