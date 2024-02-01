@@ -177,9 +177,17 @@ ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_O_CTR:311:6
-ATIS2:Polaris Control - Offshore
+ATIS2:Polaris Control - Offshore below FL85
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENLE_H_TWR:50:4
+ATIS2:Ekofisk Information (HFIS)
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Covering all platforms inside Ekofisk HTZ - vatglasses.uk
+PROFILE:ENGC_H_TWR:50:4
+ATIS2:Tampen Information (HFIS)
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Covering all platforms inside Tampen HTZ - vatglasses.uk
 PROFILE:ENZV_APP:148:5
 ATIS2:Sola Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
