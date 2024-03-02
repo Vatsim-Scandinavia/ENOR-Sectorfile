@@ -39,7 +39,7 @@ Window_APP_Extensions=0
 RawVideo=1
 RawVideo_Brightness=70
 RawVideo_MaxHistory=3
-
+//
 Window_APP_Scale=15
 Window_APP_AltFilter=20000
 System_AutoAssignDist=170
