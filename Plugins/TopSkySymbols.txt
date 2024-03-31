@@ -88,13 +88,13 @@ POLYGON:4:-4:4:4:-4:4:-4:-4
 
 //Denne vises ved SQ S//
 SYMBOL:DAPS
-MOVETO:5:0
-POLYGON:5:0:0:5:-5:0:0:-5
+MOVETO:-4:-4
+POLYGON:4:-4:4:4:-4:4:-4:-4
 
 //Denne vises ved SQ S//
 SYMBOL:DAPS_DIV
-MOVETO:5:0
-POLYGON:5:0:0:5:-5:0:0:-5
+MOVETO:-4:-4
+POLYGON:4:-4:4:4:-4:4:-4:-4
 
 
 //PSR+MSSR (Ident)//
