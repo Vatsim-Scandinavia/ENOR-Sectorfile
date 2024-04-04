@@ -65,7 +65,8 @@ m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:
-m_CorrelationMode:1
+m_SModeTransponders:ABCGHIJLMNPSTUVWYZ
+m_CorrelationMode:2
 m_CorrelationDistance:100
 m_SimulateRadars:1
 m_AllowCorrelatedTAGDown:1
@@ -131,6 +132,7 @@ m_ConnectTime:15
 m_AutoAssumeOnGroundStateChangeButton:0
 m_ShowTrackMilesInRouteButton:1
 m_FilterOutSquawks:
+m_EquipmentsIcaoFormat:1
 ORIGPLANE
 m_Visible:0
 m_X:70
