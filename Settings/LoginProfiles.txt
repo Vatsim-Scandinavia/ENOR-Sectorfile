@@ -3,6 +3,10 @@ PROFILE:ENOR_S_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENOR_SC_CTR:316:6
+ATIS2:Polaris Control
+ATIS3:Check where I cover at vatglasses.uk
+ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
@@ -44,12 +48,12 @@ PROFILE:ENOS_3_CTR:316:6
 ATIS2:Polaris Control - Sector 3
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENOS_CTR:316:6
-ATIS2:Polaris Control
+PROFILE:ENOS_4_CTR:316:6
+ATIS2:Polaris Control - Sector 4
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENOS_5_CTR:316:6
-ATIS2:Polaris Control - Sector 5
+PROFILE:ENOS_CTR:316:6
+ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_N_CTR:316:6
@@ -255,7 +259,7 @@ ATIS4:
 
 ; --- ENBD AOR ---
 PROFILE:ENBD_S_CTR:311:6
-ATIS2:Polaris Control
+ATIS2:Polaris Control - Sector 18
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_19_CTR:311:6
