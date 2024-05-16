@@ -431,6 +431,19 @@ Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENVA
 
+[ENOR_SC_CTR]
+Setup_LoadMap=MVA\MVA ENGM
+Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\MVA ENBR
+Setup_LoadMap=MVA\MVA ENZV
+Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=LOA\ENOS->ESOS
+Setup_LoadMap=LOA\ENOR->EKDK
+Setup_LoadMap=LOA\ENBD->ESOS
+Setup_ScreenLat=ENGM
+
 [ENOR_S_CTR]
 Setup_LoadMap=MVA\MVA ENGM
 Setup_LoadMap=MVA\MVA ENCN
