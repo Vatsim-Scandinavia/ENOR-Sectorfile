@@ -198,6 +198,7 @@ Label_WTC_Highlight_WTC=HJ
 List_OptionsInGlobalMenu=1
 List_VFR_2_Filter_State=1
 Label_ADES_MaxChars=2
+Label_AHDG_ShowDct=2
 List_PreAct_NotStartedMustBeAssumed=0
 List_VFR_FPL_Filter=2
 List_Sector_Concerned=1
