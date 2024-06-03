@@ -190,6 +190,7 @@ FPCP_4D=0
 Label_AHDG_Point_Label=2
 Label_AHDG_ShowExtra=1
 Label_ASP_Digits=3
+Label_Alt_Digits=2
 Label_CompCsCaps=1
 Label_GS_Digits=2
 Label_Rev_Highlight_Delta_ETN=15
