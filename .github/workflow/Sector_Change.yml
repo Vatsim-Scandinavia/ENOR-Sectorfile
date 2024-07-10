@@ -1,0 +1,31 @@
+name: Add comment
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'sectors'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: >
+            This issue has been tagged as sector related.
+            Here is a checklist of items to remember when editing sectors:
+
+            - [ ] Positions GNG
+            - [ ] Sectors GNG
+            - [ ] Login profiles
+            - [ ] AFV profiles
+            - [ ] CC Database
+            - [ ] Endorsement database
+            - [ ] Vatglasses update
+            - [ ] Vatspy update
+            - [ ] Other documentation?
