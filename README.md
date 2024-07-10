@@ -18,6 +18,8 @@ If you have observed any bugs or something that did not work as intended, please
 - Krister Larsen
 - Magnus Rudjord (Alias/ATIS)
 - Bjørn Helge Småvollan
+- Sander Lislott
+- Marius Linge
 
 # Discord
 We have an internal discord server for sectorfile development.\
