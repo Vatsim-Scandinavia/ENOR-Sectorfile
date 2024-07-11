@@ -18,14 +18,23 @@ jobs:
           NUMBER: ${{ github.event.issue.number }}
           BODY: >
             This issue has been tagged as sector related.
+            
             Here is a checklist of items to remember when editing sectors:
 
             - [ ] Positions GNG
+            
             - [ ] Sectors GNG
+            
             - [ ] Login profiles
+            
             - [ ] AFV profiles
+            
             - [ ] CC Database
+            
             - [ ] Endorsement database
+            
             - [ ] Vatglasses update
+            
             - [ ] Vatspy update
+            
             - [ ] Other documentation?
