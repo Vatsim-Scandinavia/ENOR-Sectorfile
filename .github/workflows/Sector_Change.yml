@@ -26,6 +26,8 @@ jobs:
             - [ ] Sectors GNG
             
             - [ ] Login profiles
+
+            - [ ] Topsky setup (.dcenter, MVA maps etc)
             
             - [ ] AFV profiles
 
