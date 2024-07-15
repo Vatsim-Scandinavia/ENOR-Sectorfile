@@ -374,10 +374,6 @@ PROFILE:ENBO_TWR:50:4
 ATIS2:Bodø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENBO_GND:20:3
-ATIS2:Bodø Ground
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
 PROFILE:ENRS_I_TWR:50:4
 ATIS2:Røst Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
