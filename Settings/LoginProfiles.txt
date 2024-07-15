@@ -398,6 +398,10 @@ PROFILE:ENEV_TWR:50:4
 ATIS2:Evenes Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
+PROFILE:ENEV_GND:20:3
+ATIS2:Evenes Ground
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:
 PROFILE:ENAN_APP:150:5
 ATIS2:Andøya Tower/Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
