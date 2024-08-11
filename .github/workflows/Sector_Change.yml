@@ -24,6 +24,8 @@ jobs:
             - [ ] Positions GNG
             
             - [ ] Sectors GNG
+
+            - [ ] Active sectorfile working?
             
             - [ ] Login profiles
 
