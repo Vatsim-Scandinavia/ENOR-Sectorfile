@@ -176,13 +176,10 @@ CPDLC_MinLevel=100
 CPDLC_PDC_PlaySound=1
 CPDLC_PlaySound=1
 CPDLC_Transfer=1
-
-
 Divergence_RAM_Uncontrolled=0
 Divergence_RAM_Limit=5
 Divergence_RAM_DCT_MaxTrkError=10
 Divergence_RAM_DCT_DelayTime=120
-
 Equip_UseCodes=0
 Equip_ModeS=ABCGHIJLMNPSTUVWYZ
 FlightLeg_LineWidth=1
@@ -208,10 +205,8 @@ Menu_MaxListItems=40
 MTCD_Distance_Arr=30
 MTCD_Distance_Holding=30
 MTCD_Floor=11500
-
 MTCD_Filter_Dep=1
 MTCD_PLC_Time=5
-
 RDF_Accuracy=5
 RDF_Floor=2500
 RwyAppLines_Auto=0
