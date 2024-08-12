@@ -34,7 +34,7 @@ Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:21405:3.2:0:0:7
-Datablock:user 2:16744448:3.5:0:0:7
+Datablock:user 2:16368132:3.5:0:0:7
 Datablock:user 3:16777215:3.2:0:0:7
 Datablock:user 4:16777215:3.2:0:0:7
 Datablock:user 5:16777215:3.5:0:0:7
