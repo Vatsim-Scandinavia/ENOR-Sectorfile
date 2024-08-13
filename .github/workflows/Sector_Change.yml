@@ -25,22 +25,20 @@ jobs:
             
             - [ ] Sectors GNG
 
-            - [ ] Active sectorfile working?
+            - [ ] Active sectorline
             
             - [ ] Login profiles
 
-            - [ ] Topsky setup (.dcenter, MVA maps etc)
+            - [ ] Topsky setup (.dcenter, MVA maps, freq display etc)
             
-            - [ ] AFV profiles
+            - [ ] AFV profiles (remember to check layout setup for other sectors)
 
             - [ ] VatATIS setup
             
             - [ ] CC Database
             
-            - [ ] Endorsement database
-            
             - [ ] Vatglasses update
             
-            - [ ] Vatspy update
+            - [ ] Vatspy update (enroute/airport) // Vataware update (TMA)
             
             - [ ] Other documentation?
