@@ -23,7 +23,7 @@ jobs:
 
             - [ ] Positions GNG
             
-            - [ ] Sectors GNG
+            - [ ] Sectors GNG (remember appart/deppart)
 
             - [ ] Active sectorline
             
