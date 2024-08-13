@@ -88,7 +88,7 @@ Color_Proposition=255,130,180
 Color_QDM=190,160,6
                                     //rgb(190,160,6)
 Color_Redundant=64,159,255
-                                    //rgb(64,159,255) 
+                                    //rgb(4,194,249) 
 Color_Rwy_App_Line_Not_Inuse=80,80,80
                                     //rgb(80,80,80)
 Color_Rwy_Locked=41,210,41
@@ -110,11 +110,7 @@ Color_SMW_Overlap=224,25,25
 Color_SMW_Overlap_Box=207,207,207
                                     //rgb(207,207,207)
 Color_SMW_Overshoot=239,224,41
-                                    //rgb(239,224,41)
-Color_System_Calculated_TOC=130,204,240
-                                    //rgb(130,204,240)
-Color_System_Calculated_TOD=130,204,240
-                                    //rgb(130,204,240)                     
+                                    //rgb(239,224,41)                     
 Color_Track_Default=210,210,210
                                     //rgb(210,210,210)
 Color_Track_Highlight=210,210,210
@@ -151,6 +147,7 @@ Color_Warning=240,225,41
                                     //rgb(240,225,41)
 Color_Warning_FL=240,225,41
                                     //rgb(240,225,41)
+
 
 
 
