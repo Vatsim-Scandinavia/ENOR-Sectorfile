@@ -138,8 +138,8 @@ PROFILE:ENGM_E_GND:20:3
 ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENGM_Q_GND:20:3
-ATIS2:Gardermoen Ground (Sequencer/Planner)
+PROFILE:ENGM_P_GND:20:3
+ATIS2:Gardermoen Ground (Planner)
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENGM_ICE_GND:20:3
