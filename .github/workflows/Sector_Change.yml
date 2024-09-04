@@ -22,6 +22,8 @@ jobs:
             Here is a checklist of items to remember when editing sectors:
 
             - [ ] Positions GNG
+
+            - [ ] Display GNG (SCT Entries/AoR Sectors)
             
             - [ ] Sectors GNG (remember appart/deppart)
 
@@ -42,3 +44,5 @@ jobs:
             - [ ] Vatspy update (enroute/airport) // Vataware update (TMA)
             
             - [ ] Other documentation?
+
+            - [ ] COPX
