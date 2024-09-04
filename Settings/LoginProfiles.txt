@@ -450,7 +450,7 @@ PROFILE:ENNA_APP:150:5
 ATIS2:Banak Tower/Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENNA_TWR:50:5
+PROFILE:ENNA_TWR:50:4
 ATIS2:Banak Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
