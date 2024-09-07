@@ -1,4 +1,4 @@
-SERVER_url=https://vacdm-dev.vatsim-germany.org
+SERVER_url=https://cdm.vatsim-scandinavia.org
 COLOR_lightgreen=127,252,73
 COLOR_lightblue=53,218,235
 COLOR_green=0,181,27
