@@ -1,0 +1,48 @@
+name: Add comment
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'sectors'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: >
+            This issue has been tagged as sector related.
+            
+            Here is a checklist of items to remember when editing sectors:
+
+            - [ ] Positions GNG
+
+            - [ ] Display GNG (SCT Entries/AoR Sectors)
+            
+            - [ ] Sectors GNG (remember appart/deppart)
+
+            - [ ] Active sectorline
+            
+            - [ ] Login profiles
+
+            - [ ] Topsky setup (.dcenter, MVA maps, freq display etc)
+            
+            - [ ] AFV profiles (remember to check layout setup for other sectors)
+
+            - [ ] VatATIS setup
+            
+            - [ ] CC Database
+            
+            - [ ] Vatglasses update
+            
+            - [ ] Vatspy update (enroute/airport) // Vataware update (TMA)
+            
+            - [ ] Other documentation?
+
+            - [ ] COPX

@@ -3,6 +3,10 @@ PROFILE:ENOR_S_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENOR_SC_CTR:316:6
+ATIS2:Polaris Control
+ATIS3:Check where I cover at vatglasses.uk
+ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
@@ -44,12 +48,12 @@ PROFILE:ENOS_3_CTR:316:6
 ATIS2:Polaris Control - Sector 3
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENOS_CTR:316:6
-ATIS2:Polaris Control
+PROFILE:ENOS_4_CTR:316:6
+ATIS2:Polaris Control - Sector 4
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENOS_5_CTR:316:6
-ATIS2:Polaris Control - Sector 5
+PROFILE:ENOS_CTR:316:6
+ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_N_CTR:316:6
@@ -134,8 +138,8 @@ PROFILE:ENGM_E_GND:20:3
 ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENGM_Q_GND:20:3
-ATIS2:Gardermoen Ground (Sequencer/Planner)
+PROFILE:ENGM_P_GND:20:3
+ATIS2:Gardermoen Ground (Planner)
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENGM_ICE_GND:20:3
@@ -255,7 +259,7 @@ ATIS4:
 
 ; --- ENBD AOR ---
 PROFILE:ENBD_S_CTR:311:6
-ATIS2:Polaris Control
+ATIS2:Polaris Control - Sector 18
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_19_CTR:311:6
@@ -370,10 +374,6 @@ PROFILE:ENBO_TWR:50:4
 ATIS2:Bodø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENBO_GND:20:3
-ATIS2:Bodø Ground
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
 PROFILE:ENRS_I_TWR:50:4
 ATIS2:Røst Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -396,6 +396,10 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENEV_TWR:50:4
 ATIS2:Evenes Tower
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:
+PROFILE:ENEV_GND:20:3
+ATIS2:Evenes Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENAN_APP:150:5
@@ -443,10 +447,6 @@ ATIS2:Alta Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENNA_APP:150:5
-ATIS2:Banak Tower/Approach
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
-PROFILE:ENNA_TWR:50:5
 ATIS2:Banak Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:

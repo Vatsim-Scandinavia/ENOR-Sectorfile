@@ -7,7 +7,7 @@ m_ShowTitleController:1
 m_ShowTitlePrimaryFreq:1
 m_ShowTitleAtisFreq:1
 m_ShowTitleClock:1
-m_ShowTitleLeader:0
+m_ShowTitleLeader:1
 m_ShowTitleFilter:1
 m_ShowTitleTrans:1
 m_ShowVoiceRoomUsers:0
