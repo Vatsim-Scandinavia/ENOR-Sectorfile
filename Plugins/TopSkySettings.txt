@@ -89,7 +89,7 @@ Color_QDM=190,160,6
                                     //rgb(190,160,6)
 Color_Redundant=4,194,249
                                     //rgb(4,194,249) 
-Color_Rwy_App_Line_Not_Inuse=80,80,8
+Color_Rwy_App_Line_Not_Inuse=80,80,80
                                     //rgb(80,80,80)
 Color_Rwy_Locked=41,210,41
                                     //rgb(41,210,41)
