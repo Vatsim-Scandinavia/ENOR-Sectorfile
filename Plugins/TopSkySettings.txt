@@ -87,9 +87,9 @@ Color_Proposition=255,130,180
                                     //rgb(255,130,180)
 Color_QDM=190,160,6
                                     //rgb(190,160,6)
-Color_Redundant=64,159,255
+Color_Redundant=4,194,249
                                     //rgb(4,194,249) 
-Color_Rwy_App_Line_Not_Inuse=80,80,80
+Color_Rwy_App_Line_Not_Inuse=80,80,8
                                     //rgb(80,80,80)
 Color_Rwy_Locked=41,210,41
                                     //rgb(41,210,41)
@@ -253,7 +253,7 @@ Window_PDC_SetASSR=1
 Window_DCL_SetASSR=1
 Window_DCL_SetCFL=1
 
-
+System_UseAcceptedCoordColor=1
 
 //---------- Windows ----------//
 
