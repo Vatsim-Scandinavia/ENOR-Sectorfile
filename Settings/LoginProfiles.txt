@@ -94,11 +94,11 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENRY_TWR:50:4
 ATIS2:Rygge Tower
-ATIS3:Feedback welcome at vatsca.org/feedback75
+ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENRY_GND:20:3
 ATIS2:Rygge Ground
-ATIS3:Feedback welcome at vatsca.org/feedback75
+ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENNO_I_TWR:50:4
 ATIS2:Notodden Information (AFIS)
