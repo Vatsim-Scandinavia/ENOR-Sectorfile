@@ -288,8 +288,8 @@ RwyAppLines_Auto=0
 [ENOB_CTR]
 Setup_ScreenLat=BJO
 System_Oceanic=1
-Window_CPDLC_Current=1,1900,300
-Window_CPDLC_History=1,1900,700
+Window_CPDLC_Current=1,1900,500
+Window_CPDLC_History=1,1900,900
 Setup_LoadMap=CORD FIX\ENOB COORD FIX SYMBOLS
 Setup_LoadMap=CORD FIX\ENOB INT COORD FIX SYMBOLS
 
