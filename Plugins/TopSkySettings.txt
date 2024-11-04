@@ -270,6 +270,8 @@ Shortcut_Map_Target=1,MVA
 //Windows on screen, If you want to add other windows see Vatsim Scandinavia Forum, Topsky NATCON Tips and Tricks//
 
 Window_QNHTL=1,1780,460
+Window_CPDLC_Current=0,1900,300
+Window_CPDLC_History=0,1900,700
 
 
 //---------- Runway Appline Settings ----------//
@@ -281,6 +283,15 @@ RwyAppLines_MarkerSpacing=1
 RwyAppLines_Auto=0
 
 //---------- Sector Settings ----------//
+
+
+[ENOB_CTR]
+Setup_ScreenLat=BJO
+System_Oceanic=1
+Window_CPDLC_Current=1,1900,300
+Window_CPDLC_History=1,1900,700
+Setup_LoadMap=CORD FIX\ENOB COORD FIX SYMBOLS
+Setup_LoadMap=CORD FIX\ENOB INT COORD FIX SYMBOLS
 
 
 
