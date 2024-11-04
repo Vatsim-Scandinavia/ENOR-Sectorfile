@@ -24,6 +24,14 @@ m_Column:XCOP:6:0:10005:45:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:STAR:11:0:10012:18:0:1:TopSky plugin:::1:0.0
 m_Column:RWY:4:1:10010:19:0:1:TopSky plugin:::1:0.0
 m_Column:CJI:7:0:26:6:20:1::::1:0.0
+m_Column:NON OCA:10:1:386:150:154:0:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:CTO:8:1:10125:0:0:0:TopSky plugin:::0:0.0
+m_Column:OAN:8:1:10122:0:0:0:TopSky plugin:::0:0.0
+m_Column:NAT:8:1:10119:0:0:0:TopSky plugin:::0:0.0
+m_Column:OFL:8:1:10124:0:0:0:TopSky plugin:::0:0.0
+m_Column:MNR:8:1:10123:0:0:0:TopSky plugin:::0:0.0
+m_Column:NBT:8:1:10120:145:0:0:TopSky plugin:TopSky plugin::0:0.0
+m_Column:NLT:8:1:10121:146:0:0:TopSky plugin:TopSky plugin::0:0.0
 m_Column:RMK:14:0:19:29:29:1::::1:0.0
 END
 SEL
