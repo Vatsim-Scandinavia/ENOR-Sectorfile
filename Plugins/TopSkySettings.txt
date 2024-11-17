@@ -39,8 +39,8 @@ Color_Field_Highlight=72,72,73
                                     //rgb(72,72,73)
 Color_Flight_Highlight=36,41,45
                                     //rgb(36,41,45)                                 
-Color_Flight_Leg=65,237,246
-                                    //rgb(65,237,246)
+Color_Flight_Leg= 4,194,249
+                                    //rgb(4,194,249)
 Color_Foreground=159,195,194 
                                     //rgb(159,195,194)
 Color_Global_Menu_Highlight=1,165,219
@@ -49,8 +49,8 @@ Color_Heading_Vector=190,160,6
                                     //rgb(190,160,6)
 Color_Information=0,232,0
                                     //rgb(0,232,0)
-Color_Information_FL=41,245,41
-                                    //rgb(41,245,41)
+Color_Information_FL=4,194,249
+                                    //rgb(4,194,249)
 Color_Informed=175,125,175
                                     //rgb(175,125,175)
 Color_Informed_2=255,195,75
@@ -87,8 +87,8 @@ Color_Proposition=255,130,180
                                     //rgb(255,130,180)
 Color_QDM=190,160,6
                                     //rgb(190,160,6)
-Color_Redundant=64,159,255
-                                    //rgb(64,159,255) 
+Color_Redundant=4,194,249
+                                    //rgb(4,194,249) 
 Color_Rwy_App_Line_Not_Inuse=80,80,80
                                     //rgb(80,80,80)
 Color_Rwy_Locked=41,210,41
@@ -110,15 +110,11 @@ Color_SMW_Overlap=224,25,25
 Color_SMW_Overlap_Box=207,207,207
                                     //rgb(207,207,207)
 Color_SMW_Overshoot=239,224,41
-                                    //rgb(239,224,41)
-Color_System_Calculated_TOC=130,204,240
-                                    //rgb(130,204,240)
-Color_System_Calculated_TOD=130,204,240
-                                    //rgb(130,204,240)                     
+                                    //rgb(239,224,41)                     
 Color_Track_Default=210,210,210
                                     //rgb(210,210,210)
-Color_Track_Highlight=0,165,219
-                                    //rgb(0,165,219)
+Color_Track_Highlight=210,210,210
+                                    //rgb(210,210,210)
 Color_Text_Notes=255,255,255
                                     //rgb(255,255,255)
 Color_TopShadow=155,158,159
@@ -157,6 +153,7 @@ Color_Warning_FL=240,225,41
 
 
 
+
 //---------- Settings ----------//
 
 Airspace_ASSR_EndCode=7477
@@ -176,13 +173,10 @@ CPDLC_MinLevel=100
 CPDLC_PDC_PlaySound=1
 CPDLC_PlaySound=1
 CPDLC_Transfer=1
-
-
 Divergence_RAM_Uncontrolled=0
 Divergence_RAM_Limit=5
 Divergence_RAM_DCT_MaxTrkError=10
 Divergence_RAM_DCT_DelayTime=120
-
 Equip_UseCodes=0
 Equip_ModeS=ABCGHIJLMNPSTUVWYZ
 FlightLeg_LineWidth=1
@@ -208,10 +202,8 @@ Menu_MaxListItems=40
 MTCD_Distance_Arr=30
 MTCD_Distance_Holding=30
 MTCD_Floor=11500
-
 MTCD_Filter_Dep=1
 MTCD_PLC_Time=5
-
 RDF_Accuracy=5
 RDF_Floor=2500
 RwyAppLines_Auto=0
@@ -261,6 +253,15 @@ Window_PDC_SetASSR=1
 Window_DCL_SetASSR=1
 Window_DCL_SetCFL=1
 
+System_UseAcceptedCoordColor=1
+
+
+//---------- Keybinds ----------//
+
+
+Shortcut_RadarMenu_Combo=0x00
+Shortcut_Map_Xfr_Key=1,0x4D ; M
+Shortcut_Map_Target=1,MVA
 
 
 //---------- Windows ----------//

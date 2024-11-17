@@ -7,7 +7,7 @@ Low airways:name:8896135:3.2:0:0:8
 High airways:line:7302244:3.5:2:0:7
 High airways:name:8896135:3.5:0:0:8
 Fixes:symbol:13158600:0.7:0:0:7
-Fixes:name:38144:3.5:0:0:2
+Fixes:name:32768:3.5:0:0:2
 Sids:line:9783808:3.0:0:1:7
 Stars:line:683145:3.0:2:0:7
 ARTCC high boundary:line:13158600:3.0:0:0:7
@@ -15,10 +15,10 @@ ARTCC boundary:line:13158600:1.5:2:0:7
 ARTCC low boundary:line:13158600:3.0:2:0:7
 Geo:line:2894892:3.0:0:1:7
 VORs:symbol:13158600:0.7:0:0:7
-VORs:name:38144:3.5:0:0:2
+VORs:name:32768:3.5:0:0:2
 VORs:frequency:9868950:3.5:0:0:2
 NDBs:symbol:13158600:0.7:0:0:7
-NDBs:name:38144:3.5:0:0:2
+NDBs:name:32768:3.5:0:0:2
 NDBs:frequency:9868950:3.5:0:0:0
 Runways:centerline:13158600:3.5:0:0:7
 Runways:extended centerline:13158600:3.5:0:0:7
@@ -27,15 +27,15 @@ Datablock:non concerned:8618883:3.5:0:0:7
 Datablock:notified:12369084:3.5:0:0:7
 Datablock:assumed:15658734:3.5:0:0:7
 Datablock:transfer to me initiated:59392:3.5:0:0:7
-Datablock:redundant:16752448:3.5:0:0:7
+Datablock:redundant:16368132:3.5:0:0:7
 Datablock:information:65535:3.5:0:0:7
 Datablock:even flight level:16777215:3.5:0:0:7
 Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:21405:3.2:0:0:7
-Datablock:user 2:16744448:3.5:0:0:7
-Datablock:user 3:16777215:3.2:0:0:7
+Datablock:user 2:16368132:3.5:0:0:7
+Datablock:user 3:59392:3.2:0:0:7
 Datablock:user 4:16777215:3.2:0:0:7
 Datablock:user 5:16777215:3.5:0:0:7
 Datablock:user 6:255:3.2:0:0:7

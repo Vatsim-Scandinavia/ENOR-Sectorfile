@@ -22,21 +22,27 @@ jobs:
             Here is a checklist of items to remember when editing sectors:
 
             - [ ] Positions GNG
+
+            - [ ] Display GNG (SCT Entries/AoR Sectors)
             
-            - [ ] Sectors GNG
+            - [ ] Sectors GNG (remember appart/deppart)
+
+            - [ ] Active sectorline
             
             - [ ] Login profiles
+
+            - [ ] Topsky setup (.dcenter, MVA maps, freq display etc)
             
-            - [ ] AFV profiles
+            - [ ] AFV profiles (remember to check layout setup for other sectors)
 
             - [ ] VatATIS setup
             
             - [ ] CC Database
             
-            - [ ] Endorsement database
-            
             - [ ] Vatglasses update
             
-            - [ ] Vatspy update
+            - [ ] Vatspy update (enroute/airport) // Vataware update (TMA)
             
             - [ ] Other documentation?
+
+            - [ ] COPX

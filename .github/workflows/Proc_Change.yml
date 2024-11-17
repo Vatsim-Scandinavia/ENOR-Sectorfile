@@ -1,0 +1,37 @@
+name: Add comment
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'procedures'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: >
+            This issue has been tagged as procedure related.
+            
+            Here is a checklist of items to remember when ammending procedures:
+
+            - [ ] Procedure included in AIRAC data?
+
+            - [ ] If removal of proc: Check all manual data is deleted (NAV > Proc)
+            
+            - [ ] Procedure combiner (check it actually combines)
+            
+            - [ ] GNG generated maps working (important if GM, BR, VA, ZV - check topsky maps!)
+
+            - [ ] TopSky initial climb (SID)
+
+            - [ ] Documentation? (renumbering usually don´t require changes)
+            Hint: Check https://wiki.vatsim-scandinavia.org/books/quick-reference/page/aerodromes-qrh
+            
+            - [ ] TopSky maps/manual maps?
