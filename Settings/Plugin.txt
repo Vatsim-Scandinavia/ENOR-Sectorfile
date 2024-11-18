@@ -27,15 +27,15 @@ TopSky plugin:ACList/HOLDING LIST/m_Column_5:HPT:6:0:10024:65:0:1:TopSky plugin:
 TopSky plugin:ACList/HOLDING LIST/m_Column_6:ETO:4:0:10036:0:0:1:TopSky plugin::
 TopSky plugin:ACList/PREACTIVATION LIST/m_Visible:1
 TopSky plugin:ACList/PREACTIVATION LIST/m_X:0
-TopSky plugin:ACList/PREACTIVATION LIST/m_Y:722
+TopSky plugin:ACList/PREACTIVATION LIST/m_Y:890
 TopSky plugin:ACList/PREACTIVATION LIST/m_LineNumber:10
 TopSky plugin:ACList/PREACTIVATION LIST/m_Resizable:1
 TopSky plugin:ACList/PREACTIVATION LIST/m_OrderingColumn:5
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_0:ACID:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_1:ASSR:7:1:10041:62:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/SECTOR LIST/m_Visible:0
+TopSky plugin:ACList/SECTOR LIST/m_Visible:1
 TopSky plugin:ACList/SECTOR LIST/m_X:0
-TopSky plugin:ACList/SECTOR LIST/m_Y:69
+TopSky plugin:ACList/SECTOR LIST/m_Y:46
 TopSky plugin:ACList/SECTOR LIST/m_LineNumber:0
 TopSky plugin:ACList/SECTOR LIST/m_Resizable:1
 TopSky plugin:ACList/SECTOR LIST/m_OrderingColumn:17
@@ -59,7 +59,7 @@ TopSky plugin:ACList/SECTOR LIST/m_Column_16:ETN:6:1:10034:23:39:1:TopSky plugin
 TopSky plugin:ACList/SECTOR LIST/m_Column_17:STAR:8:0:10012:18:0:1:TopSky plugin::
 TopSky plugin:ACList/Main VFR List/m_Visible:1
 TopSky plugin:ACList/Main VFR List/m_X:0
-TopSky plugin:ACList/Main VFR List/m_Y:993
+TopSky plugin:ACList/Main VFR List/m_Y:1124
 TopSky plugin:ACList/Main VFR List/m_LineNumber:4
 TopSky plugin:ACList/Main VFR List/m_Resizable:1
 TopSky plugin:ACList/Main VFR List/m_OrderingColumn:1
