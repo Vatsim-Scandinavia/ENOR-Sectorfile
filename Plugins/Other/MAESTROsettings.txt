@@ -3,6 +3,26 @@ Label_Highlight_Type=1
 System_AutoHideCOTSwindow=1
 System_Wind_Sfc_Auto=1
 
+
+//Colors
+Color_WindowBackground=30,30,30
+Color_MenuBackground=30,30,30
+Color_Button=40,40,40
+Color_Button_Active=100,100,100
+Color_MenuBorder=51,51,52
+Color_SliderBackground=60,60,60
+Color_ActiveText=159,195,194
+Color_WindowText=159,195,194
+
+;These colors below are from Topsky and should remain with the same values
+Color_Concerned=188,188,188
+Color_Foreground=159,195,194
+Color_WM_Active_Fg=255,254,254
+Color_WM_Bg=100,100,105
+Color_WM_Border=88,95,99
+Color_WM_Fg=180,184,181
+Color_WM_Frame=88,95,99
+
 [ENBR]
 FEEDER:NIDGI:1:ENBR:NIDGI
 FEEDER:LUNUR:2:ENBR:LUNUR
