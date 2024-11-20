@@ -13,7 +13,6 @@ Color_MenuBorder=51,51,52
 Color_SliderBackground=60,60,60
 Color_ActiveText=159,195,194
 Color_WindowText=159,195,194
-Color_Delay_1=224,224,0
 
 ;These colors below are from Topsky and should remain with the same values
 Color_Concerned=188,188,188
