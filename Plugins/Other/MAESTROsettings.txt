@@ -24,6 +24,18 @@ Color_WM_Border=88,95,99
 Color_WM_Fg=180,184,181
 Color_WM_Frame=88,95,99
 
+//Delay coding
+Color_Delay_0=255,255,255 //No delay
+Color_Delay_1=224,224,0   //Delay 2-3 minutes speed
+Color_Delay_2=255,128,0   //Delay 4-5 minutes vectors
+Color_Delay_3=192,0,0     //Delay 6+ minutes holdings
+
+System_Delay_Time_0=1
+System_Delay_Time_1=2
+System_Delay_Time_2=4
+System_Delay_Time_3=6
+
+
 [ENBR]
 FEEDER:NIDGI:NIDGI:ENBR:NIDGI:173,250,97    // Light green
 FEEDER:LUNUR:LUNUR:ENBR:LUNUR:232,97,250    // Purple
