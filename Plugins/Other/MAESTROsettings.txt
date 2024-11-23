@@ -3,6 +3,7 @@ Label_Highlight_Type=1
 System_AutoHideCOTSwindow=1
 System_Wind_Sfc_Auto=1
 Label_Rwy_Feeder=9
+Label_HideZeroDelay=1 //Hide 0 delays
 
 //Colors
 Color_WindowBackground=30,30,30
@@ -14,7 +15,7 @@ Color_SliderBackground=60,60,60
 Color_ActiveText=159,195,194
 Color_WindowText=159,195,194
 
-;These colors below are from Topsky and should remain with the same values
+//These colors below are from Topsky and should remain with the same values
 Color_Concerned=188,188,188
 Color_Foreground=159,195,194
 Color_WM_Active_Fg=255,254,254
@@ -96,7 +97,7 @@ FEEDER:EXWOD:EXWOD:ENGM:EXWOD:232,97,250    // Purple
 FEEDER:RIRUT:RIRUT:ENGM:RIRUT:245,250,105   // Yellow
 FEEDER:AGDEL:AGDEL:ENGM:AGDEL:105,148,250   // Blue
 
-RUNWAY:ENGM:01L:115:*
-RUNWAY:ENGM:01R:115:*
-RUNWAY:ENGM:19L:115:*
-RUNWAY:ENGM:19R:115:*
+RUNWAY:ENGM:01L:115:*:12
+RUNWAY:ENGM:01R:115:*:12
+RUNWAY:ENGM:19L:115:*:12
+RUNWAY:ENGM:19R:115:*:12
