@@ -64,7 +64,6 @@ m_KeepScratchPadAfterDirect:1
 m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
-m_SModeTransponders:
 m_SModeTransponders:ABCGHIJLMNPSTUVWYZ
 m_CorrelationMode:2
 m_CorrelationDistance:100
@@ -148,8 +147,8 @@ m_Column:DATA:7:0:107:0:0:1::::1:0.0
 END
 STUP
 m_Visible:1
-m_X:10
-m_Y:384
+m_X:0
+m_Y:507
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:7
