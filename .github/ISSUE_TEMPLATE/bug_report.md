@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Screenshots**
-Important: Provide screenshots of your whole EuroScope window!
+Important: Provide atleast 1 screenshot of your **whole** EuroScope window!
 
 **Describe the bug**
 A clear and concise description of what the bug is.
