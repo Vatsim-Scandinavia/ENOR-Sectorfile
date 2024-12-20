@@ -405,11 +405,11 @@ ATIS4:
 PROFILE:ENAN_APP:150:5
 ATIS2:Andøya Tower/Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENAN_TWR:50:4
 ATIS2:Andøya Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENDU_APP:150:5
 ATIS2:Bardufoss Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
