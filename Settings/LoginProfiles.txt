@@ -145,7 +145,7 @@ ATIS4:
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Only covering de-ice platforms!
 PROFILE:ENGM_W_DEL:20:2
 ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
