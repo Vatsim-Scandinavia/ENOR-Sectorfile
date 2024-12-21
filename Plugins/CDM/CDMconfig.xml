@@ -3,7 +3,7 @@
 	<rate ops="20" />
 	<rateLvo ops="8" />
 	<expiredCtot time="10" />
-	<realMode mode="true" />
+	<realMode mode="false" />
 	<invalidateAtTsat mode="true" />
 	<Rates url="https://adbj.no/cdm/rate.txt" />
 	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
