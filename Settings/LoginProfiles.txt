@@ -37,7 +37,7 @@ ATIS4:
 
 ;  --- ENOS AOR ---
 PROFILE:ENOS_1_CTR:316:6
-ATIS2:Polaris Control - Sector 1
+ATIS2:Polaris Control - Sector 1+2
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_2_CTR:316:6
@@ -49,7 +49,7 @@ ATIS2:Polaris Control - Sector 3
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_4_CTR:316:6
-ATIS2:Polaris Control - Sector 4
+ATIS2:Polaris Control - Sector 3+4
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_CTR:316:6
@@ -139,13 +139,13 @@ ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENGM_P_GND:20:3
-ATIS2:Gardermoen Ground (Planner)
+ATIS2:Gardermoen Planner
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Only covering de-ice platforms!
 PROFILE:ENGM_W_DEL:20:2
 ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -165,7 +165,7 @@ ATIS2:Polaris Control - Sector 10, 11, 15
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_E_CTR:311:6
-ATIS2:Polaris Control - Sector 13
+ATIS2:Polaris Control - Sector 13+14
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_14_CTR:311:6
@@ -173,7 +173,7 @@ ATIS2:Polaris Control - Sector 14
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_16_CTR:311:6
-ATIS2:Polaris Control - Sector 16
+ATIS2:Polaris Control - Sector 15+16
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_N_CTR:311:6
@@ -192,10 +192,10 @@ PROFILE:ENGC_H_TWR:50:4
 ATIS2:Tampen Information (HFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Covering all platforms inside Tampen HTZ - vatglasses.uk
-PROFILE:ENZV_APP:148:5
+PROFILE:ENZV_APP:150:5
 ATIS2:Sola Approach
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS3:Check where I cover at vatglasses.uk
+ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENZV_A_APP:150:5
 ATIS2:Sola Arrival
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -214,12 +214,12 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENBR_W_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS3:Check where I cover at vatglasses.uk
+ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBR_E_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS3:Check where I cover at vatglasses.uk
+ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBR_D_APP:150:5
 ATIS2:Flesland Director
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -259,7 +259,7 @@ ATIS4:
 
 ; --- ENBD AOR ---
 PROFILE:ENBD_S_CTR:311:6
-ATIS2:Polaris Control - Sector 18
+ATIS2:Polaris Control - Sector 18+19
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_19_CTR:311:6
@@ -275,15 +275,15 @@ ATIS2:Polaris Control
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_E_CTR:311:6
-ATIS2:Polaris Control - Sector 26
+ATIS2:Polaris Control - Sector 25+26
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBN_APP:150:5
-ATIS2:Polaris Control - Sector Helgeland
+ATIS2:Polaris Control - Sector Helgeland TMA
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_O_CTR:311:6
-ATIS2:Polaris Control - Offshore
+ATIS2:Polaris Control - Offshore below FL85
 ATIS3:Check where I cover at vatglasses.uk
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENAL_APP:150:5
@@ -405,11 +405,11 @@ ATIS4:
 PROFILE:ENAN_APP:150:5
 ATIS2:Andøya Tower/Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENAN_TWR:50:4
 ATIS2:Andøya Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENDU_APP:150:5
 ATIS2:Bardufoss Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
