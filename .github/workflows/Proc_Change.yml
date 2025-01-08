@@ -32,5 +32,6 @@ jobs:
             - [ ] TopSky initial climb (SID)
 
             - [ ] Documentation? (renumbering usually don´t require changes)
+            Hint: Check https://wiki.vatsim-scandinavia.org/books/quick-reference/page/aerodromes-qrh
             
             - [ ] TopSky maps/manual maps?

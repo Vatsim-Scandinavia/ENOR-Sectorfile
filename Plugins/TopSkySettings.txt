@@ -13,8 +13,8 @@ Setup_COOPANS=0
 
 //---------- Colors ----------//
 
-Color_Active_Map_Type_5=198,174,58
-                                    //rgb(198,174,58)
+Color_Active_Map_Type_5=120,50,50
+                                    //rgb(120, 50, 50)
 Color_Active_RD_Infill_Map=90,90,90
                                     //rgb(90,90,90)
 Color_Active_Sector=52,58,62
@@ -87,7 +87,7 @@ Color_Proposition=255,130,180
                                     //rgb(255,130,180)
 Color_QDM=190,160,6
                                     //rgb(190,160,6)
-Color_Redundant=64,159,255
+Color_Redundant=4,194,249
                                     //rgb(4,194,249) 
 Color_Rwy_App_Line_Not_Inuse=80,80,80
                                     //rgb(80,80,80)
@@ -253,6 +253,15 @@ Window_PDC_SetASSR=1
 Window_DCL_SetASSR=1
 Window_DCL_SetCFL=1
 
+System_UseAcceptedCoordColor=1
+
+
+//---------- Keybinds ----------//
+
+
+Shortcut_RadarMenu_Combo=0x00
+Shortcut_Map_Xfr_Key=1,0x4D ; M
+Shortcut_Map_Target=1,MVA
 
 
 //---------- Windows ----------//
