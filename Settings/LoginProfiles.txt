@@ -145,7 +145,7 @@ ATIS4:
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Only covering de-ice platforms!
 PROFILE:ENGM_W_DEL:20:2
 ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -405,11 +405,11 @@ ATIS4:
 PROFILE:ENAN_APP:150:5
 ATIS2:Andøya Tower/Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENAN_TWR:50:4
 ATIS2:Andøya Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Note: None radar environment in TMA.
+ATIS4:Note - None radar environment in TMA.
 PROFILE:ENDU_APP:150:5
 ATIS2:Bardufoss Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -430,10 +430,6 @@ PROFILE:ENTC_TWR:50:4
 ATIS2:Tromsø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENDU_DEL:20:2
-ATIS2:Tromsø Delivery
-ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Welcome to fly and see santa 2024
 PROFILE:ENSR_I_TWR:50:4
 ATIS2:Sørkjosen Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
