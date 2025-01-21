@@ -2,7 +2,8 @@
 name: Feature request
 about: Suggest an idea
 title: "[Suggestion]"
-labels: Question / Suggestion
+labels: 
+type: feature
 assignees: ''
 
 ---
