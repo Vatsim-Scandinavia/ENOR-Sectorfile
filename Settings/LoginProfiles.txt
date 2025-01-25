@@ -1,35 +1,35 @@
 PROFILE
 PROFILE:ENOR_S_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOR_SC_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 
 PROFILE
 PROFILE:ENRC_S_CTR:316:6
 ATIS2:Bodø South RTC (Remote tower)
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENRC_N_CTR:316:6
 ATIS2:Bodø North RTC (Remote tower)
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 
 PROFILE:ENOB_CTR:600:6
-ATIS2:Bodø Oceanic Control
+ATIS2:Bodø Oceanic Control - CPDLC [ENOB]
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Request OCA clearance on nattrak.vatsim.net (not applicable for ENSB flights)
 PROFILE:ENSB_I_TWR:50:4
 ATIS2:Longyear Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Covering below FL105 - check vats.im/ENOR for coverage
 PROFILE:ENAS_I_TWR:50:4
 ATIS2:Ny-Ålesund Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -38,35 +38,35 @@ ATIS4:
 ;  --- ENOS AOR ---
 PROFILE:ENOS_1_CTR:316:6
 ATIS2:Polaris Control - Sector 1+2
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_2_CTR:316:6
 ATIS2:Polaris Control - Sector 2
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_3_CTR:316:6
 ATIS2:Polaris Control - Sector 3
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_4_CTR:316:6
 ATIS2:Polaris Control - Sector 3+4
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_N_CTR:316:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_7_CTR:316:6
 ATIS2:Polaris Control - Sector 7
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_8_CTR:316:6
 ATIS2:Polaris Control - Sector 8
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENCN_APP:150:5
 ATIS2:Kjevik Approach
@@ -78,7 +78,7 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENTO_APP:150:5
 ATIS2:Farris Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENTO_D_APP:150:5
 ATIS2:Farris Approach (Director/VFR Sector)
@@ -158,43 +158,43 @@ ATIS4:
 ; --- ENSV AOR ---
 PROFILE:ENSV_CTR:311:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_W_CTR:311:6
 ATIS2:Polaris Control - Sector 10, 11, 15
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_E_CTR:311:6
 ATIS2:Polaris Control - Sector 13+14
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_14_CTR:311:6
 ATIS2:Polaris Control - Sector 14
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_16_CTR:311:6
 ATIS2:Polaris Control - Sector 15+16
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_N_CTR:311:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENSV_O_CTR:311:6
 ATIS2:Polaris Control - Offshore below FL85
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENLE_H_TWR:50:4
 ATIS2:Ekofisk Information (HFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Covering all platforms inside Ekofisk HTZ - vatglasses.uk
+ATIS4:Covering all platforms inside Ekofisk HTZ - vats.im/ENOR
 PROFILE:ENGC_H_TWR:50:4
 ATIS2:Tampen Information (HFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Covering all platforms inside Tampen HTZ - vatglasses.uk
+ATIS4:Covering all platforms inside Tampen HTZ - vats.im/ENOR
 PROFILE:ENZV_APP:150:5
 ATIS2:Sola Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENZV_A_APP:150:5
 ATIS2:Sola Arrival
@@ -214,11 +214,11 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENBR_W_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBR_E_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBR_D_APP:150:5
 ATIS2:Flesland Director
@@ -260,35 +260,35 @@ ATIS4:
 ; --- ENBD AOR ---
 PROFILE:ENBD_S_CTR:311:6
 ATIS2:Polaris Control - Sector 18+19
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_19_CTR:311:6
 ATIS2:Polaris Control - Sector 19
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_C_CTR:311:6
 ATIS2:Polaris Control - Sector 24
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_CTR:311:6
 ATIS2:Polaris Control
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_E_CTR:311:6
 ATIS2:Polaris Control - Sector 25+26
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBN_APP:150:5
 ATIS2:Polaris Control - Sector Helgeland TMA
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_O_CTR:311:6
 ATIS2:Polaris Control - Offshore below FL85
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENAL_APP:150:5
 ATIS2:Møre Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENAL_TWR:50:4
 ATIS2:Vigra Tower
@@ -300,7 +300,7 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENKB_APP:150:5
 ATIS2:Møre Approach
-ATIS3:Check where I cover at vatglasses.uk
+ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENKB_TWR:50:4
 ATIS2:Kvernberget Tower
