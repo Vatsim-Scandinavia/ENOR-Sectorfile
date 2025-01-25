@@ -232,6 +232,10 @@ PROFILE:ENBR_GND:20:3
 ATIS2:Flesland Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
+PROFILE:ENBR_ICE_GND:20:3
+ATIS2:De-ice coordinator
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:
 PROFILE:ENBR_DEL:20:2
 ATIS2:Flesland Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
