@@ -261,7 +261,9 @@ System_UseAcceptedCoordColor=1
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Key=1,0x4D ; M
+Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Target=1,MVA
+Shortcut_Map_Target=2,VFR
 
 
 //---------- Windows ----------//
