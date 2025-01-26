@@ -329,6 +329,7 @@ Setup_ScreenLat=ENZV
 
 [ENBD_CTR]
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA ENDU
@@ -340,9 +341,9 @@ Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBO
 
-
 [ENBD_S_CTR]
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENVA
@@ -351,12 +352,14 @@ Setup_ScreenLat=ENVA
 Setup_ScreenLat=ENRO
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 
 [ENBD_C_CTR]
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBN
 
@@ -422,6 +425,7 @@ Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA ENDU
@@ -441,6 +445,7 @@ Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
@@ -460,6 +465,7 @@ Setup_ScreenLat=ENGM
 
 [ENRC_CTR]
 Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA ENCN
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA HELGELAND
@@ -483,6 +489,7 @@ Setup_ScreenLat=BJO
 
 [ENOL_]
 Setup_ScreenLat=ENOL
+Setup_LoadMap=MVA\MVA ENOL
 
 [ENBN_]
 Setup_ScreenLat=ENBN
