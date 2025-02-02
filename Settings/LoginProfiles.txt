@@ -71,11 +71,11 @@ ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENCN_APP:150:5
 ATIS2:Kjevik Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENCN
 PROFILE:ENCN_TWR:50:4
 ATIS2:Kjevik Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENCN
 PROFILE:ENTO_APP:150:5
 ATIS2:Farris Approach
 ATIS3:Check where I cover at vats.im/ENOR
@@ -87,11 +87,11 @@ ATIS4:
 PROFILE:ENTO_GND:20:3
 ATIS2:Torp Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENTO
 PROFILE:ENTO_TWR:50:4
 ATIS2:Torp Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENTO
 PROFILE:ENRY_TWR:50:4
 ATIS2:Rygge Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -109,11 +109,11 @@ ATIS4:
 PROFILE:ENGM_W_APP:150:5
 ATIS2:Oslo Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_E_APP:150:5
 ATIS2:Oslo Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_D_APP:150:5
 ATIS2:Oslo Director
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -125,35 +125,35 @@ ATIS4:Callsign only on first contact
 PROFILE:ENGM_W_TWR:50:4
 ATIS2:Gardermoen Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_E_TWR:50:4
 ATIS2:Gardermoen Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_W_GND:20:3
 ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_E_GND:20:3
 ATIS2:Gardermoen Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_P_GND:20:3
 ATIS2:Gardermoen Planner
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:Only covering de-ice platforms!
+ATIS4:Only covering de-ice platforms! - vatsca.org/ENGM
 PROFILE:ENGM_W_DEL:20:2
 ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_E_DEL:20:2
 ATIS2:Gardermoen Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENGM
 
 ; --- ENSV AOR ---
 PROFILE:ENSV_CTR:311:6
@@ -194,52 +194,52 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Covering all platforms inside Tampen HTZ - vats.im/ENOR
 PROFILE:ENZV_APP:150:5
 ATIS2:Sola Approach
-ATIS3:Check where I cover at vats.im/ENOR
-ATIS4:Feedback welcome at vatsca.org/feedback
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Pilot briefing - vatsca.org/ENZV
 PROFILE:ENZV_A_APP:150:5
 ATIS2:Sola Arrival
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENZV
 PROFILE:ENZV_TWR:50:4
 ATIS2:Sola Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENZV
 PROFILE:ENZV_GND:20:3
 ATIS2:Sola Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENZV
 PROFILE:ENHD_TWR:50:4
 ATIS2:Karmøy Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 PROFILE:ENBR_W_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Check where I cover at vats.im/ENOR
-ATIS4:Feedback welcome at vatsca.org/feedback
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_E_APP:150:5
 ATIS2:Flesland Approach
-ATIS3:Check where I cover at vats.im/ENOR
-ATIS4:Feedback welcome at vatsca.org/feedback
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_D_APP:150:5
 ATIS2:Flesland Director
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Callsign only on first contact
 PROFILE:ENBR_TWR:50:4
 ATIS2:Flesland Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_GND:20:3
 ATIS2:Flesland Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_ICE_GND:20:3
 ATIS2:De-ice coordinator
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Only covering the de-ice platform
 PROFILE:ENBR_DEL:20:2
 ATIS2:Flesland Delivery
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENSO_I_TWR:50:4
 ATIS2:Sørstokken Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -329,19 +329,19 @@ ATIS4:
 PROFILE:ENVA_APP:150:5
 ATIS2:Værnes Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENVA
 PROFILE:ENVA_D_APP:150:5
 ATIS2:Værnes Director
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Callsign only on first contact
 PROFILE:ENVA_TWR:50:4
 ATIS2:Værnes Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENVA
 PROFILE:ENVA_GND:20:3
 ATIS2:Værnes Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENVA
 PROFILE:ENRO_I_TWR:150:4
 ATIS2:Røros Information
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -429,11 +429,11 @@ ATIS4:
 PROFILE:ENTC_APP:150:5
 ATIS2:Tromsø Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENTC
 PROFILE:ENTC_TWR:50:4
 ATIS2:Tromsø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
-ATIS4:
+ATIS4:Pilot briefing - vatsca.org/ENTC
 PROFILE:ENSR_I_TWR:50:4
 ATIS2:Sørkjosen Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
