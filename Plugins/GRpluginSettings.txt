@@ -34,6 +34,7 @@ Window_APP_Extensions=0
 RawVideo=1
 RawVideo_Brightness=70
 RawVideo_MaxHistory=3
+System_NoDupeCodes=100,1234,1200,2000,2200,7000,7500,7600,7700
 //
 Window_APP_Scale=15
 Window_APP_AltFilter=20000
