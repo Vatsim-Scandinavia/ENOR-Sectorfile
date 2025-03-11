@@ -36,6 +36,16 @@ RawVideo=1
 RawVideo_Brightness=70
 RawVideo_MaxHistory=3
 //
+Color_APP_Background=13,9,12
+Color_TSW_Background=13,9,12
+Color_WBackground=50,50,50
+Color_WBackground2=50,50,50
+Color_WBackground3=40,40,40
+Color_WTitleBar=220,220,220
+Color_WTitleButton=190,190,190 
+Color_WTitleText=50,50,50
+Color_Caution=135,135,0
+Color_CautionText=232,232,232
 Window_APP_Extensions=0
 Window_APP_Scale=15
 Window_APP_AltFilter=20000
