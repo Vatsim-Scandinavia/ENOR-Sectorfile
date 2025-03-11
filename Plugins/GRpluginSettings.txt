@@ -52,6 +52,9 @@ Window_APP_Extensions=0
 Window_APP_Scale=15
 Window_APP_AltFilter=20000
 GroundLabel_Filter_Parked=1
+GroundLabel_Transparency_Bd=0
+GroundLabel_Transparency_Bg=0
+GroundLabel_UseSelColor=0
 [ENGM]
 Window_APP_Rotation=-15
 Airport_Refpoint=N060.11.43.940:E011.05.59.857
