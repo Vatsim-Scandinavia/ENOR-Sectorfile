@@ -12,7 +12,7 @@ This repository contains non-automatically generated files from our sector file 
 ## Contributing
 Anyone is welcome to contribute to this project via pull requests.
 
-# Bugs, feedback & suggestions
+#% Bugs, feedback & suggestions
 We use GitHub's issue board to track all sector file-related matters:
 - Bug reports
 - Feature suggestions
@@ -31,7 +31,7 @@ For installation instructions, visit our [EuroScope and Sector File Installation
 > [!WARNING]
 > Releases done in GitHub do not include all essential files for the sectorfile.
 
-# Sectorfile developers
+#¤ Sectorfile developers
 Over the years, several people have been involved in developing the sector file.\
 Current sector file developers:
 - Adrian Bjerke
@@ -42,7 +42,7 @@ Current sector file developers:
 - Sander Lislott
 - Marius Linge
 
-# Discord
+#¤ Discord
 We have an internal discord server for sectorfile development.\
 Here we have an open channel for discussions from other members.\
 If you wish to join, contact Adrian Bjerke (@adrian2k) on Discord.
