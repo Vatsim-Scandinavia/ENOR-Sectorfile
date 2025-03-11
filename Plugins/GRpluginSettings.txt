@@ -35,7 +35,7 @@ Track_Heading_Line=1
 Track_HistoryDots_APP=1 
 Track_Heading_Line=1
 RawVideo=1
-RawVideo_Brightness=70
+RawVideo_Brightness=30
 RawVideo_MaxHistory=3
 //
 Color_APP_Background=13,9,12
