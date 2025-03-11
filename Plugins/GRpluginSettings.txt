@@ -56,6 +56,8 @@ GroundLabel_Transparency_Bd=0
 GroundLabel_Transparency_Bg=0
 GroundLabel_UseSelColor=0
 [ENGM]
+Window_APP_Extensions=30
+Window_APP_Extensions_TickWidth=0.2
 Window_APP_Rotation=-15
 Airport_Refpoint=N060.11.43.940:E011.05.59.857
 Airport_Elevation=681
