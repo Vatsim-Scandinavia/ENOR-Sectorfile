@@ -100,6 +100,8 @@ Label_REF=1,0,0,0
 Label_SID=1,0,0,0
 Label=APP:ARR:1:CALLSIGN,0,0:STAND,0,1:REF,0,2
 Label=APP:ARR:2:GS,0,0:
+Track_HistoryDots_APP=0
+Track_PredictionLine_APP=0
 [ENBR]
 Window_APP_Rotation=100
 Airport_Elevation=166
