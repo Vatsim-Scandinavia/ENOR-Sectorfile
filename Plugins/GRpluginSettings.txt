@@ -104,7 +104,7 @@ Track_HistoryDots_APP=0
 Track_PredictionLine_APP=0
 [ENBR]
 Window_APP_Rotation=100
-Airport_Elevation=166
+Airport_Elevation=171
 Airport_Radius=1.0
 Airport_Runway_End=17:N060.18.23.800:E005.12.49.300
 Airport_Runway_End=35:N060.16.48.600:E005.13.21.300
