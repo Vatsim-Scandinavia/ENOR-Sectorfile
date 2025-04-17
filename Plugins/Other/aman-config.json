@@ -2,13 +2,13 @@
     "openAutomatically": false,
     "timelines": {
         "GM 19R/19L": {
-            "targetFixes": [ "GSW40", "GME40" ],
+            "targetFixes": [ "GSW1", "GME1" ],
             "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "DualrunwayLayout",
             "destinationAirports": [ "ENGM" ]
         },
         "GM 01L/01R": {
-            "targetFixes": [ "OBW40", "ONE40" ],
+            "targetFixes": [ "OBW10", "ONE10" ],
             "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "DualrunwayLayout",
             "destinationAirports": [ "ENGM" ]
@@ -36,7 +36,7 @@
         "DualrunwayLayout": [
             { "source": "assignedRunway", "width": 4 },
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
@@ -47,7 +47,7 @@
         ],
         "SinglerunwayLayout": [
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
