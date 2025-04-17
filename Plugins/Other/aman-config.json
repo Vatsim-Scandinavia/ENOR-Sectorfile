@@ -13,6 +13,12 @@
             "tagLayout": "DualrunwayLayout",
             "destinationAirports": [ "ENGM" ]
         },
+		"GM SRO/SPO": {
+            "targetFixes": [ "ENGM" ],
+            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
+            "tagLayout": "SinglerunwayLayout",
+            "destinationAirports": [ "ENGM" ]
+        },
         "ENBR": {
             "targetFixes": [ "ENBR" ],
             "viaFixes": [ "NIDGI", "LUNUR", "ETNOR", "PESUR", "MODNI", "GENVU", "ALUVA", "BADAB" ],
@@ -36,7 +42,7 @@
         "DualrunwayLayout": [
             { "source": "assignedRunway", "width": 4 },
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "ï¿½", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
@@ -47,7 +53,7 @@
         ],
         "SinglerunwayLayout": [
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "ï¿½", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "¤", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
