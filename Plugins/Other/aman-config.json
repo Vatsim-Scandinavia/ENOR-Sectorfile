@@ -36,7 +36,7 @@
         "DualrunwayLayout": [
             { "source": "assignedRunway", "width": 4 },
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "�", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
@@ -47,7 +47,7 @@
         ],
         "SinglerunwayLayout": [
             { "source": "callsign", "width": 8 },
-            { "source": "static", "defaultValue": "?", "width": 2, "isViaFixIndicator": true },
+            { "source": "static", "defaultValue": "�", "width": 2, "isViaFixIndicator": true },
             { "source": "aircraftType", "width": 5 },
             { "source": "aircraftWtc", "width": 2 },
             { "source": "timeBehindPreceeding", "width": 5, "rightAligned": true },
