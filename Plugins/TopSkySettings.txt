@@ -261,7 +261,9 @@ System_UseAcceptedCoordColor=1
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Key=1,0x4D ; M
+Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Target=1,MVA
+Shortcut_Map_Target=2,VFR
 
 
 //---------- Windows ----------//
@@ -270,6 +272,8 @@ Shortcut_Map_Target=1,MVA
 //Windows on screen, If you want to add other windows see Vatsim Scandinavia Forum, Topsky NATCON Tips and Tricks//
 
 Window_QNHTL=1,1780,460
+Window_CPDLC_Current=0,1900,300
+Window_CPDLC_History=0,1900,700
 
 
 //---------- Runway Appline Settings ----------//
@@ -281,6 +285,15 @@ RwyAppLines_MarkerSpacing=1
 RwyAppLines_Auto=0
 
 //---------- Sector Settings ----------//
+
+
+[ENOB_CTR]
+Setup_ScreenLat=BJO
+System_Oceanic=1
+Window_CPDLC_Current=1,1900,500
+Window_CPDLC_History=1,1900,900
+Setup_LoadMap=CORD FIX\ENOB COORD FIX SYMBOLS
+Setup_LoadMap=CORD FIX\ENOB INT COORD FIX SYMBOLS
 
 
 
@@ -329,6 +342,7 @@ Setup_ScreenLat=ENZV
 
 [ENBD_CTR]
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA ENDU
@@ -340,9 +354,9 @@ Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBO
 
-
 [ENBD_S_CTR]
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENVA
@@ -351,12 +365,14 @@ Setup_ScreenLat=ENVA
 Setup_ScreenLat=ENRO
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 
 [ENBD_C_CTR]
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBN
 
@@ -422,6 +438,7 @@ Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA HELGELAND
 Setup_LoadMap=MVA\MVA ENBO
 Setup_LoadMap=MVA\MVA ENDU
@@ -441,6 +458,7 @@ Setup_LoadMap=MVA\MVA ENBR
 Setup_LoadMap=MVA\MVA ENZV
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA MORE
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
@@ -460,6 +478,7 @@ Setup_ScreenLat=ENGM
 
 [ENRC_CTR]
 Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MVA ENOL
 Setup_LoadMap=MVA\MVA ENCN
 Setup_LoadMap=MVA\MVA FARRIS
 Setup_LoadMap=MVA\MVA HELGELAND
@@ -483,6 +502,7 @@ Setup_ScreenLat=BJO
 
 [ENOL_]
 Setup_ScreenLat=ENOL
+Setup_LoadMap=MVA\MVA ENOL
 
 [ENBN_]
 Setup_ScreenLat=ENBN

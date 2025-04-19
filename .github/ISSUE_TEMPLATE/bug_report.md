@@ -2,7 +2,8 @@
 name: Bug report
 about: Bugs related to EuroScope/sectorfile
 title: "[BUG] "
-labels: bug
+labels:
+type: bug
 assignees: ''
 
 ---
