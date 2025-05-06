@@ -2,15 +2,21 @@
     "openAutomatically": false,
     "timelines": {
         "GM 19R/19L": {
-            "targetFixes": [ "GSW40", "GME40" ],
+            "targetFixes": [ "GSW1", "GME1" ],
             "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "DualrunwayLayout",
             "destinationAirports": [ "ENGM" ]
         },
         "GM 01L/01R": {
-            "targetFixes": [ "OBW40", "ONE40" ],
+            "targetFixes": [ "OBW10", "ONE10" ],
             "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
             "tagLayout": "DualrunwayLayout",
+            "destinationAirports": [ "ENGM" ]
+        },
+		"GM SRO/SPO": {
+            "targetFixes": [ "ENGM" ],
+            "viaFixes": [ "ADOPI", "LUNIP", "ESEBA", "INREX", "RIPAM", "BELGU" ],
+            "tagLayout": "SinglerunwayLayout",
             "destinationAirports": [ "ENGM" ]
         },
         "ENBR": {
