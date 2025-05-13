@@ -5,6 +5,7 @@
 	<expiredCtot time="10" />
 	<realMode mode="false" />
 	<pilotTobt mode="true" />
+	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<Rates url="https://adbj.no/cdm/rate.txt" />
 	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
