@@ -147,7 +147,7 @@ Color_Warning=240,225,41
                                     //rgb(240,225,41)
 Color_Warning_FL=240,225,41
                                     //rgb(240,225,41)
-CPDLC UM Clearance=255,101,0
+CPDLC_UM_Clearance=255,101,0
                                     //rgb(225, 101, 0)
 
 
