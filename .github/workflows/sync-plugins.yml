@@ -17,7 +17,7 @@ jobs:
           SOURCE_DIR="Plugins"
           DEST_DIR="Plugins/Update"
           mkdir -p "$DEST_DIR"
-          rsync -av --include='*/' --include='*.dll' --exclude='*' "$SOURCE_DIR/" "$DEST_DIR/"
+          rsync -av --exclude 'Update/' --include='*/' --include='*.dll' --exclude='*' "$SOURCE_DIR/" "$DEST_DIR/"
         shell: bash
 
       - uses: stefanzweifel/git-auto-commit-action@v5
