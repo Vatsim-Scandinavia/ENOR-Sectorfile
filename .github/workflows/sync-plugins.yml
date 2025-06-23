@@ -1,0 +1,25 @@
+name: Sync Plugin DLLs to Update Folder
+
+on:
+  push:
+    paths:
+      - 'Plugins/**/*.dll'
+
+jobs:
+  sync_dlls:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Copy DLLs to manual update folder and preserve structure
+        run: |
+          SOURCE_DIR="Plugins"
+          DEST_DIR="Plugins/Update"
+          mkdir -p "$DEST_DIR"
+          rsync -av --include='*/' --include='*.dll' --exclude='*' "$SOURCE_DIR/" "$DEST_DIR/"
+        shell: bash
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-sync: Updated DLLs in Plugins/Update folder"
