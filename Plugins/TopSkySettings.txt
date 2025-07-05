@@ -1,13 +1,9 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Br�nstad or Adrian Bjerke. -------//
-
-
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Br?nstad or Adrian Bjerke. -------//
 
 //Norwegian Topsky NATCON setup//
 
-
 // DO NOT CHANGE ANYTHING IN THIS FILE!//
-
 
 Setup_COOPANS=0
 
@@ -151,13 +147,6 @@ Color_CPDLC_UM_Clearance=255,101,0
                                     //rgb(225, 101, 0)
 
 
-
-
-
-
-
-
-
 //---------- Settings ----------//
 
 Airspace_ASSR_EndCode=7477
@@ -259,9 +248,7 @@ Window_DCL_SetCFL=1
 
 System_UseAcceptedCoordColor=1
 
-
 //---------- Keybinds ----------//
-
 
 Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Key=1,0x4D ; M
@@ -269,9 +256,7 @@ Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Target=1,MVA
 Shortcut_Map_Target=2,VFR
 
-
 //---------- Windows ----------//
-
 
 //Windows on screen, If you want to add other windows see Vatsim Scandinavia Forum, Topsky NATCON Tips and Tricks//
 
@@ -279,9 +264,7 @@ Window_QNHTL=1,1780,460
 Window_CPDLC_Current=0,1900,300
 Window_CPDLC_History=0,1900,700
 
-
 //---------- Runway Appline Settings ----------//
-
 
 RwyAppLines_Length=0
 RwyAppLines_Markers=20
@@ -290,100 +273,90 @@ RwyAppLines_Auto=0
 
 //---------- Sector Settings ----------//
 
-
-[ENOB_CTR]
+[ENOB_]
 Setup_ScreenLat=BJO
 System_Oceanic=1
 Window_CPDLC_Current=1,1900,500
 Window_CPDLC_History=1,1900,900
-Setup_LoadMap=CORD FIX\ENOB COORD FIX SYMBOLS
-Setup_LoadMap=CORD FIX\ENOB INT COORD FIX SYMBOLS
-
-
 
 [ENOS_]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\KJEVIK MVA
 Setup_ScreenLat=ENGM
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 
-
 [ENGM_]
-Setup_LoadMap=MVA\MVA ENGM
+Setup_LoadMap=MVA\OSLO MVA
 Setup_ScreenLat=ENGM
 
-
 [ENTO_]
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENTO
 
-
 [ENRY_]
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENRY
 
-
 [ENCN_]
-Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\KJEVIK MVA
 Setup_ScreenLat=ENCN
 
 [ENSV_]
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
 Setup_ScreenLat=ENBR
 Setup_LoadMap=LOA\ENOR->EKDK
 
-
 [ENBR_]
-Setup_LoadMap=MVA\MVA ENBR
+Setup_LoadMap=MVA\FLESLAND MVA
 Setup_ScreenLat=ENBR
 
 [ENZV_]
-Setup_LoadMap=MVA\MVA ENZV
+Setup_LoadMap=MVA\SOLA MVA
 Setup_ScreenLat=ENZV
 
 [ENBD_CTR]
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBO
 
 [ENBD_S_CTR]
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENVA
 
 [ENBD_9_CTR]
 Setup_ScreenLat=ENRO
 Setup_LoadMap=LOA\ENBD->ESOS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
 
 [ENBD_C_CTR]
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBN
 
 [ENBD_E_CTR]
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENNA
 
@@ -391,122 +364,122 @@ Setup_ScreenLat=ENNA
 Setup_ScreenLat=ENBN
 
 [ENVA_]
-Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\VAERNES MVA
 Setup_ScreenLat=ENVA
 
 [ENBO_]
-Setup_LoadMap=MVA\MVA ENBO
+Setup_LoadMap=MVA\BODO MVA
 Setup_ScreenLat=ENBO
 
 [ENDU_]
-Setup_LoadMap=MVA\MVA ENDU
+Setup_LoadMap=MVA\BARDUFOSS MVA
 Setup_ScreenLat=ENDU
 
 [ENEV_]
-Setup_LoadMap=MVA\MVA ENEV
+Setup_LoadMap=MVA\EVENES MVA
 Setup_ScreenLat=ENEV
 
 [ENTC_]
-Setup_LoadMap=MVA\MVA ENTC
+Setup_LoadMap=MVA\TROMSO MVA
 Setup_ScreenLat=ENTC
 
 [ENAT_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENAT
 
 [ENHF_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENHF
 
 [ENNA_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENNA
 
 [ENKR_]
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_ScreenLat=ENKR
 
 [ENAL_]
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MORE MVA
 Setup_ScreenLat=ENAL
 
 [ENKB_]
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MORE MVA
 Setup_ScreenLat=ENKB
 
 [ENOR_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENVA
 
 [ENOR_SC_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENGM
 
 [ENOR_S_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENGM
 
 
 [ENRC_CTR]
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_ScreenLat=ENVA
 
 [ENRC_S_CTR]
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENGM
 
 [ENBN_APP]
 Setup_ScreenLat=ENBN
-Setup_LoadMap=MVA\MVA HELGELAND
+Setup_LoadMap=MVA\HELGELAND MVA
 
 [ENOB_CTR]
 Setup_ScreenLat=BJO
 
 [ENOL_]
 Setup_ScreenLat=ENOL
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\ORLAND MVA
 
 [ENBN_]
 Setup_ScreenLat=ENBN
@@ -612,6 +585,3 @@ Setup_ScreenLat=ENBN
 
 [ENAS_]
 Setup_ScreenLat=ENAS
-
-
-
