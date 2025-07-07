@@ -4,7 +4,9 @@ about: Anything related to ATIS
 title: "[ATIS]"
 labels: ATIS
 type: feature
-assignees: marud94
+assignees: 
+  - marud94
+  - Atriusftw
 
 ---
 
