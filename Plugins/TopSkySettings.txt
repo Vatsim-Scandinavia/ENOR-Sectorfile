@@ -258,8 +258,6 @@ Shortcut_Map_Target=2,VFR
 
 //---------- Windows ----------//
 
-//Windows on screen, If you want to add other windows see Vatsim Scandinavia Forum, Topsky NATCON Tips and Tricks//
-
 Window_QNHTL=1,1780,460
 Window_CPDLC_Current=0,1900,300
 Window_CPDLC_History=0,1900,700
@@ -453,11 +451,9 @@ Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENGM
 
 
-[ENRC_CTR]
+[ENRC_N_CTR]
 Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=MVA\ORLAND MVA
-Setup_LoadMap=MVA\KJEVIK MVA
-Setup_LoadMap=MVA\FARRIS MVA
 Setup_LoadMap=MVA\HELGELAND MVA
 Setup_LoadMap=MVA\BARDUFOSS MVA
 Setup_LoadMap=MVA\EVENES MVA
