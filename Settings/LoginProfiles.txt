@@ -106,6 +106,10 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 
 ; --- ENGM ---
+PROFILE:ENGM_FMP:300:5
+ATIS2:Oslo TMA Planner
+ATIS3:Flow Management Planner
+ATIS4:This position does not provide any ATC service
 PROFILE:ENGM_W_APP:150:5
 ATIS2:Oslo Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -212,6 +216,10 @@ PROFILE:ENHD_TWR:50:4
 ATIS2:Karmøy Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
+PROFILE:ENBR_FMP:300:5
+ATIS2:Flesland TMA Planner
+ATIS3:Flow Management Planner
+ATIS4:This position does not provide any ATC service
 PROFILE:ENBR_W_APP:150:5
 ATIS2:Flesland Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
