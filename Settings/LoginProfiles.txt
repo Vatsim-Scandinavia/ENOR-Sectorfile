@@ -144,7 +144,7 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_P_GND:20:3
 ATIS2:Gardermoen Planner
-ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS3:Monitor your TSAT on vats.im/vdgs
 ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
@@ -242,7 +242,7 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_P_GND:20:3
 ATIS2:Flesland Planner
-ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS3:Monitor your TSAT on vats.im/vdgs
 ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_ICE_GND:20:3
 ATIS2:De-ice coordinator
