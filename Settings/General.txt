@@ -160,6 +160,7 @@ m_Column:TYPE:5:1:10028:24:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:ADES:5:1:10008:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:EOBT:5:1:1:120:0:0:CDM Plugin:CDM Plugin::0:0.0
 m_Column:TOBT:5:1:4:114:115:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
+m_Column:BY:4:1:145:0:0:0:CDM Plugin:::0:0.0
 m_Column:ASRT:5:1:7:107:0:0:CDM Plugin:CDM Plugin::0:0.0
 m_Column:ASAT:7:0:6:0:0:0:CDM Plugin:::0:0.0
 m_Column:TSAT:5:1:2:141:137:1:CDM Plugin:CDM Plugin:CDM Plugin:1:0.0
