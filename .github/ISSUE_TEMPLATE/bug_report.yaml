@@ -2,7 +2,6 @@ name: Bug report - Euroscope/Sectorfile
 title: "[BUG] "
 type: bug
 description: Bugs related to EuroScope/sectorfile
-project: Vatsim-Scandinavia/8
 body:
   - type: markdown
     attributes:
