@@ -4,7 +4,6 @@ description: Bugs or issues related to the Sectorfile
 type: feature
 labels:
   - Question / Suggestion
-assignees:
 body:
   - type: markdown
     attributes:
