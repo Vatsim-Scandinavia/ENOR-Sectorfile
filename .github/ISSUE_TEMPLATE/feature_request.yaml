@@ -1,0 +1,29 @@
+name: Feature request - EuroScope/Sectorfile
+title: "[Suggestion] "
+description: Bugs or issues related to the Sectorfile
+type: feature
+labels:
+  - Question / Suggestion
+assignees:
+body:
+  - type: markdown
+    attributes:
+      value: Hello - Thanks for comming with a new possible feature request.
+  - type: checkboxes
+    id: checkboxes-1
+    attributes:
+      label: Which service?
+      options:
+        - label: Sectorfile
+        - label: ATIS
+        - label: Wiki/documentation
+        - label: Other
+    validations:
+      required: true
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: Suggestion
+      description: Provide your suggestion
+    validations:
+      required: true
