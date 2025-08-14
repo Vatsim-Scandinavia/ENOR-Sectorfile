@@ -11,6 +11,10 @@ PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENOR_FMP:300:5
+ATIS2:Polaris Flow Manager
+ATIS3:Flow Management Position
+ATIS4:This position does not provide any ATC service
 
 PROFILE
 PROFILE:ENRC_S_CTR:316:6
@@ -106,10 +110,6 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
 
 ; --- ENGM ---
-PROFILE:ENGM_FMP:300:5
-ATIS2:Oslo Flow Manager
-ATIS3:Flow Management Position
-ATIS4:This position does not provide any ATC service
 PROFILE:ENGM_W_APP:150:5
 ATIS2:Oslo Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
@@ -216,10 +216,6 @@ PROFILE:ENHD_TWR:50:4
 ATIS2:Karmøy Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
-PROFILE:ENBR_FMP:300:5
-ATIS2:Flesland Flow Manager
-ATIS3:Flow Management Possition
-ATIS4:This position does not provide any ATC service
 PROFILE:ENBR_W_APP:150:5
 ATIS2:Flesland Approach
 ATIS3:Feedback welcome at vatsca.org/feedback
