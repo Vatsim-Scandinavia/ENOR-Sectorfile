@@ -20,8 +20,9 @@
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />
-	<sftpConnection mode="true" />
+	<sftpConnection mode="false" />
 	<Server mode="true" />
 	<Su_Wait mode="false" />
 
 </CDM>
+
