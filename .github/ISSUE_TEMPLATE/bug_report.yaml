@@ -16,8 +16,6 @@ body:
       label: Screenshots
       description: "Important: Provide atleast 1 screenshot of your **whole**
         EuroScope window!"
-    validations:
-      required: true
   - type: textarea
     id: textarea-2
     attributes:
