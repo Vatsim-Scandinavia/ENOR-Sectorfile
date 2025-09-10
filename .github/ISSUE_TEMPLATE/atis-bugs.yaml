@@ -1,0 +1,27 @@
+name: Bug report - ATIS
+title: "[ATIS] "
+description: Bugs or issues related to ATIS
+labels:
+  - ATIS
+assignees: marud94, Atriusftw
+body:
+  - type: markdown
+    attributes:
+      value: Hello - Thanks for reporting an issue with the ATIS
+  - type: checkboxes
+    id: checkboxes-1
+    attributes:
+      label: Where do you experience the issue?
+      options:
+        - label: EuroScope
+        - label: ATIS maker webpage (atis.adbj.no)
+        - label: Somewhere else
+    validations:
+      required: true
+  - type: textarea
+    id: textarea-2
+    attributes:
+      label: Explaination
+      description: Explain the bug
+    validations:
+      required: true

@@ -11,6 +11,10 @@ PROFILE:ENOR_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENOR_FMP:300:5
+ATIS2:Polaris Flow Manager
+ATIS3:Flow Management Position
+ATIS4:This position does not provide any ATC service
 
 PROFILE
 PROFILE:ENRC_S_CTR:316:6
@@ -140,7 +144,7 @@ ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_P_GND:20:3
 ATIS2:Gardermoen Planner
-ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS3:Monitor your TSAT on vats.im/vdgs
 ATIS4:Pilot briefing - vatsca.org/ENGM
 PROFILE:ENGM_ICE_GND:20:3
 ATIS2:Gardermoen Apron (De-ice coordinator)
@@ -231,6 +235,10 @@ ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_GND:20:3
 ATIS2:Flesland Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Pilot briefing - vatsca.org/ENBR
+PROFILE:ENBR_P_GND:20:3
+ATIS2:Flesland Planner
+ATIS3:Monitor your TSAT on vats.im/vdgs
 ATIS4:Pilot briefing - vatsca.org/ENBR
 PROFILE:ENBR_ICE_GND:20:3
 ATIS2:De-ice coordinator
