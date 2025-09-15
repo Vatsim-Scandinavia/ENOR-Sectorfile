@@ -1,30 +1,29 @@
-//-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Br�nstad or Adrian Bjerke. -------//
-
-
-
-//Norwegian Topsky NATCON setup//
-
-
-// DO NOT CHANGE ANYTHING IN THIS FILE!//
+//------- VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SETTINGS -------// 
+//------- For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Br?nstad or Adrian Bjerke. -------//
 
 
 Setup_COOPANS=0
 
-//---------- Colors ----------//
+;#------------------------------------------------------------------------------
+;# COLORS
+;#------------------------------------------------------------------------------
 
-Color_Active_Map_Type_5=120,50,50
-                                    //rgb(120, 50, 50)
+Color_Active_Map_Type_1=119,13,16
+                                    //rgb(119,13,16)
+Color_Active_Map_Type_2=190,160,6
+                                    //rgb(190,160,6)
+Color_Active_Map_Type_3=30,20,31
+                                    //rgb(13,9,12)
 Color_Active_RD_Infill_Map=90,90,90
                                     //rgb(90,90,90)
 Color_Active_Sector=52,58,62
                                     //rgb(52,58,62)
-Color_Active_RD_Map=150,41,43
-                                    //rgb(150,41,43)
-Color_Active_Text_Map=190,190,190
-                                    //rgb(190,190,190)
-Color_Assumed=255,255,255
-                                    //rgb(255,255,255)
+Color_Active_RD_Map=119,13,16
+                                    //rgb(119,13,16)
+Color_Active_Text_Map=30,20,31
+                                    //rgb(30,20,31)
+Color_Assumed=210,208,209
+                                    //rgb(210,208,209)
 Color_Background=30,30,30
                                     //rgb(30,30,30)
 Color_Border=51,51,52
@@ -34,12 +33,12 @@ Color_BottomShadow=70,70,70
 Color_Concerned=188,188,188
                                     //rgb(188,188,188)
 Color_Coordination=150,150,150
-                                    //rgb(150,150,150)   
+                                    //rgb(150,150,150)
 Color_Field_Highlight=72,72,73
                                     //rgb(72,72,73)
 Color_Flight_Highlight=36,41,45
-                                    //rgb(36,41,45)                                 
-Color_Flight_Leg= 4,194,249
+                                    //rgb(36,41,45)
+Color_Flight_Leg=4,194,249
                                     //rgb(4,194,249)
 Color_Foreground=159,195,194 
                                     //rgb(159,195,194)
@@ -75,8 +74,8 @@ Color_Overflown=82,105,146
                                     //rgb(82,105,146)
 Color_Preactive_Map=154,138,128
                                     //rgb(154,138,128)
-Color_Preactive_Text_Map=155,147,138
-                                    //rgb(155,147,138)
+Color_Preactive_Text_Map=30,20,31
+                                    //rgb(30,20,31)
 Color_Proposition_Accepted=0,232,0
                                     //rgb(0,232,0)
 Color_Proposition_In=255,130,180
@@ -110,19 +109,21 @@ Color_SMW_Overlap=224,25,25
 Color_SMW_Overlap_Box=207,207,207
                                     //rgb(207,207,207)
 Color_SMW_Overshoot=239,224,41
-                                    //rgb(239,224,41)                     
-Color_Track_Default=210,210,210
-                                    //rgb(210,210,210)
-Color_Track_Highlight=210,210,210
-                                    //rgb(210,210,210)
-Color_Text_Notes=255,255,255
-                                    //rgb(255,255,255)
+                                    //rgb(239,224,41)
+Color_Track_Default=210,208,209
+                                    //rgb(210,208,209)
+Color_Track_Highlight=210,208,209
+                                    //rgb(210,208,209)
+Color_Text_Notes=210,208,209
+                                    //rgb(210,208,209)
 Color_TopShadow=155,158,159
                                     //rgb(155,158,159)
 Color_TSA_Active=93,138,195
-                                    //rgb(93,138,195) 
-Color_Unconcerned=131,131,131
-                                    //rgb(31,131,131)
+                                    //rgb(93,138,195)
+Color_TSA_Border_Highlight=150,40,40
+                                    //rgb(150,40,40)
+Color_Unconcerned=119,115,118
+                                    //rgb(119,115,118)
 Color_Urgency=225,25,25
                                     //rgb(225,25,25)
 Color_Urgency_FL=225,25,25
@@ -133,8 +134,8 @@ Color_VAW_Sector_Limits=145,95,30
                                     //rgb(145,95,30)
 Color_VAW_Track_Position=219,219,219
                                     //rgb(219,219,219)
-Color_WM_Active_Fg=255,254,254
-                                    //rgb(255,254,254)
+Color_WM_Active_Fg=255,255,255
+                                    //rgb(255,255,255)
 Color_WM_Bg=100,100,105
                                     //rgb(100,100,105)
 Color_WM_Border=88,95,99
@@ -151,14 +152,9 @@ Color_CPDLC_UM_Clearance=255,101,0
                                     //rgb(225, 101, 0)
 
 
-
-
-
-
-
-
-
-//---------- Settings ----------//
+;#------------------------------------------------------------------------------
+;# SETTINGS
+;#------------------------------------------------------------------------------
 
 Airspace_ASSR_EndCode=7477
 Airspace_ASSR_StartCode=1001
@@ -167,7 +163,9 @@ Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500
 Airspace_NOTAM_Add=ENOR
 Airspace_SIGMET_Areas=ENOS,ENSV,ENBD,ENOR
 AIW=0
-Areas_Label_MapText=1
+Areas_Label_MapText=0,0
+Areas_Label_Name=0,0
+Areas_Label_Levels=0,0
 Areas_NOTAM_Activation=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
@@ -213,8 +211,22 @@ RDF_Floor=2500
 RwyAppLines_Auto=0
 Shortcut_AHDG_NoFixes_Combo=0x12
 Shortcut_Cursor_Ini=0x00
+STCA_AlertSound=1
+STCA_Coarse_PredictionTime=25
+STCA_Coarse_Sep_Lat_L=5
 STCA_Filter=2
-STCA_Floor=2500
+STCA_Floor=5500
+STCA_LinPred_PredictionTime=25
+STCA_Sep_Lat_SepLevel=21500
+STCA_Turn_React=25
+STCA_Turn_Sep_Lat_L=5
+STCA_Turn_Sep_Lat_U=5
+STCA_UseCFL=0
+STCA_VFR=1
+STCA_WarningTime_L=0
+STCA_WarningTime_L_Imm=25
+STCA_WarningTime_U=0
+STCA_WarningTime_U_Imm=25
 System_ASP_IasMach=25000
 System_MagModel_Year=2020
 System_RepHdg_Correction=2
@@ -259,19 +271,14 @@ Window_DCL_SetCFL=1
 
 System_UseAcceptedCoordColor=1
 
-
 //---------- Keybinds ----------//
 
-
-Shortcut_RadarMenu_Combo=0x00
 Shortcut_Map_Xfr_Key=1,0x4D ; M
 Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Target=1,MVA
 Shortcut_Map_Target=2,VFR
 
-
 //---------- Windows ----------//
-
 
 //Windows on screen, If you want to add other windows see Vatsim Scandinavia Forum, Topsky NATCON Tips and Tricks//
 
@@ -279,9 +286,7 @@ Window_QNHTL=1,1780,460
 Window_CPDLC_Current=0,1900,300
 Window_CPDLC_History=0,1900,700
 
-
 //---------- Runway Appline Settings ----------//
-
 
 RwyAppLines_Length=0
 RwyAppLines_Markers=20
@@ -290,100 +295,90 @@ RwyAppLines_Auto=0
 
 //---------- Sector Settings ----------//
 
-
-[ENOB_CTR]
+[ENOB_]
 Setup_ScreenLat=BJO
 System_Oceanic=1
 Window_CPDLC_Current=1,1900,500
 Window_CPDLC_History=1,1900,900
-Setup_LoadMap=CORD FIX\ENOB COORD FIX SYMBOLS
-Setup_LoadMap=CORD FIX\ENOB INT COORD FIX SYMBOLS
-
-
 
 [ENOS_]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\KJEVIK MVA
 Setup_ScreenLat=ENGM
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 
-
 [ENGM_]
-Setup_LoadMap=MVA\MVA ENGM
+Setup_LoadMap=MVA\OSLO MVA
 Setup_ScreenLat=ENGM
 
-
 [ENTO_]
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENTO
 
-
 [ENRY_]
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENRY
 
-
 [ENCN_]
-Setup_LoadMap=MVA\MVA ENCN
+Setup_LoadMap=MVA\KJEVIK MVA
 Setup_ScreenLat=ENCN
 
 [ENSV_]
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
 Setup_ScreenLat=ENBR
 Setup_LoadMap=LOA\ENOR->EKDK
 
-
 [ENBR_]
-Setup_LoadMap=MVA\MVA ENBR
+Setup_LoadMap=MVA\FLESLAND MVA
 Setup_ScreenLat=ENBR
 
 [ENZV_]
-Setup_LoadMap=MVA\MVA ENZV
+Setup_LoadMap=MVA\SOLA MVA
 Setup_ScreenLat=ENZV
 
 [ENBD_CTR]
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBO
 
 [ENBD_S_CTR]
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENVA
 
 [ENBD_9_CTR]
 Setup_ScreenLat=ENRO
 Setup_LoadMap=LOA\ENBD->ESOS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
 
 [ENBD_C_CTR]
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENBN
 
 [ENBD_E_CTR]
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENNA
 
@@ -391,122 +386,122 @@ Setup_ScreenLat=ENNA
 Setup_ScreenLat=ENBN
 
 [ENVA_]
-Setup_LoadMap=MVA\MVA ENVA
+Setup_LoadMap=MVA\VAERNES MVA
 Setup_ScreenLat=ENVA
 
 [ENBO_]
-Setup_LoadMap=MVA\MVA ENBO
+Setup_LoadMap=MVA\BODO MVA
 Setup_ScreenLat=ENBO
 
 [ENDU_]
-Setup_LoadMap=MVA\MVA ENDU
+Setup_LoadMap=MVA\BARDUFOSS MVA
 Setup_ScreenLat=ENDU
 
 [ENEV_]
-Setup_LoadMap=MVA\MVA ENEV
+Setup_LoadMap=MVA\EVENES MVA
 Setup_ScreenLat=ENEV
 
 [ENTC_]
-Setup_LoadMap=MVA\MVA ENTC
+Setup_LoadMap=MVA\TROMSO MVA
 Setup_ScreenLat=ENTC
 
 [ENAT_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENAT
 
 [ENHF_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENHF
 
 [ENNA_]
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
+Setup_LoadMap=MVA\HAMMERFEST MVA
 Setup_ScreenLat=ENNA
 
 [ENKR_]
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_ScreenLat=ENKR
 
 [ENAL_]
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MORE MVA
 Setup_ScreenLat=ENAL
 
 [ENKB_]
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\MORE MVA
 Setup_ScreenLat=ENKB
 
 [ENOR_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENBO
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENTC
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BODO MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\TROMSO MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENVA
 
 [ENOR_SC_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA ENVA
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA MORE
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\VAERNES MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\MORE MVA
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_LoadMap=LOA\ENBD->ESOS
 Setup_ScreenLat=ENGM
 
 [ENOR_S_CTR]
-Setup_LoadMap=MVA\MVA ENGM
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA ENBR
-Setup_LoadMap=MVA\MVA ENZV
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\OSLO MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FLESLAND MVA
+Setup_LoadMap=MVA\SOLA MVA
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_LoadMap=LOA\ENOS->ESOS
 Setup_LoadMap=LOA\ENOR->EKDK
 Setup_ScreenLat=ENGM
 
 
 [ENRC_CTR]
-Setup_LoadMap=MVA\MVA MORE
-Setup_LoadMap=MVA\MVA ENOL
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA FARRIS
-Setup_LoadMap=MVA\MVA HELGELAND
-Setup_LoadMap=MVA\MVA ENDU
-Setup_LoadMap=MVA\MVA ENEV
-Setup_LoadMap=MVA\MVA ENAT/HF/NA
-Setup_LoadMap=MVA\MVA ENKR
+Setup_LoadMap=MVA\MORE MVA
+Setup_LoadMap=MVA\ORLAND MVA
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FARRIS MVA
+Setup_LoadMap=MVA\HELGELAND MVA
+Setup_LoadMap=MVA\BARDUFOSS MVA
+Setup_LoadMap=MVA\EVENES MVA
+Setup_LoadMap=MVA\HAMMERFEST MVA
+Setup_LoadMap=MVA\KIRKENES MVA
 Setup_ScreenLat=ENVA
 
 [ENRC_S_CTR]
-Setup_LoadMap=MVA\MVA ENCN
-Setup_LoadMap=MVA\MVA FARRIS
+Setup_LoadMap=MVA\KJEVIK MVA
+Setup_LoadMap=MVA\FARRIS MVA
 Setup_ScreenLat=ENGM
 
 [ENBN_APP]
 Setup_ScreenLat=ENBN
-Setup_LoadMap=MVA\MVA HELGELAND
+Setup_LoadMap=MVA\HELGELAND MVA
 
 [ENOB_CTR]
 Setup_ScreenLat=BJO
 
 [ENOL_]
 Setup_ScreenLat=ENOL
-Setup_LoadMap=MVA\MVA ENOL
+Setup_LoadMap=MVA\ORLAND MVA
 
 [ENBN_]
 Setup_ScreenLat=ENBN
@@ -612,6 +607,3 @@ Setup_ScreenLat=ENBN
 
 [ENAS_]
 Setup_ScreenLat=ENAS
-
-
-
