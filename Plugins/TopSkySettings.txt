@@ -275,8 +275,10 @@ System_UseAcceptedCoordColor=1
 
 Shortcut_Map_Xfr_Key=1,0x4D ; M
 Shortcut_Map_Xfr_Key=2,0x56 ; V
+Shortcut_Map_Xfr_Key=3,0x4F ; O
 Shortcut_Map_Target=1,MVA
 Shortcut_Map_Target=2,VFR
+Shortcut_Map_Target=3,LOWER LIMIT
 
 //---------- Windows ----------//
 
