@@ -22,8 +22,8 @@ Color_Active_RD_Map=119,13,16
                                     //rgb(119,13,16)
 Color_Active_Text_Map=60,60,60
                                     //rgb(30,20,31)
-Color_Assumed=210,208,209
-                                    //rgb(210,208,209)
+Color_Assumed=230,230,230
+                                    //rgb(230,230,230)
 Color_Background=30,30,30
                                     //rgb(30,30,30)
 Color_Border=51,51,52
