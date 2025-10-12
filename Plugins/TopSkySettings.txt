@@ -20,7 +20,7 @@ Color_Active_Sector=52,58,62
                                     //rgb(52,58,62)
 Color_Active_RD_Map=119,13,16
                                     //rgb(119,13,16)
-Color_Active_Text_Map=30,20,31
+Color_Active_Text_Map=60,60,60
                                     //rgb(30,20,31)
 Color_Assumed=210,208,209
                                     //rgb(210,208,209)
@@ -163,10 +163,10 @@ Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500
 Airspace_NOTAM_Add=ENOR
 Airspace_SIGMET_Areas=ENOS,ENSV,ENBD,ENOR
 AIW=0
-Areas_Label_MapText=0,0
-Areas_Label_Name=0,0
-Areas_Label_Levels=0,0
-Areas_NOTAM_Activation=1
+Areas_Label_MapText=1,0
+Areas_Label_Name=1,0
+Areas_Label_Levels=1,0
+Areas_NOTAM_Activation=0
 CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_CFL=1
