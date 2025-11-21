@@ -314,6 +314,7 @@ WAC	C
 WAD	Mil
 WAG	Mil
 WAM	C
+WCG	C
 WCM	C
 WIS	C
 WIT	Mil
