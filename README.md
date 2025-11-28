@@ -41,6 +41,7 @@ Current sector file developers:
 - Bjørn Helge Småvollan
 - Sander Lislott
 - Marius Linge
+- Ask Erikstad
 
 ## Discord
 We have an internal discord server for sectorfile development.\
