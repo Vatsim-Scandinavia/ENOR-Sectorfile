@@ -6,7 +6,8 @@
 	<realMode mode="false" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
-	<invalidateAtTsat mode="true" />
+	<invalidateAtTsat mode="false" />
+	<invalidateAtTobt mode="false" />
 	<Rates url="https://adbj.no/cdm/rate.txt" />
 	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
 	<Ctot url="https://adbj.no/cdm/ctot.txt" />
@@ -23,6 +24,4 @@
 	<sftpConnection mode="false" />
 	<Server mode="true" />
 	<Su_Wait mode="false" />
-
 </CDM>
-
