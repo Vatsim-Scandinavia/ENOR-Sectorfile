@@ -1,0 +1,240 @@
+[stations]
+selected_profile = "ENOR"
+
+[stations.profiles.ENOR-Domestic_only]
+include = ["EN*"]
+exclude = []
+priority = [
+    "ENOR*",
+    "ENOS*",
+    "ENSV*",
+    "ENBD*",
+    "ENOB",
+    "*_FMP",
+    "*_FSS",
+    "*_CTR",
+    "*_APP*",
+    "*_TWR*",
+    "*_GND*",
+    "*_DEL*",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.ENOR-Domestic_only.aliases]
+"125.500" = "ENOR"
+"119.355" = "MØRE E APP"
+"135.680" = "SV 16/15"
+"126.205" = "OL ARR"
+"120.455" = "GM W APP"
+"118.550" = "BD 24"
+"126.105" = "BR E APP"
+"118.830" = "OS 1"
+"118.325" = "ENRC RTC N"
+"124.705" = "SV 17"
+"136.280" = "SV 10/11"
+"125.055" = "OS 3"
+"126.630" = "OS 2"
+"124.580" = "SV 14"
+"134.055" = "FARRIS APP"
+"118.425" = "ENRC RTC S"
+"118.255" = "OL APP"
+"124.300" = "BD O"
+"118.480" = "GM E APP"
+"131.100" = "BD 19"
+"119.155" = "VA DIR"
+"120.380" = "OS 6"
+"124.355" = "FARRIS DIR"
+"118.605" = "VA APP"
+"126.450" = "BD 25"
+"125.700" = "BD 18"
+"128.905" = "GM FIN"
+"136.405" = "GM DIR"
+"124.780" = "OS 7"
+"126.700" = "BD 26"
+"129.330" = "MØRE W APP"
+"134.930" = "SV 13"
+"134.205" = "SV O"
+"121.005" = "BR W APP"
+"127.255" = "OS 5"
+"121.550" = "ENOR S"
+"118.880" = "OS 4"
+"127.905" = "HELGELAND"
+"120.655" = "SV 9/12"
+"118.855" = "BR DIR"
+"134.355" = "OS 8"
+"134.515" = "ENOR SC"
+
+[stations.profiles.ENOR]
+include = [
+    "EN*",
+    "EF*_CTR",
+    "EK*_CTR",
+    "ES*_CTR",
+    "BI*_CTR",
+    "BG*_FSS",
+    "SCO*_CTR",
+    "ULLL_CTR",
+    "NISSE_FMP",
+]
+exclude = [
+    "EKDK_A*_CTR",
+    "EKDK_B*_CTR",
+    "EKDK_C*_CTR",
+    "EKDK_D*_CTR",
+    "EKDK_I*_CTR",
+    "EKDK_UC*_CTR",
+    "EKDK_UA*_CTR",
+    "EKDK_E*_CTR",
+    "ESMM_3*_CTR",
+    "ESMM_6*_CTR",
+    "ESMM_7*_CTR",
+    "ESMM_8*_CTR",
+    "ESMM_9*_CTR",
+    "ESMM_K*_CTR",
+    "ESMM_W*_CTR",
+    "ESMM_XK*_CTR",
+    "ESMM_Y*_CTR",
+    "ESOS_2*_CTR",
+    "ESOS_4*_CTR",
+    "ESOS_6*_CTR",
+    "ESOS_7*_CTR",
+    "ESOS_9*_CTR",
+    "ESOS_F*_CTR",
+    "EFIN_A*_CTR",
+    "EFIN_B*_CTR",
+    "EFIN_C*_CTR",
+    "EFIN_E*_CTR",
+    "EFIN_K*_CTR",
+    "EFIN_L*_CTR",
+    "EFIN_N*_CTR",
+    "EFIN_Y*_CTR",
+    "EFIN_Z*_CTR",
+    "SCO_C*_CTR",
+    "SCO_D*_CTR",
+    "SCO_EH*_CTR",
+    "SCO_H*_CTR",
+    "SCO_HC*_CTR",
+    "SCO_R*_CTR",
+    "SCO_RE*_CTR",
+    "STC*_CTR",
+]
+priority = [
+    "ENOR*",
+    "ENOS*",
+    "ENSV*",
+    "ENBD*",
+    "ENOB",
+    "EN*_APP",
+    "EN*_TWR",
+    "EN*_GND",
+    "EN*_DEL",
+    "*_FMP",
+    "*_FSS",
+    "*_CTR",
+    "*_APP*",
+    "*_TWR*",
+    "*_GND*",
+    "*_DEL*",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.ENOR.aliases]
+"126.300" = "EFIN V"
+"126.825" = "ESAA"
+"131.100" = "BD 19"
+"127.905" = "HELGELAND"
+"126.450" = "BD 25"
+"118.405" = "ESOS 1"
+"126.630" = "OS 2"
+"124.500" = "SCO L"
+"118.325" = "ENRC RTC N"
+"131.130" = "ESOS 3"
+"132.765" = "ESMM 5"
+"120.655" = "SV 9/12"
+"124.200" = "EFIN H"
+"125.600" = "ESOS XK"
+"121.550" = "ENOR S"
+"131.055" = "ESOS K"
+"124.300" = "BD O"
+"126.205" = "OL ARR"
+"126.105" = "BR E APP"
+"135.565" = "EKDK V"
+"121.005" = "BR W APP"
+"118.255" = "OL APP"
+"135.530" = "SCO"
+"120.455" = "GM W APP"
+"118.480" = "GM E APP"
+"134.680" = "EKDK N"
+"119.355" = "MØRE E APP"
+"126.550" = "BICC 2"
+"134.055" = "FARRIS APP"
+"118.605" = "VA APP"
+"133.455" = "ESOS YK"
+"120.380" = "OS 6"
+"127.100" = "EFIN G"
+"127.255" = "OS 5"
+"126.700" = "BD 26"
+"128.905" = "GM FIN"
+"136.555" = "EKDK UN"
+"129.180" = "ESOS 8"
+"124.405" = "ESMM 4"
+"121.300" = "EFIN D"
+"126.055" = "EKDK UV"
+"132.200" = "BIRD E2"
+"129.330" = "MØRE W APP"
+"125.705" = "BIRD S2"
+"126.750" = "BIRD E1"
+"125.700" = "BD 18"
+"119.700" = "BIRD S1"
+"134.355" = "OS 8"
+"130.900" = "ESSR RTC"
+"127.755" = "ESMM 2"
+"125.055" = "OS 3"
+"126.100" = "EFIN J"
+"127.850" = "BICC 1"
+"134.205" = "SV O"
+"136.280" = "SV 10/11"
+"124.580" = "SV 14"
+"128.800" = "BIRD E3"
+"135.680" = "SV 16/15"
+"118.830" = "OS 1"
+"134.775" = "SCO S"
+"132.155" = "ESOS N"
+"124.555" = "EKDK L"
+"132.325" = "EFIN M"
+"118.425" = "ENRC RTC S"
+"136.405" = "GM DIR"
+"132.725" = "EFIN F"
+"121.325" = "SCO E"
+"129.225" = "SCO N"
+"124.780" = "OS 7"
+"124.355" = "FARRIS DIR"
+"118.855" = "BR DIR"
+"119.155" = "VA DIR"
+"128.600" = "BIRD S3"
+"134.930" = "SV 13"
+"134.515" = "ENOR SC"
+"129.625" = "BICC 3"
+"118.550" = "BD 24"
+"125.500" = "ENOR "
+"124.705" = "SV 17"
+"118.880" = "OS 4"
+"124.460" = "ESKS TWR"
+
+[stations.profiles.Default]
+include = []
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "ShowAll"
+grouping = "None"
+
+[stations.profiles.Default.aliases]
