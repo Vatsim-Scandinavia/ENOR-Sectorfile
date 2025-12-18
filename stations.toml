@@ -72,6 +72,7 @@ include = [
     "EK*_CTR",
     "ES*_CTR",
     "BI*_CTR",
+    "BI*_FSS",
     "BG*_FSS",
     "SCO*_CTR",
     "ULLL_CTR",
