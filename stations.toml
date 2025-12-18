@@ -76,6 +76,7 @@ include = [
     "SCO*_CTR",
     "ULLL_CTR",
     "NISSE_FMP",
+    "ESKS*"
 ]
 exclude = [
     "EKDK_A*_CTR",
@@ -221,7 +222,6 @@ grouping = "None"
 "125.500" = "ENOR "
 "124.705" = "SV 17"
 "118.880" = "OS 4"
-"124.460" = "ESKS TWR"
 
 [stations.profiles.Default]
 include = []
