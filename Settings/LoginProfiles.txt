@@ -443,6 +443,10 @@ PROFILE:ENTC_TWR:50:4
 ATIS2:Tromsø Tower
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Pilot briefing - vatsca.org/ENTC
+PROFILE:ENTC_DEL:20:2
+ATIS2:Tromsø Delivery
+ATIS3:Feedback welcome at vatsca.org/feedback
+ATIS4:Pilot briefing - vatsca.org/ENTC
 PROFILE:ENSR_I_TWR:50:4
 ATIS2:Sørkjosen Information (AFIS)
 ATIS3:Feedback welcome at vatsca.org/feedback
