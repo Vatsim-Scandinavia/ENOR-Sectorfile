@@ -62,6 +62,7 @@ CTM	Mil
 CTW	C
 CVK	C
 CWC	C
+CWE	C
 CWL	Mil
 CYG	C
 DAE	C
