@@ -8,9 +8,9 @@
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
-	<Rates url="https://adbj.no/cdm/rate.txt" />
-	<Taxizones url="" />
-	<Ctot url="https://adbj.no/cdm/ctot.txt" />
+	<Rates url="https://cdm.adbj.no/rate.txt" />
+	<Taxizones url="https://cdm.adbj.no/taxizones.txt" />
+	<Ctot url="https://cdm.adbj.no/ctot.txt" />
 	<sidInterval url="" />
 	<DefaultTaxiTime minutes="8" />
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
