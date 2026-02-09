@@ -6,14 +6,15 @@
 	<realMode mode="false" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="true" />
-	<invalidateAtTsat mode="false" />
+	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
-	<Rates url="https://adbj.no/cdm/rate.txt" />
-	<Taxizones url="https://adbj.no/cdm/taxizones.txt" />
-	<Ctot url="https://adbj.no/cdm/ctot.txt" />
+	<Rates url="https://cdm.adbj.no/rate.txt" />
+	<Taxizones url="https://cdm.adbj.no/taxizones.txt" />
+	<Ctot url="https://cdm.adbj.no/ctot.txt" />
 	<sidInterval url="" />
 	<DefaultTaxiTime minutes="8" />
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
+	<DeIceRemTaxi rem1Name= "GM ALPHA SOUTH" rem1="0" rem2Name= "GM BRAVO NORTH" rem2="0" rem3Name= "GM ALPHA NORTH" rem3="0" rem4Name= "BR DE-ICE PAD" rem4="0" rem5Name= "ALL REMOTE" rem5="11"/>
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
 	<FlowRestrictions url="" />
