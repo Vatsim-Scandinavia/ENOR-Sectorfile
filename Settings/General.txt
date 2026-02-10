@@ -171,7 +171,7 @@ m_Column:DEICE:9:1:19:141:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:FLOW:8:1:11:0:0:1:CDM Plugin:::1:0.0
 m_Column:EVT:5:1:15:129:0:0:CDM Plugin:CDM Plugin::0:0.0
 m_Column:CTOT:7:1:10:108:0:1:CDM Plugin:CDM Plugin::1:0.0
-m_Column:STS:5:1:18:137:0:1:CDM Plugin:CDM Plugin::0:0.0
+m_Column:STS:7:1:18:137:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:STUP:6:1:12:106:0:1:CDM Plugin:CDM Plugin::0:0.0
 END
 TAXIOUT
