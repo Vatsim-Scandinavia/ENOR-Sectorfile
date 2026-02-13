@@ -41,7 +41,7 @@ TopSky plugin:ACList/SECTOR LIST/m_Resizable:1
 TopSky plugin:ACList/SECTOR LIST/m_OrderingColumn:17
 TopSky plugin:ACList/SECTOR LIST/m_Column_0:FR:2:1:63:0:0:1:::
 TopSky plugin:ACList/SECTOR LIST/m_Column_1:ACID:10:0:10021:6:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/SECTOR LIST/m_Column_2:TYPE:4:0:10028:58:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/SECTOR LIST/m_Column_2:TYPE:4:0:10028:24:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/SECTOR LIST/m_Column_3:ADEP:5:0:10007:0:0:1:TopSky plugin::
 TopSky plugin:ACList/SECTOR LIST/m_Column_4:ADES:5:0:10008:7:99:1:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/SECTOR LIST/m_Column_5:ETA:6:1:10033:0:0:0:TopSky plugin::
