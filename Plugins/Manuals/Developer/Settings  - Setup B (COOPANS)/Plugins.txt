@@ -118,9 +118,9 @@ TopSky plugin:ACList/Sector List/m_Column_26:FCOPX:6:0:10045:0:99:1:TopSky plugi
 TopSky plugin:ACList/Sector List/m_Column_27:FETX:5:0:10092:0:0:1:TopSky plugin::
 TopSky plugin:ACList/Sector List/m_Column_28:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Sector List/m_Column_29:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Sector List/m_Column_30:FX:6:0:10112:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Sector List/m_Column_31:STA:5:0:10115:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Sector List/m_Column_32:TTLTTG:7:0:10118:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Sector List/m_Column_30:FX:6:0:10112:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Sector List/m_Column_31:STA:5:0:10115:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Sector List/m_Column_32:TTLTTG:7:0:10118:0:172:0:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Sector List/m_Column_33: SI:7:0:10014:20:0:1:TopSky plugin::
 TopSky plugin:ACList/Sector List/m_Column_34::2:0:65:25:0:1:::
 TopSky plugin:ACList/Sector List/m_Column_35:ETA:5:0:10033:0:0:1:TopSky plugin::
@@ -154,9 +154,9 @@ TopSky plugin:ACList/Uncontrolled List 1/m_Column_5:ADEP:5:0:10007:0:0:1:TopSky 
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_6:EOBT:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_7:ATD:5:0:10055:93:98:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_8:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Uncontrolled List 1/m_Column_9:FF:6:0:10110:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Uncontrolled List 1/m_Column_10:STAFF:6:0:10113:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Uncontrolled List 1/m_Column_11:TTLTTG:7:0:10116:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Uncontrolled List 1/m_Column_9:FF:6:0:10110:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Uncontrolled List 1/m_Column_10:STAFF:6:0:10113:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Uncontrolled List 1/m_Column_11:TTLTTG:7:0:10116:0:172:0:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_12:ALTN1:6:0:10090:1001:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_13:EET:5:0:10070:1001:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 1/m_Column_14:ETA:5:0:10033:0:0:1:TopSky plugin::
@@ -185,9 +185,9 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Column_5:ADEP:5:0:10007:0:0:1:TopSky 
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_6:EOBT:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_7:ATD:5:0:10055:93:98:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_8:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Uncontrolled List 2/m_Column_9:FF:6:0:10110:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Uncontrolled List 2/m_Column_10:STAFF:6:0:10113:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Uncontrolled List 2/m_Column_11:TTLTTG:7:0:10116:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Uncontrolled List 2/m_Column_9:FF:6:0:10110:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Uncontrolled List 2/m_Column_10:STAFF:6:0:10113:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Uncontrolled List 2/m_Column_11:TTLTTG:7:0:10116:0:172:0:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_12:ALTN1:6:0:10090:1001:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_13:EET:5:0:10070:1001:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_14:ETA:5:0:10033:0:0:1:TopSky plugin::
@@ -228,22 +228,22 @@ TopSky plugin:ACList/Traffic Management List 1/m_Column_17:XFL:4:0:10003:24:110:
 TopSky plugin:ACList/Traffic Management List 1/m_Column_18:FCOPX:6:0:10045:0:99:1:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Traffic Management List 1/m_Column_19:ADEP:5:0:10007:0:0:1:TopSky plugin::
 TopSky plugin:ACList/Traffic Management List 1/m_Column_20:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_21:FX:6:0:10112:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_22:STA:5:0:10115:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_23:TTLTTG:7:0:10118:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_24:ETO:5:0:10078:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_25:EAT:5:0:10132:164:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_26:STAR:8:0:10012:18:124:1:TopSky plugin::TopSky plugin
-TopSky plugin:ACList/Traffic Management List 1/m_Column_27:ARWY:5:0:10010:19:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_28:ETA:5:0:10033:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_29:SID:8:0:10011:17:123:1:TopSky plugin::TopSky plugin
-TopSky plugin:ACList/Traffic Management List 1/m_Column_30:DRWY:5:0:10009:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 1/m_Column_31: AHDG:7:0:10038:14:133:1:TopSky plugin:TopSky plugin:TopSky plugin
-TopSky plugin:ACList/Traffic Management List 1/m_Column_32:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_33:C:2:0:10102:130:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_34:TIME:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_35:Actual:7:0:10055:93:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 1/m_Column_36:HOLD:5:0:10096:120:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_21:FX:6:0:10112:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_22:STA:5:0:10115:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_23:TTLTTG:7:0:10118:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_24:SQ:3:0:10109:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_25:STAB:12:0:10135:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_26:ETO:5:0:10078:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_27:EAT:5:0:10132:164:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_28:STAR:8:0:10012:18:124:1:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_29:ARWY:5:0:10010:19:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_30:ETA:5:0:10033:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_31:SID:8:0:10011:17:123:1:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_32:DRWY:5:0:10009:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 1/m_Column_33: AHDG:7:0:10038:14:133:1:TopSky plugin:TopSky plugin:TopSky plugin
+TopSky plugin:ACList/Traffic Management List 1/m_Column_34:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_35:C:2:0:10102:130:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_36:TIME:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Visible:0
 TopSky plugin:ACList/Traffic Management List 2/m_X:3
 TopSky plugin:ACList/Traffic Management List 2/m_Y:934
@@ -271,20 +271,24 @@ TopSky plugin:ACList/Traffic Management List 2/m_Column_17:XFL:4:0:10003:24:110:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_18:FCOPX:6:0:10045:0:99:1:TopSky plugin::TopSky plugin
 TopSky plugin:ACList/Traffic Management List 2/m_Column_19:ADEP:5:0:10007:0:0:1:TopSky plugin::
 TopSky plugin:ACList/Traffic Management List 2/m_Column_20:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_21:FX:6:0:10112:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_22:STA:5:0:10115:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_23:TTLTTG:7:0:10118:0:0:0:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_24:ETO:5:0:10080:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_25:EAT:5:0:10132:164:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_26:STAR:8:0:10012:18:124:1:TopSky plugin::TopSky plugin
-TopSky plugin:ACList/Traffic Management List 2/m_Column_27:ARWY:5:0:10010:19:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_28:ETA:5:0:10033:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_29:SID:8:0:10011:17:123:1:TopSky plugin::TopSky plugin
-TopSky plugin:ACList/Traffic Management List 2/m_Column_30:DRWY:5:0:10009:0:0:1:TopSky plugin::
-TopSky plugin:ACList/Traffic Management List 2/m_Column_31: AHDG:7:0:10038:14:133:1:TopSky plugin:TopSky plugin:TopSky plugin
-TopSky plugin:ACList/Traffic Management List 2/m_Column_32:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_33:C:2:0:10103:131:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_34:TIME:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_35:Actual:7:0:10055:93:0:1:TopSky plugin:TopSky plugin:
-TopSky plugin:ACList/Traffic Management List 2/m_Column_36:HOLD:5:0:10097:121:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_21:FX:6:0:10112:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_22:STA:5:0:10115:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_23:TTLTTG:7:0:10118:0:172:0:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_24:SQ:3:0:10109:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_25:STAB:12:0:10135:0:0:0:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_26:ETO:5:0:10080:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_27:EAT:5:0:10132:164:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_28:STAR:8:0:10012:18:124:1:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_29:ARWY:5:0:10010:19:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_30:ETA:5:0:10033:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_31:SID:8:0:10011:17:123:1:TopSky plugin::TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_32:DRWY:5:0:10009:0:0:1:TopSky plugin::
+TopSky plugin:ACList/Traffic Management List 2/m_Column_33: AHDG:7:0:10038:14:133:1:TopSky plugin:TopSky plugin:TopSky plugin
+TopSky plugin:ACList/Traffic Management List 2/m_Column_34:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_35:C:2:0:10103:131:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_36:TIME:5:0:10018:95:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_37:Actual:7:0:10055:93:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 1/m_Column_38:HOLD:5:0:10096:120:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_37:Actual:7:0:10055:93:0:1:TopSky plugin:TopSky plugin:
+TopSky plugin:ACList/Traffic Management List 2/m_Column_38:HOLD:5:0:10097:121:0:1:TopSky plugin:TopSky plugin:
 END

@@ -40,7 +40,7 @@ END
 SEL
 m_Visible:0
 m_X:7
-m_Y:190
+m_Y:399
 m_LineNumber:15
 m_Resizable:1
 m_OrderingColumn:1
@@ -120,6 +120,7 @@ m_Column:XFL:4:0:10053:105:110:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:COPX:6:0:10052:45:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:FCOPX:6:0:10045:0:99:1:TopSky plugin::TopSky plugin:0:0.0
 m_Column:FETX:5:0:10092:0:0:1:TopSky plugin:::0:0.0
+m_Column:RAK:4:0:10134:173:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
 m_Column:ADES:5:0:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:RFL:4:0:10062:59:0:1:TopSky plugin:TopSky plugin::1:0.0
@@ -133,6 +134,7 @@ m_Column:FText:8:0:10095:112:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:SI:6:0:10061:20:0:1:TopSky plugin:::1:0.0
 m_Column::2:0:65:25:0:1::::1:0.0
 m_Column:Gate:5:0:1:0:0:1:Ground Radar plugin:::1:0.0
+m_Column:NFREQ:8:0:10136:174:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:ATIS:5:0:10093:114:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:DCL:5:0:10085:122:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:AN:3:0:10088:0:0:1:TopSky plugin:::0:0.0
