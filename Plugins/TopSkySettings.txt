@@ -238,6 +238,7 @@ Track_HistoryDots=5
 Track_PredictionLine_Max=10
 Track_PredictionLine=0
 Track_PSR_Filter_GS=40
+TCT=1
 Vector_FplSep_Label_Time=0
 Vector_MinSep_Label_Time=0
 Window_CARD_RefreshRate=10

@@ -13,7 +13,7 @@ m_Column: PEL:5:0:10001:68:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column::1:0:65:25:0:1::::1:0.0
 m_Column: PS:6:0:10014:20:0:1:TopSky plugin:::1:0.0
 m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
-m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: ASSR:7:0:10023:177:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: NSSR:7:0:10108:62:81:0:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
@@ -53,7 +53,7 @@ m_Column: PEL:5:0:10057:0:0:1:TopSky plugin:::1:0.0
 m_Column::1:0:10057:0:0:1:TopSky plugin:::1:0.0
 m_Column: PS:6:0:10057:0:0:1:TopSky plugin:::1:0.0
 m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
-m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: ASSR:7:0:10023:177:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column: NSSR:7:0:10108:62:81:0:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
@@ -93,7 +93,7 @@ m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column:WTC:4:0:10030:0:0:1:TopSky plugin:::1:0.0
 m_Column:STD:5:0:1:0:0:0:Ground Radar plugin:::1:0.0
-m_Column:ASSR:6:0:10020:62:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:ASSR:6:0:10020:177:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column: NSSR:7:0:10108:62:0:0:TopSky plugin:TopSky plugin::0:0.0
 m_Column: CFL:5:0:10049:109:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:accFL:6:0:10053:26:99:1:TopSky plugin::TopSky plugin:1:0.0
@@ -125,7 +125,7 @@ m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column: AFL:5:0:10013:22:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
-m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: ASSR:7:0:10023:177:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 END
 FP
 m_Visible:0
@@ -136,7 +136,7 @@ m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin::0:0.0
-m_Column: ASSR:7:0:10023:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: ASSR:7:0:10023:177:81:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:N/ATYP:7:0:10022:0:0:1:TopSky plugin:::1:0.0
 m_Column:FRUL:5:0:10031:0:0:1:TopSky plugin:::1:0.0
 m_Column:ADEP:5:0:10007:0:0:1:TopSky plugin:::1:0.0
@@ -152,4 +152,3 @@ m_Column:TEXT:8:0:10058:11:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:TEXT2:6:0:10059:2:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:STS:5:0:82:34:0:1::::1:0.0
 END
-
