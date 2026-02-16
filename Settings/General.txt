@@ -156,6 +156,7 @@ m_HeaderOnly:0
 m_Column:E:2:1:9:0:0:1:CDM Plugin:::1:0.0
 m_Column:RWY:4:1:10050:19:0:1:TopSky plugin:::1:0.0
 m_Column:ACID:9:0:10021:6:7:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:CLR:5:1:10128:155:0:1:TopSky plugin:TopSky plugin::0:0.0
 m_Column:TYPE:5:1:10028:24:0:1:TopSky plugin:TopSky plugin::1:0.0
 m_Column:ADES:5:1:10008:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
 m_Column:EOBT:5:1:1:120:0:0:CDM Plugin:CDM Plugin::0:0.0

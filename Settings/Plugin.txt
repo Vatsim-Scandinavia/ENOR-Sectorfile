@@ -129,4 +129,5 @@ TopSky plugin:ACList/SECTOR LIST/m_Column_28:NLT:8:1:10121:146:0:0:TopSky plugin
 TopSky plugin:ACList/SECTOR LIST/m_Column_29:RMK:17:0:19:29:29:1:::
 RDF Plugin for Euroscope:Bridge:1
 RDF Plugin for Euroscope:EnableDraw:0
+CDM Plugin:CDMMinimized:0
 END
