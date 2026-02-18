@@ -280,15 +280,19 @@ ATIS2:Polaris Control - Sector 19
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_C_CTR:311:6
-ATIS2:Polaris Control - Sector 24
+ATIS2:Polaris Control - Sector 18+19+24
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBD_CTR:311:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENBD_E_CTR:311:6
+PROFILE:ENBD_N_CTR:311:6
 ATIS2:Polaris Control - Sector 25+26
+ATIS3:Check where I cover at vats.im/ENOR
+ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENBD_E_CTR:311:6
+ATIS2:Polaris Control - Sector 26
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENBN_APP:150:5
