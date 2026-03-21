@@ -157,7 +157,7 @@ m_Column:START:6:1:86:0:0:1::::1:0.0
 m_Column:END:6:1:87:0:0:1::::1:0.0
 END
 PILOTING
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:491
 m_LineNumber:0
