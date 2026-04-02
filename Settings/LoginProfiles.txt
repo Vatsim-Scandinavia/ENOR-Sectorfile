@@ -355,7 +355,7 @@ PROFILE:ENVA_GND:20:3
 ATIS2:Værnes Ground
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:Pilot briefing - vatsca.org/ENVA
-PROFILE:ENNM_H_TWR:50:4
+PROFILE:ENVR_H_TWR:50:4
 ATIS2:Værøy Radio
 ATIS3:Feedback welcome at vatsca.org/feedback
 ATIS4:
