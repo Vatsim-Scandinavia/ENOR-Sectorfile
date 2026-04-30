@@ -5,6 +5,6 @@ NavData
 Settings/VoiceChannels.txt
 ASR
 Plugins/Manuals/Developer/~$TopSky_Developer_Guide_Settings.xlsx
-Plugins/CDM/log.txt
+Plugins/CDM/logs/*
 Plugins/CDM/CDM_data_****.json
 Plugins/CDM/CDM_data_****.txt
