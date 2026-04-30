@@ -9,6 +9,7 @@
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
+	<readySetTsac mode="true" />
 	<Rates url="https://cdm.adbj.no/rate.txt" />
 	<Taxizones url="https://cdm.adbj.no/taxizones.txt" />
 	<Ctot url="https://cdm.adbj.no/ctot.txt" />
