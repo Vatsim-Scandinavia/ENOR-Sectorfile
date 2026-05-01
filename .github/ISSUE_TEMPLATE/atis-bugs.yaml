@@ -3,7 +3,7 @@ title: "[ATIS] "
 description: Bugs or issues related to ATIS
 labels:
   - ATIS
-assignees: marud94, Atriusftw
+assignees: marud94
 body:
   - type: markdown
     attributes:
