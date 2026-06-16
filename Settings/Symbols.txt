@@ -6,10 +6,10 @@ Low airways:line:7302244:3.5:2:0:7
 Low airways:name:8896135:3.2:0:0:8
 High airways:line:7302244:3.5:2:0:7
 High airways:name:8896135:3.5:0:0:8
-Fixes:symbol:13158600:0.7:0:0:7
-Fixes:name:32768:3.5:0:0:2
-Sids:line:9783808:3.0:0:1:7
-Stars:line:683145:3.0:2:0:7
+Fixes:symbol:7762807:0.7:0:0:7
+Fixes:name:1074449:3.5:0:0:2
+Sids:line:7228952:3.0:0:1:7
+Stars:line:1075828:3.0:2:0:7
 ARTCC high boundary:line:7762807:3.0:0:0:7
 ARTCC boundary:line:7762807:1.5:2:0:7
 ARTCC low boundary:line:7762807:3.0:2:0:7
@@ -20,26 +20,26 @@ VORs:frequency:9868950:3.5:0:0:2
 NDBs:symbol:13158600:0.7:0:0:7
 NDBs:name:32768:3.5:0:0:2
 NDBs:frequency:9868950:3.5:0:0:0
-Runways:centerline:13158600:3.5:0:0:7
-Runways:extended centerline:13158600:3.5:0:0:7
-Runways:name:13158600:3.5:0:0:7
-Datablock:non concerned:8618883:3.5:0:0:7
+Runways:centerline:7762807:3.5:0:0:7
+Runways:extended centerline:7762807:3.5:0:0:7
+Runways:name:7762807:3.5:0:0:7
+Datablock:non concerned:6314848:3.5:0:0:7
 Datablock:notified:12369084:3.5:0:0:7
-Datablock:assumed:15658734:3.5:0:0:7
-Datablock:transfer to me initiated:59392:3.5:0:0:7
-Datablock:redundant:16368132:3.5:0:0:7
+Datablock:assumed:13750225:3.5:0:0:7
+Datablock:transfer to me initiated:439302:3.5:0:0:7
+Datablock:redundant:12748308:3.5:0:0:7
 Datablock:information:65535:3.5:0:0:7
 Datablock:even flight level:16777215:3.5:0:0:7
 Datablock:odd flight level:16777215:3.5:0:0:7
 Datablock:arrivals:16777215:3.5:0:0:7
 Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:21405:3.2:0:0:7
-Datablock:user 2:16368132:3.5:0:0:7
-Datablock:user 3:59392:3.2:0:0:7
+Datablock:user 2:12748308:3.5:0:0:7
+Datablock:user 3:439302:3.2:0:0:7
 Datablock:user 4:16777215:3.2:0:0:7
 Datablock:user 5:16777215:3.5:0:0:7
 Datablock:user 6:255:3.2:0:0:7
-Datablock:emergency:15658734:3.5:0:0:7
+Datablock:emergency:394449:3.5:0:0:7
 Datablock:ongoing requested by me:11830015:3.5:0:0:7
 Datablock:ongoing requested by other:11830015:3.5:0:0:7
 Datablock:ongoing accepted:14474460:3.5:0:0:7
@@ -62,11 +62,11 @@ Metar:normal:16776960:3.5:0:0:7
 Metar:modified:13408767:3.5:0:0:7
 Metar:timeout:16777215:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
-Other:distance line:434366:3.5:0:0:7
-Other:distance values:434366:4.0:0:0:7
-Other:distance annotation:434366:3.5:0:0:7
-Other:separation leader:14272712:3.5:0:3:7
-Other:separation leader2:16777215:3.5:0:1:7
+Other:distance line:59896:3.5:0:0:7
+Other:distance values:59896:4.0:0:0:7
+Other:distance annotation:59896:3.5:0:0:7
+Other:separation leader:16777215:3.5:2:1:7
+Other:separation leader2:16777215:3.5:2:1:7
 Other:find:16777215:3.5:0:2:7
 Other:valid airway:14643200:3.0:0:0:7
 Other:bad direction airway:1579232:3.5:0:0:7
