@@ -12,7 +12,7 @@
 	<readySetTsac mode="true" />
 	<Rates url="https://cdm.adbj.no/rate.txt" />
 	<Taxizones url="https://cdm.adbj.no/taxizones.txt" />
-	<Ctot url="https://cdm.adbj.no/ctot.txt" />
+	<Slots url="https://cdm.adbj.no/ctot.txt" />
 	<sidInterval url="" />
 	<DefaultTaxiTime minutes="8" />
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
@@ -29,4 +29,10 @@
 	<Server mode="true" />
 	<Su_Wait mode="false" />
 	<flashingMode tobtLastMin= "false" tsatFirstMin="true" tsatLastMin= "true"/>
+	<reqTobtPriority mode="true" />
+	<eventPriority mode="true" />
+	<autoSetTobtFromEvSlot mode="true" />
+	<remarksOptionCtot mode="false" />
+	<PrivateMessage text="[CDM MSG] PLEASE, MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. [END OF CDM MSG]" />
+	<loading text="...." />
 </CDM>
