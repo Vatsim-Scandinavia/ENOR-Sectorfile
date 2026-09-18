@@ -166,6 +166,6 @@ List_Outbound=*,2,1100,45
 [ENTO]
 Airport_Dep_Transfer_Dist=3
 Airport_Dep_Transfer_Height=2000
-Airport_Runway_End=36:N059.10.25.400:E010.15.32.110
-Airport_Runway_End=18:N059.11.56.210:E010.15.30.030
+Airport_Runway_End=35:N059.10.25.400:E010.15.32.110
+Airport_Runway_End=17:N059.11.56.210:E010.15.30.030
 List_Outbound=*,2,1100,45
