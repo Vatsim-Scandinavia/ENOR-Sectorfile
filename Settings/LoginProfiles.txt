@@ -57,7 +57,7 @@ PROFILE:ENOS_4_CTR:316:6
 ATIS2:Polaris Control - Sector 3+4
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
-PROFILE:ENOS_CTR:316:6
+PROFILE:ENOS_S_CTR:316:6
 ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
@@ -66,11 +66,15 @@ ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_7_CTR:316:6
-ATIS2:Polaris Control - Sector 7
+ATIS2:Polaris Control - Sector 7+1
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENOS_8_CTR:316:6
 ATIS2:Polaris Control - Sector 8
+ATIS3:Check where I cover at vats.im/ENOR
+ATIS4:Feedback welcome at vatsca.org/feedback
+PROFILE:ENOS_CTR:316:6
+ATIS2:Polaris Control
 ATIS3:Check where I cover at vats.im/ENOR
 ATIS4:Feedback welcome at vatsca.org/feedback
 PROFILE:ENCN_APP:150:5
