@@ -20,8 +20,8 @@
 	<eventModeMin time="5" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
-	<FlowRestrictions url="" />
-	<vdgsFileType type="3"/>
+	<customRestricted url="" />
+	<vdgsFileType type="0"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />
@@ -33,6 +33,12 @@
 	<eventPriority mode="true" />
 	<autoSetTobtFromEvSlot mode="true" />
 	<remarksOptionCtot mode="false" />
+	<disableTobtReqAfterAsrt mode="true" />
 	<PrivateMessage text="[CDM MSG] PLEASE, MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. [END OF CDM MSG]" />
 	<loading text="...." />
+	<nonCdmEarlyClearenceColor minutes="0" />
+	<AtfcmPrivateMessage
+		fls="[ATFCM MSG] OFF-BLOCK TIME EXPIRED - {CALLSIGN} ({EOBT} - {TOBT}). Please update your off-block time."
+        slot="[ATFCM MSG] SLOT ALLOCATION - {CALLSIGN} ({EOBT} - {TOBT}) CTOT:{CTOT} REGUL:{REGUL}. Please monitor for updates."
+	/>
 </CDM>
