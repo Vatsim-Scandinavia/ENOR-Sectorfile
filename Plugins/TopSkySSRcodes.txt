@@ -1,5 +1,5 @@
 //-------VATSIM SCANDINAVIA - POLARIS FIR - TOPSKY SSR CODES -------// 
-//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A Brønstad or Adrian Bjerke. -------//
+//-------For permission to reuse, redistribute, or modify for use in other sector files, contact Jakob A BrÃ¸nstad or Adrian Bjerke. -------//
 
 
 
@@ -10,7 +10,7 @@
 // EUR-E EP:EY:LB:LH:LK:LR:LU:LZ:UK:UMKK:UMMV
 // EUR-F UB:UD:UGGG:UL:ULMM:UR:US:UU:UW
 
-
+MODE_S_AIRPORTS_EXCLUDE:EN
 
 AREA:ENSV
 N063.15.00.000 E000.00.00.000
@@ -2295,7 +2295,7 @@ PRIORITY:2
 
 
 
-      //-----1600 Mil SØR START-----//
+      //-----1600 Mil SÃ˜R START-----//
 
 
 
@@ -2359,7 +2359,7 @@ PRIORITY:2
 
 
 
-      //-----1600 Mil SØR END-----//
+      //-----1600 Mil SÃ˜R END-----//
 
 
 
